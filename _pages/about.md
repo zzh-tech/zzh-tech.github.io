@@ -8,16 +8,23 @@ redirect_from:
   - /about.html
 ---
 
+---
 Hi, こんにちは, 你好 :-)
 
 I'm a 2nd year Ph.D. student at the Department of Computer Science, The University of Tokyo, supervised by [Imari Sato](https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en) and [Yinqiang Zheng](https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ).
 In 2020, I received my M.E. degree from the Graduate School of Engineering, The University of Tokyo.
 In 2018, I received my B.E. degree (Chu Kochen Honors) from the School of Mechanical Engineering, Zhejiang University. 
-My current research interests include computer vision, computational photography, human--computer interaction, and deep learning.
 
-I'm a JEM intern at Microsoft, mentored by [Han Hu](https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en), [Yuhui Yuan](https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ) and [Li Ji](https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ), starting from 2022.04.
+Now, I'm also a JEM intern at Microsoft, mentored by [Han Hu](https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en), [Yuhui Yuan](https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ) and [Li Ji](https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ), starting from 2022.04.
 Before that, I was a D-CORE intern at MSRA, mentored by [Steve Lin](https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ), [Zhirong Wu](https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ) and [Xiao Sun](https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ).
 From 2019.08 to 2020.08, I was a research intern at Image Research Lab, Huawei Tokyo Research Center, supervised by [Bo Zheng](https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ) and Ye Gao.
+
+My current research interests include:
+- Computational Photography
+- Human--Computer Interaction
+- Machine/Deep Learning
+
+---
 
 News
 ======
@@ -34,6 +41,11 @@ News
 - [2019.08] I become a research intern at Huawei Tokyo Research Center.
 - ......
 
+---
+
 CV
 ======
 Please see my current CV from [here](files/zhihangzhong_cv_202207.pdf).
+
+---
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=tt&d=XXbPPAPR_Tykk65fLeKabiB6-HTFXjsQRAiCOlmsK7w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
