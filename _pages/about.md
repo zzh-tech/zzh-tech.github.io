@@ -28,7 +28,7 @@ My current research interests include:
 
 News
 ======
-- [2022.07] Three papers are accepted by ECCV 2022!
+- [2022.07] Three papers (one Oral) are accepted by ECCV 2022!
 - [2022.04] I become a JEM intern at Microsoft.
 - [2022.03] One paper is accepted by CVPR 2022!
 - [2021.09] I become a research intern in the Visual Computing group at MSRA.
@@ -36,7 +36,7 @@ News
 - [2021.02] One paper is accepted by CVPR 2021!
 - [2020.11] I receive D-CORE award from MSRA!
 - [2020.09] I obtain my M.E. degree from UTokyo with an outstanding thesis award!
-- [2020.07] One paper is accepted by ECCV 2020!
+- [2020.07] One paper (Spotlight) is accepted by ECCV 2020!
 - [2019.12] One paper is accepted by IUI 2020.
 - [2019.08] I become a research intern at Huawei Tokyo Research Center.
 - ......
