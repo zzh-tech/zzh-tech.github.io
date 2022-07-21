@@ -43,6 +43,161 @@ News
 
 ---
 
+Publication
+======
+### Conference
+
+<head>
+    <style>
+    table,
+    th,
+    td {
+        border: 1px solid darkgray;
+        padding: 20px;
+    }
+    table#t01 {
+        width: 100%;
+        background-color: #f7ffff;
+    }
+    </style><title></title>
+</head>
+
+<table id="t01" style="width:100%">
+  <tr>
+    <td>
+      <strong>
+      Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance
+      </strong>
+      <br>
+      <strong>Zhihang Zhong</strong>, Xiao Sun, Zhirong Wu, Yinqiang Zheng, Stephen Lin, Imari Sato
+      <br>
+      <em>ECCV 2022</em>
+      <br>
+      <a href="https://github.com/zzh-tech/Animation-from-Blur">code</a>
+    </td>
+  </tr>
+</table>
+
+<table id="t01" style="width:100%">
+  <tr>
+    <td>
+      <strong>
+      Bringing Rolling Shutter Images Alive with Dual Reversed Distortion
+      </strong>
+      <br>
+      <strong>Zhihang Zhong</strong>, Mingdeng Cao, Xiao Sun, Zhirong Wu, Zhongyi Zhou, Yinqiang Zheng, Stephen Lin, Imari Sato
+      <br>
+      <em style="color: red">ECCV 2022, Oral</em>
+      <br>
+      <a href="https://arxiv.org/abs/2203.06451">arXiv</a> / 
+      <a href="https://github.com/zzh-tech/Dual-Reversed-RS">code</a>
+    </td>
+  </tr>  
+</table>
+
+<table id="t01" style="width:100%">
+  <tr>
+    <td>
+      <strong>
+      Efficient Video Deblurring Guided by Motion Magnitude
+      </strong>
+      <br>
+      Yusheng Wang, Yunfan Lu, Ye Gao, Lin Wang, <strong>Zhihang Zhong</strong>, Yinqiang Zheng, Atsushi Yamashita
+      <br>
+      <em>ECCV 2022</em>
+      <br>
+      <a href="https://github.com/sollynoay/MMP-RNN">code</a>
+    </td>
+  </tr>  
+</table>
+
+<table id="t01" style="width:100%">
+  <tr>
+    <td>
+      <strong>
+      Learning Adaptive Warping for Real-World Rolling Shutter Correction
+      </strong>
+      <br>
+      Mingdeng Cao, <strong>Zhihang Zhong</strong>, Jiahao Wang, Yinqiang Zheng, Yujiu Yang
+      <br>
+      <em>CVPR 2022</em>
+      <br>
+      <a href="https://arxiv.org/abs/2204.13886">arXiv</a> / 
+      <a href="https://github.com/ljzycmd/BSRSC">code</a>
+    </td>
+  </tr>  
+</table>
+
+<table id="t01" style="width:100%">
+  <tr>
+    <td>
+      <strong>
+      Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes
+      </strong>
+      <br>
+      <strong>Zhihang Zhong</strong>, Yinqiang Zheng, Imari Sato
+      <br>
+      <em>CVPR 2021</em>
+      <br>
+      <a href="https://arxiv.org/abs/2104.01601">arXiv</a> / 
+      <a href="https://github.com/zzh-tech/RSCD">code</a>
+    </td>
+  </tr>  
+</table>
+
+<table id="t01" style="width:100%">
+  <tr>
+    <td>
+      <strong>
+      Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring
+      </strong>
+      <br>
+      <strong>Zhihang Zhong</strong>, Ye Gao, Yinqiang Zheng, Bo Zheng
+      <br>
+      <em style="color: red">ECCV 2020, Spotlight</em>
+      <br>
+      <a href="https://arxiv.org/abs/2106.16028">arXiv</a> / 
+      <a href="https://github.com/zzh-tech/ESTRNN">code</a>
+    </td>
+  </tr>  
+</table>
+
+<table id="t01" style="width:100%">
+  <tr>
+    <td>
+      <strong>
+      Multi-attention deep recurrent neural network for nursing action evaluation using wearable sensor
+      </strong>
+      <br>
+      <strong>Zhihang Zhong</strong>, Chingszu Lin, Taiki Ogata, Jun Ota
+      <br>
+      <em>IUI 2020</em>
+      <br>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3377325.3377530">paper</a>
+    </td>
+  </tr>  
+</table>
+
+### Journal
+<table id="t01" style="width:100%">
+  <tr onmouseout="porshadmanip_stop()" onmouseover="porshadmanip_start()">
+    <td>
+      <strong>
+      Multistream Temporal Convolutional Network for Correct/Incorrect Patient Transfer Action Detection Using Body Sensor Network
+      </strong>
+      <br>
+      <strong>Zhihang Zhong</strong>, Chingszu Lin, Masako Kanai-Pak, Jukai Maeda, Yasuko Kitajima, Mitsuhiro Nakamura, Noriaki Kuwahara, Taiki Ogata, Jun Ota
+      <br>
+      <em>IEEE Internet of Things Journal, 2021</em>
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/9415629">paper</a> / 
+      <a href="https://github.com/zzh-tech/Continuous-Action-Detection">code</a>
+    </td>
+  </tr>  
+</table>
+
+---
+
 CV
 ======
 Please see my current CV from [here](files/zhihangzhong_cv_202207.pdf).
