@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Zhihang Zhong"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zhihang Zhong"
   avatar           : "zhong.jpeg"
-  bio              : "2nd year Ph.D. student at UTokyo"
-  location         : "Hangzhou, China"
+  bio              : "3rd year Ph.D. student at UTokyo"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_4d1GUcAAAAJ&hl=en"
