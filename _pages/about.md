@@ -46,14 +46,14 @@ Publication
 <table style="width:100%;border:0px;border-spacing:0px;margin-right:auto;margin-left:auto;">
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle;text-align: center">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
       <img src="images/animation-from-blur.gif" width="130">
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
-        <papertitle>Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance</papertitle>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance</b>
       <br>
       <strong>Zhihang Zhong</strong>,
-      Xiao Sun,
+      Xiao Sun, 
       Zhirong Wu,
       Yinqiang Zheng,
       Stephen Lin,
@@ -61,17 +61,18 @@ Publication
       <br>
       <em>ECCV</em>, 2022
       <br>
+      <a href="https://zzh-tech.github.io/Animation-from-Blur/">website</a> /
       <a href="https://arxiv.org/abs/2207.10123">arXiv</a> / 
       <a href="https://github.com/zzh-tech/Animation-from-Blur">code</a>
     </td>
   </tr> 
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle;text-align: center">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
         <img src='images/dual-reversed-rs.gif' width="130">
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
-        <papertitle>Bringing Rolling Shutter Images Alive with Dual Reversed Distortion</papertitle>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Bringing Rolling Shutter Images Alive with Dual Reversed Distortion</b>
       <br>
       <strong>Zhihang Zhong</strong>,
        Mingdeng Cao,
@@ -84,17 +85,18 @@ Publication
       <br>
       <em>ECCV</em>, 2022, <em style="color: red">Oral (top 2.7%)</em>
       <br>
+      <a href="https://zzh-tech.github.io/Dual-Reversed-RS/">website</a> /
       <a href="https://arxiv.org/abs/2203.06451">arXiv</a> / 
       <a href="https://github.com/zzh-tech/Dual-Reversed-RS">code</a>
     </td>
   </tr> 
     
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle;text-align: center">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
         <img src='images/magnitude_prior.png' width="200">
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
-        <papertitle>Efficient Video Deblurring Guided by Motion Magnitude</papertitle>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Efficient Video Deblurring Guided by Motion Magnitude</b>
       <br>
       Yusheng Wang, 
       Yunfan Lu, 
@@ -112,11 +114,11 @@ Publication
   </tr>  
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle;text-align: center">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
         <img src='images/blur_formation.png' width="160">
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
-        <papertitle>Towards Real-World Video Deblurring by Exploring Blur Formation Process</papertitle>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Towards Real-World Video Deblurring by Exploring Blur Formation Process</b>
       <br>
       Mingdeng Cao,
       <strong>Zhihang Zhong</strong>, 
@@ -135,11 +137,11 @@ Publication
   </tr>
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle;text-align: center">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
         <img src='images/adaptive_warping.png' width="180">
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
-        <papertitle>Learning Adaptive Warping for Real-World Rolling Shutter Correction</papertitle>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Learning Adaptive Warping for Real-World Rolling Shutter Correction</b>
       <br>
       Mingdeng Cao, 
       <strong>Zhihang Zhong</strong>, 
@@ -155,11 +157,11 @@ Publication
   </tr>  
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:25%;vertical-align:middle;text-align: center">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
         <img src='images/beam_splitter_a.png' width="150">
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
-        <papertitle>Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes</papertitle>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes</b>
       <br>
       <strong>Zhihang Zhong</strong>,
       Yinqiang Zheng, 
@@ -177,7 +179,7 @@ Publication
         <img src='images/2020_ECCV_deblur.png' width="220">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
-        <papertitle>Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring</papertitle>
+        <b>Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring</b>
       <br>
       <strong>Zhihang Zhong</strong>,
       Ye Gao,
@@ -196,7 +198,7 @@ Publication
         <img src='images/layer.png' width="220">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
-        <papertitle>Multi-attention deep recurrent neural network for nursing action evaluation using wearable sensor</papertitle>
+        <b>Multi-attention deep recurrent neural network for nursing action evaluation using wearable sensor</b>
       <br>
       <strong>Zhihang Zhong</strong>,
       Chingszu Lin,
@@ -219,7 +221,7 @@ Publication
         <img src='images/zhong10-3075477-large.jpg' width="140">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
-        <papertitle>Multistream Temporal Convolutional Network for Correct/Incorrect Patient Transfer Action Detection Using Body Sensor Network</papertitle>
+        <b>Multistream Temporal Convolutional Network for Correct/Incorrect Patient Transfer Action Detection Using Body Sensor Network</b>
       <br>
       <strong>Zhihang Zhong</strong>,
       Chingszu Lin,
