@@ -15,7 +15,7 @@ I'm a 3rd year Ph.D. student at the Department of Computer Science, The Universi
 In 2020, I received my M.E. degree from the Graduate School of Engineering, The University of Tokyo.
 In 2018, I received my B.E. degree (Chu Kochen Honors) from the School of Mechanical Engineering, Zhejiang University. 
 
-Now, I'm also a JEM intern at Microsoft, mentored by [Han Hu](https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en), [Yuhui Yuan](https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ) and [Li Ji](https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ).
+Now, I'm also a JEM intern at Microsoft, mentored by [Han Hu](https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en), [Yuhui Yuan](https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ) and [Ji Li](https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ).
 Before that, I was a D-CORE intern at MSRA, mentored by [Steve Lin](https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ), [Zhirong Wu](https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ) and [Xiao Sun](https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ).
 From 2019.08 to 2020.08, I was a research intern at Image Research Lab, Huawei Tokyo Research Center, supervised by [Bo Zheng](https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ) and Ye Gao.
 
