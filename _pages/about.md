@@ -19,7 +19,7 @@ Now, I'm also a JEM intern at Microsoft, mentored by [Han Hu](https://scholar.go
 Before that, I was a D-CORE intern at MSRA, mentored by [Steve Lin](https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ), [Zhirong Wu](https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ) and [Xiao Sun](https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ).
 From 2019.08 to 2020.08, I was a research intern at Image Research Lab, Huawei Tokyo Research Center, supervised by [Bo Zheng](https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ) and Ye Gao.
 
-My current research interests include computational photography, machine/deep learning, human-computer interaction.
+My current research interests include computational photography, machine/deep learning, and human-computer interaction.
 
 ---
 
@@ -216,6 +216,24 @@ Publication
 ### Journal
 <table style="width:100%;border:0px;border-spacing:0px;margin-right:auto;margin-left:auto;">
 <tbody>
+    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
+        <img src='images/bsd.png' width="200">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient Recurrent Neural Network</b>
+      <br>
+      <strong>Zhihang Zhong</strong>,
+      Ye Gao,
+      Yinqiang Zheng,
+      Bo Zheng,
+      Imari Sato
+      <br>
+      <em>International Journal of Computer Vision (IJCV)</em>, 2022  
+      <br>
+      <a href="https://github.com/zzh-tech/ESTRNN">code</a>
+    </td>
+  </tr>  
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
         <img src='images/zhong10-3075477-large.jpg' width="140">
@@ -233,7 +251,7 @@ Publication
       Taiki Ogata,
       Jun Ota
       <br>
-      <em>IoTJ</em>, 2021  
+      <em>IEEE Internet of Things Journal (IoTJ)</em>, 2021  
       <br>
       <a href="https://ieeexplore.ieee.org/document/9415629">paper</a> / 
       <a href="https://github.com/zzh-tech/Continuous-Action-Detection">code</a>  
