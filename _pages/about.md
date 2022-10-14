@@ -129,7 +129,7 @@ Publication
       Yujiu Yang,
       Yinqiang Zheng
       <br>
-      <em>ECCV AIM Workshp</em>, 2022
+      <em>ECCVW (AIM Workshp)</em>, 2022
       <br>
       <a href="https://arxiv.org/abs/2208.13184">arXiv</a> / 
       <a href="https://github.com/ljzycmd/RAWBlur">code</a>
