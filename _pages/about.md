@@ -61,7 +61,7 @@ Publication
       <br>
       <em>ECCV</em>, 2022
       <br>
-      <a href="https://zzh-tech.github.io/Animation-from-Blur/">website</a> /
+      <a href="https://zzh-tech.github.io/Animation-from-Blur/">project page</a> /
       <a href="https://arxiv.org/abs/2207.10123">arXiv</a> / 
       <a href="https://github.com/zzh-tech/Animation-from-Blur">code</a>
     </td>
@@ -85,7 +85,7 @@ Publication
       <br>
       <em>ECCV</em>, 2022, <em style="color: red">Oral (top 2.7%)</em>
       <br>
-      <a href="https://zzh-tech.github.io/Dual-Reversed-RS/">website</a> /
+      <a href="https://zzh-tech.github.io/Dual-Reversed-RS/">project page</a> /
       <a href="https://arxiv.org/abs/2203.06451">arXiv</a> / 
       <a href="https://github.com/zzh-tech/Dual-Reversed-RS">code</a>
     </td>
@@ -231,6 +231,7 @@ Publication
       <br>
       <em>International Journal of Computer Vision (IJCV)</em>, 2022  
       <br>
+      <a href="https://arxiv.org/abs/2106.16028">arXiv</a> / 
       <a href="https://github.com/zzh-tech/ESTRNN">code</a>
     </td>
   </tr>  
