@@ -11,13 +11,13 @@ redirect_from:
 
 Hi, こんにちは, 你好 :-)
 
-I'm a 3rd year Ph.D. student at the Department of Computer Science, The University of Tokyo, supervised by [Imari Sato](https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en) and [Yinqiang Zheng](https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ).
+I'm a 3rd year Ph.D. student at the Department of Computer Science, The University of Tokyo, supervised by <a href="https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en" target="_blank">Imari Sato</a> and <a href="https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ" target="_blank">Yinqiang Zheng</a>.
 In 2020, I received my M.E. degree from the Graduate School of Engineering, The University of Tokyo.
 In 2018, I received my B.E. degree (Chu Kochen Honors) from the School of Mechanical Engineering, Zhejiang University. 
 
-Now, I'm also a JEM intern at Microsoft, mentored by [Han Hu](https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en), [Yuhui Yuan](https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ) and [Ji Li](https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ).
-Before that, I was a D-CORE intern at MSRA, mentored by [Steve Lin](https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ), [Zhirong Wu](https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ) and [Xiao Sun](https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ).
-From 2019.08 to 2020.08, I was a research intern at Image Research Lab, Huawei Tokyo Research Center, supervised by [Bo Zheng](https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ) and Ye Gao.
+Now, I'm also a JEM intern at Microsoft, mentored by <a href="https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en" target="_blank">Han Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ" target="_blank">Yuhui Yuan</a> and <a href="https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ" target="_blank">Ji Li</a>.
+Before that, I was a D-CORE intern at MSRA, mentored by <a href="https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ" target="_blank">Steve Lin</a>, <a href="https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ" target="_blank">Zhirong Wu</a> and <a href="https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ" target="_blank">Xiao Sun</a>.
+From 2019.08 to 2020.08, I was a research intern at Image Research Lab, Huawei Tokyo Research Center, supervised by <a href="https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ" target="_blank">Bo Zheng</a> and Ye Gao.
 
 My current research interests include computational photography, machine/deep learning, and human-computer interaction.
 
@@ -61,9 +61,9 @@ Publication
       <br>
       <em>ECCV</em>, 2022
       <br>
-      <a href="https://zzh-tech.github.io/Animation-from-Blur/">project page</a> /
-      <a href="https://arxiv.org/abs/2207.10123">arXiv</a> / 
-      <a href="https://github.com/zzh-tech/Animation-from-Blur">code</a>
+      <a href="https://zzh-tech.github.io/Animation-from-Blur/" target="_blank">project page</a> /
+      <a href="https://arxiv.org/abs/2207.10123" target="_blank">arXiv</a> / 
+      <a href="https://github.com/zzh-tech/Animation-from-Blur" target="_blank">code</a>
     </td>
   </tr> 
 
@@ -85,9 +85,9 @@ Publication
       <br>
       <em>ECCV</em>, 2022, <em style="color: red">Oral (top 2.7%)</em>
       <br>
-      <a href="https://zzh-tech.github.io/Dual-Reversed-RS/">project page</a> /
-      <a href="https://arxiv.org/abs/2203.06451">arXiv</a> / 
-      <a href="https://github.com/zzh-tech/Dual-Reversed-RS">code</a>
+      <a href="https://zzh-tech.github.io/Dual-Reversed-RS/" target="_blank">project page</a> /
+      <a href="https://arxiv.org/abs/2203.06451" target="_blank">arXiv</a> / 
+      <a href="https://github.com/zzh-tech/Dual-Reversed-RS" target="_blank">code</a>
     </td>
   </tr> 
     
@@ -108,8 +108,8 @@ Publication
       <br>
       <em>ECCV</em>, 2022
       <br>
-      <a href="https://arxiv.org/abs/2207.13374">arXiv</a> / 
-      <a href="https://github.com/sollynoay/MMP-RNN">code</a>
+      <a href="https://arxiv.org/abs/2207.13374" target="_blank">arXiv</a> / 
+      <a href="https://github.com/sollynoay/MMP-RNN" target="_blank">code</a>
     </td>
   </tr>  
 
@@ -131,8 +131,8 @@ Publication
       <br>
       <em>ECCVW (AIM Workshp)</em>, 2022
       <br>
-      <a href="https://arxiv.org/abs/2208.13184">arXiv</a> / 
-      <a href="https://github.com/ljzycmd/RAWBlur">code</a>
+      <a href="https://arxiv.org/abs/2208.13184" target="_blank">arXiv</a> / 
+      <a href="https://github.com/ljzycmd/RAWBlur" target="_blank">code</a>
     </td>
   </tr>
 
@@ -151,8 +151,8 @@ Publication
       <br>
       <em>CVPR</em>, 2022
       <br>
-      <a href="https://arxiv.org/abs/2204.13886">arXiv</a> / 
-      <a href="https://github.com/ljzycmd/BSRSC">code</a>
+      <a href="https://arxiv.org/abs/2204.13886" target="_blank">arXiv</a> / 
+      <a href="https://github.com/ljzycmd/BSRSC" target="_blank">code</a>
     </td>
   </tr>  
 
@@ -169,8 +169,8 @@ Publication
       <br>
       <em>CVPR</em>, 2021
       <br>
-      <a href="https://arxiv.org/abs/2104.01601">arXiv</a> / 
-      <a href="https://github.com/zzh-tech/RSCD">code</a>
+      <a href="https://arxiv.org/abs/2104.01601" target="_blank">arXiv</a> / 
+      <a href="https://github.com/zzh-tech/RSCD" target="_blank">code</a>
     </td>
   </tr>  
 
@@ -188,8 +188,8 @@ Publication
       <br>
       <em>ECCV</em>, 2020, <em style="color: red">Spotlight (top 5.0%)</em>
       <br>
-      <a href="https://arxiv.org/abs/2106.16028">arXiv</a> / 
-      <a href="https://github.com/zzh-tech/ESTRNN">code</a>
+      <a href="https://arxiv.org/abs/2106.16028" target="_blank">arXiv</a> / 
+      <a href="https://github.com/zzh-tech/ESTRNN" target="_blank">code</a>
     </td>
   </tr>  
 
@@ -207,7 +207,7 @@ Publication
       <br>
       <em>IUI</em>, 2020
       <br>
-      <a href="https://dl.acm.org/doi/abs/10.1145/3377325.3377530">paper</a>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3377325.3377530" target="_blank">paper</a>
     </td>
   </tr>  
 </tbody>
@@ -231,8 +231,8 @@ Publication
       <br>
       <em>International Journal of Computer Vision (IJCV)</em>, 2022  
       <br>
-      <a href="https://arxiv.org/abs/2106.16028">arXiv</a> / 
-      <a href="https://github.com/zzh-tech/ESTRNN">code</a>
+      <a href="https://arxiv.org/abs/2106.16028" target="_blank">arXiv</a> / 
+      <a href="https://github.com/zzh-tech/ESTRNN" target="_blank">code</a>
     </td>
   </tr>  
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
@@ -254,8 +254,8 @@ Publication
       <br>
       <em>IEEE Internet of Things Journal (IoTJ)</em>, 2021  
       <br>
-      <a href="https://ieeexplore.ieee.org/document/9415629">paper</a> / 
-      <a href="https://github.com/zzh-tech/Continuous-Action-Detection">code</a>  
+      <a href="https://ieeexplore.ieee.org/document/9415629" target="_blank">paper</a> / 
+      <a href="https://github.com/zzh-tech/Continuous-Action-Detection" target="_blank">code</a>  
     </td>
   </tr>  
 </tbody>
