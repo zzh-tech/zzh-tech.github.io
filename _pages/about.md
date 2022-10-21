@@ -1,4 +1,5 @@
 ---
+title: Zhihang Zhong
 permalink: /
 excerpt: "About"
 author_profile: true

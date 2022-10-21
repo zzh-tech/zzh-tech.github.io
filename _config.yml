@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhihang Zhong"
 description              : &description "personal description"
