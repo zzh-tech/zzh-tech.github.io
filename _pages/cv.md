@@ -1,5 +1,4 @@
 ---
-title: Zhihang Zhong
 layout: archive
 permalink: /cv/
 author_profile: true

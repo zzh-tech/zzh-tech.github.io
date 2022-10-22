@@ -1,5 +1,4 @@
 ---
-title: Zhihang Zhong
 permalink: /
 excerpt: "About"
 author_profile: true
@@ -14,7 +13,8 @@ Hi, こんにちは, 你好 :-)
 
 I'm a 3rd year Ph.D. student at the Department of Computer Science, The University of Tokyo, supervised by <a href="https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en" target="_blank">Imari Sato</a> and <a href="https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ" target="_blank">Yinqiang Zheng</a>.
 In 2020, I received my M.E. degree from the Graduate School of Engineering, The University of Tokyo.
-In 2018, I received my B.E. degree (Chu Kochen Honors) from the School of Mechanical Engineering, Zhejiang University. 
+In 2018, I received my B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University. 
+
 
 Now, I'm also a JEM intern at Microsoft, mentored by <a href="https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en" target="_blank">Han Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ" target="_blank">Yuhui Yuan</a> and <a href="https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ" target="_blank">Ji Li</a>.
 Before that, I was a D-CORE intern at MSRA, mentored by <a href="https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ" target="_blank">Steve Lin</a>, <a href="https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ" target="_blank">Zhirong Wu</a> and <a href="https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ" target="_blank">Xiao Sun</a>.
