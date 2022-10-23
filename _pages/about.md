@@ -112,29 +112,6 @@ Publication
       <a href="https://arxiv.org/abs/2207.13374" target="_blank">arXiv</a> / 
       <a href="https://github.com/sollynoay/MMP-RNN" target="_blank">code</a>
     </td>
-  </tr>  
-
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/blur_formation.png' width="160">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-        <b>Towards Real-World Video Deblurring by Exploring Blur Formation Process</b>
-      <br>
-      Mingdeng Cao,
-      <strong>Zhihang Zhong</strong>, 
-      Yanbo Fan,
-      Jiahao Wang,
-      Yong Zhang,
-      Jue Wang,
-      Yujiu Yang,
-      Yinqiang Zheng
-      <br>
-      <em>ECCVW (AIM Workshp)</em>, 2022
-      <br>
-      <a href="https://arxiv.org/abs/2208.13184" target="_blank">arXiv</a> / 
-      <a href="https://github.com/ljzycmd/RAWBlur" target="_blank">code</a>
-    </td>
   </tr>
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
