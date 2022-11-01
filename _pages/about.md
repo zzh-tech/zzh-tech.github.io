@@ -11,14 +11,15 @@ redirect_from:
 
 Hi, こんにちは, 你好 :-)
 
-I'm a 3rd year Ph.D. student at the Department of Computer Science, The University of Tokyo, supervised by <a href="https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en" target="_blank">Imari Sato</a> and <a href="https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ" target="_blank">Yinqiang Zheng</a>.
-In 2020, I received my M.E. degree from the Graduate School of Engineering, The University of Tokyo.
+I'm a 3rd year Ph.D. student in the Department of Computer Science at the University of Tokyo (UTokyo) supervised by <a href="https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en" target="_blank">Prof. Imari Sato</a>. 
+Also, I work closely with <a href="https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ" target="_blank">Prof. Yinqiang Zheng</a> and <a href="https://sites.google.com/ut-vision.org/ysato/" target="_blank">Prof. Yoichi Sato</a>.
+In 2020, I received my M.E. degree from UTokyo under the supervision of <a href="https://otalab.race.t.u-tokyo.ac.jp/en/jun-ota/" target="_blank">Prof. Ota Jun</a>.
 In 2018, I received my B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University. 
 
-
-Now, I'm also a JEM intern at Microsoft, mentored by <a href="https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en" target="_blank">Han Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ" target="_blank">Yuhui Yuan</a> and <a href="https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ" target="_blank">Ji Li</a>.
-Before that, I was a D-CORE intern at MSRA, mentored by <a href="https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ" target="_blank">Steve Lin</a>, <a href="https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ" target="_blank">Zhirong Wu</a> and <a href="https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ" target="_blank">Xiao Sun</a>.
-From 2019.08 to 2020.08, I was a research intern at Image Research Lab, Huawei Tokyo Research Center, supervised by <a href="https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ" target="_blank">Bo Zheng</a> and Ye Gao.
+Below are my current and previous internship experiences:  
+- 2022.04 - present: JEM intern at Microsoft, mentored by <a href="https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en" target="_blank">Han Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ" target="_blank">Yuhui Yuan</a> and <a href="https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ" target="_blank">Ji Li</a>
+- 2021.09 - 2022.03: D-CORE intern at Microsoft Research Asia (MSRA), mentored by <a href="https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ" target="_blank">Stephen Lin</a>, <a href="https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ" target="_blank">Zhirong Wu</a> and <a href="https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ" target="_blank">Xiao Sun</a>
+- 2019.08 - 2020.08: Research intern at the Image Research Lab, Huawei Tokyo Research Center, mentored by <a href="https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ" target="_blank">Bo Zheng</a> and Ye Gao
 
 My current research interests include computational photography, machine/deep learning, and human-computer interaction.
 
@@ -63,6 +64,7 @@ Publication
       <em>ECCV</em>, 2022
       <br>
       <a href="https://zzh-tech.github.io/Animation-from-Blur/" target="_blank">project page</a> /
+      <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7210_ECCV_2022_paper.php" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2207.10123" target="_blank">arXiv</a> / 
       <a href="https://github.com/zzh-tech/Animation-from-Blur" target="_blank">code</a>
     </td>
@@ -87,6 +89,7 @@ Publication
       <em>ECCV</em>, 2022, <em style="color: red">Oral (top 2.7%)</em>
       <br>
       <a href="https://zzh-tech.github.io/Dual-Reversed-RS/" target="_blank">project page</a> /
+      <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4547_ECCV_2022_paper.php" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2203.06451" target="_blank">arXiv</a> / 
       <a href="https://github.com/zzh-tech/Dual-Reversed-RS" target="_blank">code</a>
     </td>
@@ -109,6 +112,7 @@ Publication
       <br>
       <em>ECCV</em>, 2022
       <br>
+      <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5697_ECCV_2022_paper.php" target="_blank">paper</a> / 
       <a href="https://arxiv.org/abs/2207.13374" target="_blank">arXiv</a> / 
       <a href="https://github.com/sollynoay/MMP-RNN" target="_blank">code</a>
     </td>
@@ -129,6 +133,7 @@ Publication
       <br>
       <em>CVPR</em>, 2022
       <br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Cao_Learning_Adaptive_Warping_for_Real-World_Rolling_Shutter_Correction_CVPR_2022_paper.html" target="_blank">paper</a> / 
       <a href="https://arxiv.org/abs/2204.13886" target="_blank">arXiv</a> / 
       <a href="https://github.com/ljzycmd/BSRSC" target="_blank">code</a>
     </td>
@@ -147,6 +152,7 @@ Publication
       <br>
       <em>CVPR</em>, 2021
       <br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Zhong_Towards_Rolling_Shutter_Correction_and_Deblurring_in_Dynamic_Scenes_CVPR_2021_paper.html" target="_blank">paper</a> / 
       <a href="https://arxiv.org/abs/2104.01601" target="_blank">arXiv</a> / 
       <a href="https://github.com/zzh-tech/RSCD" target="_blank">code</a>
     </td>
@@ -166,6 +172,7 @@ Publication
       <br>
       <em>ECCV</em>, 2020, <em style="color: red">Spotlight (top 5.0%)</em>
       <br>
+      <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5116_ECCV_2020_paper.php" target="_blank">paper</a> / 
       <a href="https://arxiv.org/abs/2106.16028" target="_blank">arXiv</a> / 
       <a href="https://github.com/zzh-tech/ESTRNN" target="_blank">code</a>
     </td>
@@ -209,6 +216,7 @@ Publication
       <br>
       <em>International Journal of Computer Vision (IJCV)</em>, 2022  
       <br>
+      <a href="https://link.springer.com/article/10.1007/s11263-022-01705-6" target="_blank">paper</a> / 
       <a href="https://arxiv.org/abs/2106.16028" target="_blank">arXiv</a> / 
       <a href="https://github.com/zzh-tech/ESTRNN" target="_blank">code</a>
     </td>
