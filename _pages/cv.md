@@ -8,5 +8,5 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/zhihangzhong_cv_202210.pdf" width="100%" height="900px" frameborder="0" scrolling="yes"></iframe>
+<iframe src="/files/zhihangzhong_cv.pdf" width="100%" height="900px" frameborder="0" scrolling="yes"></iframe>
 
