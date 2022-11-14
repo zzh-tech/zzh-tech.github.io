@@ -11,17 +11,17 @@ redirect_from:
 
 Hi, こんにちは, 你好 :-)
 
-I'm a 3rd year Ph.D. student in the Department of Computer Science at the University of Tokyo (UTokyo) supervised by <a href="https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en" target="_blank">Prof. Imari Sato</a>. 
-Also, I work closely with <a href="https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ" target="_blank">Prof. Yinqiang Zheng</a> and <a href="https://sites.google.com/ut-vision.org/ysato/" target="_blank">Prof. Yoichi Sato</a>.
-In 2020, I received my M.E. degree from UTokyo under the supervision of <a href="https://otalab.race.t.u-tokyo.ac.jp/en/jun-ota/" target="_blank">Prof. Ota Jun</a>.
-In 2018, I received my B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University. 
+Zhihang Zhong is a 3rd year Ph.D. student in the Department of Computer Science, the University of Tokyo (UTokyo).
+His supervisor is <a href="https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en" target="_blank">Prof. Imari Sato</a>, and he works closely with <a href="https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ" target="_blank">Prof. Yinqiang Zheng</a> and <a href="https://sites.google.com/ut-vision.org/ysato/" target="_blank">Prof. Yoichi Sato</a>.
+In 2020, he received his M.E. degree from UTokyo under the supervision of <a href="https://otalab.race.t.u-tokyo.ac.jp/en/jun-ota/" target="_blank">Prof. Ota Jun</a>.
+In 2018, he received his B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University. 
 
-Below are my current and previous internship experiences:  
+Below are his current and previous internship experiences:  
 - 2022.04 - present: JEM intern at Microsoft, mentored by <a href="https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en" target="_blank">Han Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ" target="_blank">Yuhui Yuan</a> and <a href="https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ" target="_blank">Ji Li</a>
 - 2021.09 - 2022.03: D-CORE intern at Microsoft Research Asia (MSRA), mentored by <a href="https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ" target="_blank">Stephen Lin</a>, <a href="https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ" target="_blank">Zhirong Wu</a> and <a href="https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ" target="_blank">Xiao Sun</a>
 - 2019.08 - 2020.08: Research intern at the Image Research Lab, Huawei Tokyo Research Center, mentored by <a href="https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ" target="_blank">Bo Zheng</a> and Ye Gao
 
-My current research interests include computational photography, machine/deep learning, and human-computer interaction.
+Zhihang's current research interests include computational photography, machine/deep learning, and human-computer interaction.
 
 ---
 
@@ -31,9 +31,8 @@ News
 <iframe src="_pages/news.html" marginwidth="30" height="260" width="700" scrolling="yes" frameborder="0"></iframe>
 ---
 
-Publication
-======
-### Conference
+# Publications
+## Conferences
 
 <head>
     <style>
@@ -198,7 +197,7 @@ Publication
 </tbody>
 </table>
 
-### Journal
+## Journals
 <table style="width:100%;border:0px;border-spacing:0px;margin-right:auto;margin-left:auto;">
 <tbody>
     <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
