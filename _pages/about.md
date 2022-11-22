@@ -32,8 +32,6 @@ News
 ---
 
 # Publications
-## Conferences
-
 <head>
     <style>
     table,
@@ -43,6 +41,8 @@ News
     }
     </style><title></title>
 </head>
+
+## Conferences
 
 <table style="width:100%;border:0px;border-spacing:0px;margin-right:auto;margin-left:auto;">
 <tbody>
@@ -246,6 +246,52 @@ News
 </tbody>
 </table>
 
+## Preprints
+<table style="width:100%;border:0px;border-spacing:0px;margin-right:auto;margin-left:auto;">
+<tbody>
+    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
+        <img src='images/clipcrop.png' width="200">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>ClipCrop: Conditioned Cropping Driven by Vision-Language Model</b>
+      <br>
+      <strong>Zhihang Zhong</strong>,
+      Mingxi Cheng,
+      Zhirong Wu,
+      Yuhui Yuan,
+      Yinqiang Zheng,
+      Ji Li,
+      Han Hu,
+      Stephen Lin,
+      Yoichi Sato,
+      Imari Sato
+      <br>
+      <em>Under Review</em>, 2023
+      <br>
+      <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a>
+    </td>
+  </tr>  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
+        <img src='images/bit++.gif' width="180">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Blur Interpolation Transformer for Real-World Motion from Blur</b>
+      <br>
+      <strong>Zhihang Zhong</strong>,
+      Mingdeng Cao,
+      Xiang Ji,
+      Yinqiang Zheng,
+      Imari Sato
+      <br>
+      <em>Under Review</em>, 2023
+      <br>
+      <a href="https://arxiv.org/abs/2211.11423" target="_blank">arXiv</a>  
+    </td>
+  </tr>  
+</tbody>
+</table>
 
 ---
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=tt&d=XXbPPAPR_Tykk65fLeKabiB6-HTFXjsQRAiCOlmsK7w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
