@@ -11,7 +11,9 @@ redirect_from:
 
 Hi, こんにちは, 你好 :-)
 
-Zhihang Zhong is a 3rd year Ph.D. student in the Department of Computer Science, the University of Tokyo (UTokyo).
+> Zhihang Zhong is actively looking for job opportunities!
+
+He is a 3rd year Ph.D. student in the Department of Computer Science, the University of Tokyo (UTokyo).
 His supervisor is <a href="https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en" target="_blank">Prof. Imari Sato</a>, and he works closely with <a href="https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ" target="_blank">Prof. Yinqiang Zheng</a> and <a href="https://sites.google.com/ut-vision.org/ysato/" target="_blank">Prof. Yoichi Sato</a>.
 In 2020, he received his M.E. degree from UTokyo under the supervision of <a href="https://otalab.race.t.u-tokyo.ac.jp/en/jun-ota/" target="_blank">Prof. Ota Jun</a>.
 In 2018, he received his B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University. 
