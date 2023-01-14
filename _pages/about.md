@@ -224,7 +224,7 @@ News
   </tr>  
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/zhong10-3075477-large.jpg' width="140">
+        <img src='images/zhong10-3075477-large.jpg' width="130">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
         <b>Multistream Temporal Convolutional Network for Correct/Incorrect Patient Transfer Action Detection Using Body Sensor Network</b>
@@ -245,6 +245,28 @@ News
       <a href="https://github.com/zzh-tech/Continuous-Action-Detection" target="_blank">code</a>  
     </td>
   </tr>  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
+        <img src='images/patient_robot.png' width="240">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Development and validation of robot patient equipped with an inertial measurement unit and angular position sensors to evaluate transfer skills of nurses</b>
+      <br>
+      Chingszu Lin,
+      Taiki Ogata,
+      <strong>Zhihang Zhong</strong>,
+      Masako Kanai-Pak,
+      Jukai Maeda,
+      Yasuko Kitajima,
+      Mitsuhiro Nakamura,
+      Noriaki Kuwahara,
+      Jun Ota
+      <br>
+      <em>International Journal of Social Robotics (IJSR)</em>, 2021  
+      <br>
+      <a href="https://link.springer.com/article/10.1007/s12369-020-00673-6" target="_blank">paper</a>
+    </td>
+  </tr>
 </tbody>
 </table>
 
