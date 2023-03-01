@@ -50,6 +50,43 @@ News
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
+        <img src='images/bit++.gif' width="180">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Blur Interpolation Transformer for Real-World Motion from Blur</b>
+      <br>
+      <strong>Zhihang Zhong</strong>,
+      Mingdeng Cao,
+      Xiang Ji,
+      Yinqiang Zheng,
+      Imari Sato
+      <br>
+      <em>CVPR</em>, 2023
+      <br>
+      <a href="https://arxiv.org/abs/2211.11423" target="_blank">arXiv</a>  
+    </td>
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
+        <img src='images/VIS-WIDE.png' width="160">
+    </td>
+    <td style="padding:20px;width:70%;vertical-align:middle">
+        <b>Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark</b>
+      <br>
+      Muyao Niu,
+      Zhuoxiao Li,
+      <strong>Zhihang Zhong</strong>,
+      Yinqiang Zheng
+      <br>
+      <em>CVPR</em>, 2023
+      <br>
+      arXiv
+    </td>
+  </tr>  
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
       <img src="images/animation-from-blur.gif" width="130">
     </td>
     <td style="padding:20px;width:70%;vertical-align:middle">
@@ -295,25 +332,7 @@ News
       <br>
       <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a>
     </td>
-  </tr>  
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/bit++.gif' width="180">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-        <b>Blur Interpolation Transformer for Real-World Motion from Blur</b>
-      <br>
-      <strong>Zhihang Zhong</strong>,
-      Mingdeng Cao,
-      Xiang Ji,
-      Yinqiang Zheng,
-      Imari Sato
-      <br>
-      <em>Under Review</em>, 2023
-      <br>
-      <a href="https://arxiv.org/abs/2211.11423" target="_blank">arXiv</a>  
-    </td>
-  </tr>  
+  </tr> 
 </tbody>
 </table>
 
