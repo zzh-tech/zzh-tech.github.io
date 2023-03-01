@@ -30,7 +30,27 @@ Zhihang's current research interests include computational photography, machine/
 News
 ======
 
-<iframe src="_pages/news.html" marginwidth="30" height="260" width="700" scrolling="yes" frameborder="0"></iframe>
+<details>
+    <summary>[2023.02] Two papers are accepted by CVPR 2023!</summary>
+    [2022.10] I give a talk at <a
+            href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
+            target="_blank">MIPI Workshop 2022</a>. <br>
+    [2022.10] One paper is accepted by IJCV! <br>
+    [2022.09] I become a JSPS「日本学術振興会」DC fellow! <br>
+    [2022.07] Three papers (one Oral) are accepted by ECCV 2022! <br>
+    [2022.04] I become a JEM intern at Microsoft. <br>
+    [2022.03] One paper is accepted by CVPR 2022! <br>
+    [2021.09] I become a research intern in the Visual Computing group at MSRA. <br>
+    [2021.04] I become a IIW fellow「知能社会創造フェローシップ生」of UTokyo! <br>
+    [2021.04] One paper is accepted by IoTJ. <br>
+    [2021.02] One paper is accepted by CVPR 2021! <br>
+    [2020.11] I become a MSRA D-CORE fellow! <br>
+    [2020.09] I obtain my M.E. degree from UTokyo with an outstanding thesis award! <br>
+    [2020.07] One paper (Spotlight) is accepted by ECCV 2020! <br>
+    [2019.12] One paper is accepted by IUI 2020. <br>
+    [2019.08] I become a research intern at Huawei Tokyo Research Center. <br>
+</details>
+
 ---
 
 # Publications
