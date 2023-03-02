@@ -19,11 +19,12 @@ In 2020, he received his M.E. degree from UTokyo under the supervision of <a hre
 In 2018, he received his B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University. 
 
 Below are his current and previous internship experiences:  
-- 2022.04 - present: JEM intern at Microsoft, mentored by <a href="https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en" target="_blank">Han Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ" target="_blank">Yuhui Yuan</a> and <a href="https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ" target="_blank">Ji Li</a>
-- 2021.09 - 2022.03: D-CORE intern at Microsoft Research Asia (MSRA), mentored by <a href="https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ" target="_blank">Stephen Lin</a>, <a href="https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ" target="_blank">Zhirong Wu</a> and <a href="https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ" target="_blank">Xiao Sun</a>
-- 2019.08 - 2020.08: Research intern at the Image Research Lab, Huawei Tokyo Research Center, mentored by <a href="https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ" target="_blank">Bo Zheng</a> and Ye Gao
+- 2023.03 - present: Research intern at Computational Imaging Team, Snap Research, mentored by <a href="https://jianwang-cmu.github.io/" target="_blank">Jian Wang</a>, <a href="https://sizhuoma.netlify.app/" target="_blank">Sizhuo Ma</a> and <a href="http://www.cs.columbia.edu/~nayar/" target="_blank">Shree K. Nayar</a> 
+- 2022.04 - 2022.12: JEM intern at Visual Computing group, Microsoft Research, mentored by <a href="https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en" target="_blank">Han Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ" target="_blank">Yuhui Yuan</a> and <a href="https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ" target="_blank">Ji Li</a>
+- 2021.09 - 2022.03: D-CORE intern at Visual Computing group, Microsoft Research Asia (MSRA), mentored by <a href="https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ" target="_blank">Stephen Lin</a>, <a href="https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ" target="_blank">Zhirong Wu</a> and <a href="https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ" target="_blank">Xiao Sun</a>
+- 2019.08 - 2020.08: Research intern at the Image Research Lab, Huawei Tokyo Research Center, mentored by Ye Gao and <a href="https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ" target="_blank">Bo Zheng</a>
 
-Zhihang's current research interests include computational photography, machine/deep learning, and human-computer interaction.
+Zhihang's current research interests include computational photography, computer vision, machine/deep learning, and human-computer interaction.
 
 ---
 
