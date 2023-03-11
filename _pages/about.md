@@ -84,7 +84,9 @@ News
       <br>
       <em>CVPR</em>, 2023
       <br>
-      <a href="https://arxiv.org/abs/2211.11423" target="_blank">arXiv</a>  
+      <a href="https://zzh-tech.github.io/BiT/" target="_blank">project page</a> /
+      <a href="https://arxiv.org/abs/2211.11423" target="_blank">arXiv</a> /
+      <a href="https://github.com/zzh-tech/BiT" target="_blank">code</a>
     </td>
   </tr>
   
