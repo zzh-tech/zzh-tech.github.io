@@ -22,7 +22,6 @@ Below are his current and previous internship experiences:
 - 2023.03 - present: Research intern at Computational Imaging Team, Snap Research, mentored by <a href="https://jianwang-cmu.github.io/" target="_blank">Jian Wang</a>, <a href="https://sizhuoma.netlify.app/" target="_blank">Sizhuo Ma</a> and <a href="http://www.cs.columbia.edu/~nayar/" target="_blank">Shree K. Nayar</a> 
 - 2022.04 - 2022.12: JEM intern at Visual Computing group, Microsoft Research, mentored by <a href="https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en" target="_blank">Han Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ" target="_blank">Yuhui Yuan</a> and <a href="https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ" target="_blank">Ji Li</a>
 - 2021.09 - 2022.03: D-CORE intern at Visual Computing group, Microsoft Research Asia (MSRA), mentored by <a href="https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ" target="_blank">Stephen Lin</a>, <a href="https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ" target="_blank">Zhirong Wu</a> and <a href="https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ" target="_blank">Xiao Sun</a>
-- 2019.08 - 2020.08: Research intern at the Image Research Lab, Huawei Tokyo Research Center, mentored by Ye Gao and <a href="https://scholar.google.com/citations?hl=en&user=nFb63A4AAAAJ" target="_blank">Bo Zheng</a>
 
 Zhihang's current research interests include computational photography, computer vision, machine/deep learning, and human-computer interaction.
 
@@ -32,24 +31,23 @@ News
 ======
 
 <details>
-    <summary>[2023.02] Two papers are accepted by CVPR 2023!</summary>
+    <summary>[2023.02] Two papers are accepted by CVPR 2023.</summary>
     [2022.10] I give a talk at <a
             href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
             target="_blank">MIPI Workshop 2022</a>. <br>
-    [2022.10] One paper is accepted by IJCV! <br>
+    [2022.10] One paper is accepted by IJCV. <br>
     [2022.09] I become a JSPS「日本学術振興会」DC fellow! <br>
     [2022.07] Three papers (one Oral) are accepted by ECCV 2022! <br>
     [2022.04] I become a JEM intern at Microsoft. <br>
-    [2022.03] One paper is accepted by CVPR 2022! <br>
+    [2022.03] One paper is accepted by CVPR 2022. <br>
     [2021.09] I become a research intern in the Visual Computing group at MSRA. <br>
     [2021.04] I become a IIW fellow「知能社会創造フェローシップ生」of UTokyo! <br>
     [2021.04] One paper is accepted by IoTJ. <br>
-    [2021.02] One paper is accepted by CVPR 2021! <br>
+    [2021.02] One paper is accepted by CVPR 2021. <br>
     [2020.11] I become a MSRA D-CORE fellow! <br>
     [2020.09] I obtain my M.E. degree from UTokyo with an outstanding thesis award! <br>
     [2020.07] One paper (Spotlight) is accepted by ECCV 2020! <br>
     [2019.12] One paper is accepted by IUI 2020. <br>
-    [2019.08] I become a research intern at Huawei Tokyo Research Center. <br>
 </details>
 
 ---
