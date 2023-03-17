@@ -84,7 +84,8 @@ News
       <br>
       <a href="https://zzh-tech.github.io/BiT/" target="_blank">project page</a> /
       <a href="https://arxiv.org/abs/2211.11423" target="_blank">arXiv</a> /
-      <a href="https://github.com/zzh-tech/BiT" target="_blank">code</a>
+      <a href="https://github.com/zzh-tech/BiT" target="_blank">code</a> /
+      <a href="https://zhuanlan.zhihu.com/p/614802509" target="_blank">zhihu</a>
     </td>
   </tr>
   
@@ -125,7 +126,8 @@ News
       <a href="https://zzh-tech.github.io/Animation-from-Blur/" target="_blank">project page</a> /
       <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7210_ECCV_2022_paper.php" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2207.10123" target="_blank">arXiv</a> / 
-      <a href="https://github.com/zzh-tech/Animation-from-Blur" target="_blank">code</a>
+      <a href="https://github.com/zzh-tech/Animation-from-Blur" target="_blank">code</a> /
+      <a href="https://zhuanlan.zhihu.com/p/614802509" target="_blank">zhihu</a>
     </td>
   </tr> 
 
