@@ -103,7 +103,8 @@ News
       <br>
       <em>CVPR</em>, 2023
       <br>
-      arXiv
+      <a href="https://arxiv.org/abs/2303.11642" target="_blank">arXiv</a> /
+      <a href="https://github.com/MyNiuuu/VCSD" target="_blank">code</a>
     </td>
   </tr>  
   
