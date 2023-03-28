@@ -31,13 +31,17 @@ News
 ======
 
 <details>
-    <summary>[2023.02] Two papers are accepted by CVPR 2023.</summary>
+    <summary> [see more] <br>
+    [2023.03] I am accepted to CVPR 2023's Doctoral Consortium! <br>
+    <em style="color: red">(13% of over 400 graduating Ph.D. applicants)</em> <br>
+    [2023.02] Two papers are accepted by CVPR 2023. <br>
     [2022.10] I give a talk at <a
             href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
             target="_blank">MIPI Workshop 2022</a>. <br>
     [2022.10] One paper is accepted by IJCV. <br>
     [2022.09] I become a JSPS「日本学術振興会」DC fellow! <br>
     [2022.07] Three papers (one Oral) are accepted by ECCV 2022! <br>
+    </summary>
     [2022.04] I become a JEM intern at Microsoft. <br>
     [2022.03] One paper is accepted by CVPR 2022. <br>
     [2021.09] I become a research intern in the Visual Computing group at MSRA. <br>
