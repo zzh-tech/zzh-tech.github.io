@@ -33,7 +33,7 @@ News
 <details>
     <summary> [see more] <br>
     [2023.03] I am accepted to CVPR 2023's Doctoral Consortium! <br>
-    <em style="color: red">(13% of over 400 graduating Ph.D. applicants)</em> <br>
+    <em>(13% of over 400 graduating Ph.D. applicants)</em> <br>
     [2023.02] Two papers are accepted by CVPR 2023. <br>
     [2022.10] I give a talk at <a
             href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
