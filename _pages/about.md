@@ -26,7 +26,7 @@ image/video restoration and enhancement, and dynamic NeRF.
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
-    [2023.07] One paper is accepted by ACM MM 2023. <br>
+    [2023.07] One paper is accepted by ACM-MM 2023. <br>
     [2023.07] Two papers are accepted by ICCV 2023. <br>
     [2023.03] I am accepted to CVPR 2023's Doctoral Consortium. <br>
     [2023.02] Two papers are accepted by CVPR 2023. <br>
@@ -99,28 +99,7 @@ image/video restoration and enhancement, and dynamic NeRF.
       <strong>Zhihang Zhong</strong>,
       Yinqiang Zheng
       <br>
-      <em>ACM MM</em>, 2023
-    </td>
-  </tr>
-  
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-      <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>ClipCrop: Conditioned Cropping Driven by Vision-Language Model</b>
-      <br>
-      <strong>Zhihang Zhong</strong>,
-      Mingxi Cheng,
-      Zhirong Wu,
-      Yuhui Yuan,
-      Yinqiang Zheng,
-      Ji Li, <br>
-      Han Hu,
-      Stephen Lin,
-      Yoichi Sato,
-      Imari Sato
-      <br>
-      <em>arXiv</em>, 2023
-      <br>
-      <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a>
+      <em>ACM-MM</em>, 2023
     </td>
   </tr>
   
@@ -156,6 +135,27 @@ image/video restoration and enhancement, and dynamic NeRF.
       <br>
       <a href="https://arxiv.org/abs/2303.11642" target="_blank">arXiv</a> /
       <a href="https://github.com/MyNiuuu/VCSD" target="_blank">code</a>
+    </td>
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>ClipCrop: Conditioned Cropping Driven by Vision-Language Model</b>
+      <br>
+      <strong>Zhihang Zhong</strong>,
+      Mingxi Cheng,
+      Zhirong Wu,
+      Yuhui Yuan,
+      Yinqiang Zheng,
+      Ji Li, <br>
+      Han Hu,
+      Stephen Lin,
+      Yoichi Sato,
+      Imari Sato
+      <br>
+      <em>arXiv</em>, 2022
+      <br>
+      <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a>
     </td>
   </tr>  
   
