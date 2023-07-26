@@ -7,39 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-<br />
+<br>
 
+<font size="+0.2">
 Hi, こんにちは, 你好 :-)
+<br><br>
 
-Zhihang Zhong is a 3rd year Ph.D. student at the Department of Computer Science, the University of Tokyo (UTokyo).
-He is supervised by <a href="https://scholar.google.com/citations?user=gtfbzYwAAAAJ&hl=en" target="_blank">Prof. Imari Sato</a>, and he works closely with <a href="https://sites.google.com/ut-vision.org/ysato/" target="_blank">Prof. Yoichi Sato</a> and <a href="https://scholar.google.com/citations?hl=en&user=JD-5DKcAAAAJ" target="_blank">Prof. Yinqiang Zheng</a>.
-In 2020, he received his M.E. degree from UTokyo under the supervision of <a href="https://otalab.race.t.u-tokyo.ac.jp/en/jun-ota/" target="_blank">Prof. Ota Jun</a>.
-In 2018, he received his B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University. 
+Zhihang Zhong is a 3rd year Ph.D. student at the Department of<br>
+Computer Science, the University of Tokyo. <br>
+In 2018, he received his B.E. degree (Mixed Honors Class) from 
+<br> Chu Kochen Honors College, Zhejiang University. 
+<br>
+Zhihang's current research interests include: <br>
+image/video restoration and enhancement, and dynamic NeRF.
+</font>
 
-Below are his current and previous internship experiences:  
-- 2023.03 - present: Research intern at Computational Imaging Team, Snap Research, mentored by <a href="https://jianwang-cmu.github.io/" target="_blank">Jian Wang</a>, <a href="https://sizhuoma.netlify.app/" target="_blank">Sizhuo Ma</a> and <a href="http://www.cs.columbia.edu/~nayar/" target="_blank">Shree K. Nayar</a> 
-- 2022.04 - 2022.12: JEM intern at Visual Computing group, Microsoft Research, mentored by <a href="https://scholar.google.com/citations?user=Jkss014AAAAJ&hl=en" target="_blank">Han Hu</a>, <a href="https://scholar.google.com/citations?hl=en&user=PzyvzksAAAAJ" target="_blank">Yuhui Yuan</a> and <a href="https://scholar.google.com/citations?hl=en&user=xyc52moAAAAJ" target="_blank">Ji Li</a>
-- 2021.09 - 2022.03: D-CORE intern at Visual Computing group, Microsoft Research Asia (MSRA), mentored by <a href="https://scholar.google.com/citations?hl=en&user=c3PYmxUAAAAJ" target="_blank">Stephen Lin</a>, <a href="https://scholar.google.com/citations?hl=en&user=lH4zgcIAAAAJ" target="_blank">Zhirong Wu</a> and <a href="https://scholar.google.com/citations?hl=en&user=wYIe0tYAAAAJ" target="_blank">Xiao Sun</a>
-
-Zhihang's current research interests include computational photography, computer vision, machine/deep learning, and human-computer interaction.
-
----
-
-News
-======
-
+## News
+<font size="+0.2">
 <details>
     <summary> [see more] <br>
-    [2023.03] I am accepted to CVPR 2023's Doctoral Consortium! <br>
-    <em>(13% of over 400 graduating Ph.D. applicants)</em> <br>
+    [2023.07] One paper is accepted by ACM MM 2023. <br>
+    [2023.07] Two papers are accepted by ICCV 2023. <br>
+    [2023.03] I am accepted to CVPR 2023's Doctoral Consortium. <br>
     [2023.02] Two papers are accepted by CVPR 2023. <br>
     [2022.10] I give a talk at <a
             href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
             target="_blank">MIPI Workshop 2022</a>. <br>
+    </summary>
     [2022.10] One paper is accepted by IJCV. <br>
     [2022.09] I become a JSPS「日本学術振興会」DC fellow! <br>
     [2022.07] Three papers (one Oral) are accepted by ECCV 2022! <br>
-    </summary>
     [2022.04] I become a JEM intern at Microsoft. <br>
     [2022.03] One paper is accepted by CVPR 2022. <br>
     [2021.09] I become a research intern in the Visual Computing group at MSRA. <br>
@@ -51,10 +48,10 @@ News
     [2020.07] One paper (Spotlight) is accepted by ECCV 2020! <br>
     [2019.12] One paper is accepted by IUI 2020. <br>
 </details>
+</font>
 
----
+## Publications
 
-# Publications
 <head>
     <style>
     table,
@@ -65,15 +62,70 @@ News
     </style><title></title>
 </head>
 
-## Conferences
-
-<table style="width:100%;border:0px;border-spacing:0px;margin-right:auto;margin-left:auto;">
-<tbody>
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/bit++.gif' width="180">
+<table style="width:75%;border:0px;border-spacing:0px;margin-right:auto;margin-left:6px;">
+<tbody> 
+    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>NIR-assisted Low-light Video Enhancement Using Unpaired <br> 24-hour Data</b>
+      <br>
+      Muyao Niu,
+      <strong>Zhihang Zhong</strong>,
+      Yinqiang Zheng
+      <br>
+      <em>ICCV</em>, 2023
     </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Rethinking Video Frame Interpolation from Shutter Mode Induced Degradation</b>
+      <br>
+      Xiang Ji,
+      Zhixiang Wang,
+      <strong>Zhihang Zhong</strong>,
+      Yinqiang Zheng
+      <br>
+      <em>ICCV</em>, 2023
+    </td>
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Event-guided Frame Interpolation and Dynamic Range Expansion <br> of Single Rolling Shutter Image</b>
+      <br>
+      Guixu Lin,
+      Jin Han,
+      Mingdeng Cao,
+      <strong>Zhihang Zhong</strong>,
+      Yinqiang Zheng
+      <br>
+      <em>ACM MM</em>, 2023
+    </td>
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>ClipCrop: Conditioned Cropping Driven by Vision-Language Model</b>
+      <br>
+      <strong>Zhihang Zhong</strong>,
+      Mingxi Cheng,
+      Zhirong Wu,
+      Yuhui Yuan,
+      Yinqiang Zheng,
+      Ji Li, <br>
+      Han Hu,
+      Stephen Lin,
+      Yoichi Sato,
+      Imari Sato
+      <br>
+      <em>arXiv</em>, 2023
+      <br>
+      <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a>
+    </td>
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Blur Interpolation Transformer for Real-World Motion from Blur</b>
       <br>
       <strong>Zhihang Zhong</strong>,
@@ -92,11 +144,8 @@ News
   </tr>
   
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/VIS-WIDE.png' width="160">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-        <b>Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark</b>
+    <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Visibility Constrained Wide-band Illumination Spectrum Design <br> for Seeing-in-the-Dark</b>
       <br>
       Muyao Niu,
       Zhuoxiao Li,
@@ -111,11 +160,8 @@ News
   </tr>  
   
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-      <img src="images/animation-from-blur.gif" width="130">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-        <b>Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance</b>
+    <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Animation from Blur: Multi-modal Blur Decomposition with <br> Motion Guidance</b>
       <br>
       <strong>Zhihang Zhong</strong>,
       Xiao Sun, 
@@ -135,17 +181,14 @@ News
   </tr> 
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/dual-reversed-rs.gif' width="130">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
+    <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Bringing Rolling Shutter Images Alive with Dual Reversed Distortion</b>
       <br>
       <strong>Zhihang Zhong</strong>,
        Mingdeng Cao,
        Xiao Sun,
        Zhirong Wu,
-       Zhongyi Zhou,
+       Zhongyi Zhou, <br>
        Yinqiang Zheng,
        Stephen Lin,
        Imari Sato
@@ -160,17 +203,14 @@ News
   </tr> 
     
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/magnitude_prior.png' width="200">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
+    <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Efficient Video Deblurring Guided by Motion Magnitude</b>
       <br>
       Yusheng Wang, 
       Yunfan Lu, 
       Ye Gao, 
       Lin Wang, 
-      <strong>Zhihang Zhong</strong>, 
+      <strong>Zhihang Zhong</strong>, <br>
       Yinqiang Zheng, 
       Atsushi Yamashita
       <br>
@@ -183,10 +223,7 @@ News
   </tr>
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/adaptive_warping.png' width="180">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
+    <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Learning Adaptive Warping for Real-World Rolling Shutter Correction</b>
       <br>
       Mingdeng Cao, 
@@ -201,13 +238,28 @@ News
       <a href="https://arxiv.org/abs/2204.13886" target="_blank">arXiv</a> / 
       <a href="https://github.com/ljzycmd/BSRSC" target="_blank">code</a>
     </td>
-  </tr>  
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient <br> Recurrent Neural Network</b>
+      <br>
+      <strong>Zhihang Zhong</strong>,
+      Ye Gao,
+      Yinqiang Zheng,
+      Bo Zheng,
+      Imari Sato
+      <br>
+      <em>International Journal of Computer Vision (IJCV)</em>, 2022  
+      <br>
+      <a href="https://link.springer.com/article/10.1007/s11263-022-01705-6" target="_blank">paper</a> / 
+      <a href="https://arxiv.org/abs/2106.16028" target="_blank">arXiv</a> / 
+      <a href="https://github.com/zzh-tech/ESTRNN" target="_blank">code</a>
+    </td>
+  </tr>    
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/beam_splitter_a.png' width="150">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
+    <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes</b>
       <br>
       <strong>Zhihang Zhong</strong>,
@@ -223,10 +275,7 @@ News
   </tr>  
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/2020_ECCV_deblur.png' width="220">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
+    <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring</b>
       <br>
       <strong>Zhihang Zhong</strong>,
@@ -241,56 +290,10 @@ News
       <a href="https://github.com/zzh-tech/ESTRNN" target="_blank">code</a>
     </td>
   </tr>  
-
+  
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/layer.png' width="220">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-        <b>Multi-attention deep recurrent neural network for nursing action evaluation using wearable sensor</b>
-      <br>
-      <strong>Zhihang Zhong</strong>,
-      Chingszu Lin,
-      Taiki Ogata,
-      Jun Ota
-      <br>
-      <em>IUI</em>, 2020
-      <br>
-      <a href="https://dl.acm.org/doi/abs/10.1145/3377325.3377530" target="_blank">paper</a>
-    </td>
-  </tr>  
-</tbody>
-</table>
-
-## Journals
-<table style="width:100%;border:0px;border-spacing:0px;margin-right:auto;margin-left:auto;">
-<tbody>
-    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/bsd.png' width="200">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-        <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient Recurrent Neural Network</b>
-      <br>
-      <strong>Zhihang Zhong</strong>,
-      Ye Gao,
-      Yinqiang Zheng,
-      Bo Zheng,
-      Imari Sato
-      <br>
-      <em>International Journal of Computer Vision (IJCV)</em>, 2022  
-      <br>
-      <a href="https://link.springer.com/article/10.1007/s11263-022-01705-6" target="_blank">paper</a> / 
-      <a href="https://arxiv.org/abs/2106.16028" target="_blank">arXiv</a> / 
-      <a href="https://github.com/zzh-tech/ESTRNN" target="_blank">code</a>
-    </td>
-  </tr>  
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/zhong10-3075477-large.jpg' width="130">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-        <b>Multistream Temporal Convolutional Network for Correct/Incorrect Patient Transfer Action Detection Using Body Sensor Network</b>
+    <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Multistream Temporal Convolutional Network for Correct/Incorrect <br> Patient Transfer Action Detection Using Body Sensor Network</b>
       <br>
       <strong>Zhihang Zhong</strong>,
       Chingszu Lin,
@@ -308,12 +311,10 @@ News
       <a href="https://github.com/zzh-tech/Continuous-Action-Detection" target="_blank">code</a>  
     </td>
   </tr>  
+  
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/patient_robot.png' width="240">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-        <b>Development and validation of robot patient equipped with an inertial measurement unit and angular position sensors to evaluate transfer skills of nurses</b>
+    <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Development and validation of robot patient equipped with an inertial measurement unit and angular position sensors to evaluate transfer <br> skills of nurses</b>
       <br>
       Chingszu Lin,
       Taiki Ogata,
@@ -329,38 +330,23 @@ News
       <br>
       <a href="https://link.springer.com/article/10.1007/s12369-020-00673-6" target="_blank">paper</a>
     </td>
-  </tr>
-</tbody>
-</table>
-
-## Preprints
-<table style="width:100%;border:0px;border-spacing:0px;margin-right:auto;margin-left:auto;">
-<tbody>
-    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-    <td style="padding:20px;width:30%;vertical-align:middle;text-align: center">
-        <img src='images/clipcrop.png' width="200">
-    </td>
-    <td style="padding:20px;width:70%;vertical-align:middle">
-        <b>ClipCrop: Conditioned Cropping Driven by Vision-Language Model</b>
+  </tr>  
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Multi-attention deep recurrent neural network for nursing action <br> evaluation using wearable sensor</b>
       <br>
       <strong>Zhihang Zhong</strong>,
-      Mingxi Cheng,
-      Zhirong Wu,
-      Yuhui Yuan,
-      Yinqiang Zheng,
-      Ji Li,
-      Han Hu,
-      Stephen Lin,
-      Yoichi Sato,
-      Imari Sato
+      Chingszu Lin,
+      Taiki Ogata,
+      Jun Ota
       <br>
-      <em>Under Review</em>, 2023
+      <em>IUI</em>, 2020
       <br>
-      <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3377325.3377530" target="_blank">paper</a>
     </td>
   </tr> 
 </tbody>
 </table>
 
----
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=tt&d=XXbPPAPR_Tykk65fLeKabiB6-HTFXjsQRAiCOlmsK7w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
