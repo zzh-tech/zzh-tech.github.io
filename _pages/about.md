@@ -13,13 +13,16 @@ redirect_from:
 Hi, こんにちは, 你好 :-)
 <br><br>
 
-Zhihang Zhong is a 3rd year Ph.D. student at the Department of<br>
-Computer Science, the University of Tokyo. <br>
+Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/">Shanghai AI Lab</a> (AI for Sports team).<br>
+In 2023, he received his Ph.D. in computer science from the University of Tokyo. <br>
 In 2018, he received his B.E. degree (Mixed Honors Class) from 
 <br> Chu Kochen Honors College, Zhejiang University. 
 <br>
 Zhihang's current research interests include: <br>
-image/video restoration and enhancement, and dynamic NeRF.
+image/video restoration and enhancement, 4D motion reconstruction and editing<br>
+<br>
+<em>We are looking for highly self-motivated students, and interns! <br>
+If you are interested, please email me with your resume. </em>
 </font>
 
 ## News
