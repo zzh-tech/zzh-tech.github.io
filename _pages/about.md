@@ -2,7 +2,7 @@
 permalink: /
 excerpt: "About"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -13,10 +13,10 @@ redirect_from:
 Hi, こんにちは, 你好 :-)
 <br><br>
 
-Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/">Shanghai AI Lab</a> (AI for Sports team).<br>
+Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Lab</a> (AI for Sports team).<br>
 In 2023, he received his Ph.D. in computer science from the University of Tokyo. <br>
-In 2018, he received his B.E. degree (Mixed Honors Class) from 
-<br> Chu Kochen Honors College, Zhejiang University. 
+In 2018, he received his B.E. degree (Mixed Honors Class) from
+<br> Chu Kochen Honors College, Zhejiang University.
 <br>
 Zhihang's current research interests include: <br>
 image/video restoration and enhancement, 4D motion reconstruction and editing<br>
@@ -26,17 +26,19 @@ If you are interested, please email me with your resume. </em>
 </font>
 
 ## News
+
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2023.11] Glad to release <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny-Clearer</a> project! <br>
     [2023.07] Two papers are accepted by ICCV 2023. <br>
     [2023.07] One paper is accepted by ACM-MM 2023. <br>
     [2023.03] I am accepted to CVPR 2023's Doctoral Consortium. <br>
     [2023.02] Two papers are accepted by CVPR 2023. <br>
-    [2022.10] I give a talk at <a
-            href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
-            target="_blank">MIPI Workshop 2022</a>. <br>
     </summary>
+    [2022.10] I give a talk at <a
+                href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
+                target="_blank">MIPI Workshop 2022</a>. <br>
     [2022.10] One paper is accepted by IJCV. <br>
     [2022.09] I become a JSPS「日本学術振興会」DC fellow! <br>
     [2022.07] Three papers (one Oral) are accepted by ECCV 2022! <br>
@@ -67,7 +69,24 @@ If you are interested, please email me with your resume. </em>
 
 <table style="width:75%;border:0px;border-spacing:0px;margin-right:auto;margin-left:5px;">
 <tbody> 
-    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
+      <br>
+      <strong>Zhihang Zhong</strong>,
+      Gurunandan Krishnan,
+      Yu Qiao,
+      Sizhuo Ma,
+      Jian Wang
+      <br>
+      <em>Under review</em>, 2023
+      <br>
+      <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
+      <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>NIR-assisted Low-light Video Enhancement Using Unpaired <br> 24-hour Data</b>
       <br>
@@ -77,10 +96,11 @@ If you are interested, please email me with your resume. </em>
       <br>
       <em>ICCV</em>, 2023
       <br>
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Niu_NIR-assisted_Video_Enhancement_via_Unpaired_24-hour_Data_ICCV_2023_paper.html" target="_blank">paper</a> /
       <a href="https://github.com/MyNiuuu/NVEU" target="_blank">code</a>
     </td>
   </tr>
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Rethinking Video Frame Interpolation from Shutter Mode Induced Degradation</b>
@@ -91,9 +111,11 @@ If you are interested, please email me with your resume. </em>
       Yinqiang Zheng
       <br>
       <em>ICCV</em>, 2023
+      <br>
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Rethinking_Video_Frame_Interpolation_from_Shutter_Mode_Induced_Degradation_ICCV_2023_paper.html" target="_blank">paper</a>
     </td>
   </tr>
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>ClipCrop: Conditioned Cropping Driven by Vision-Language Model</b>
@@ -114,7 +136,7 @@ If you are interested, please email me with your resume. </em>
       <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a>
     </td>
   </tr>  
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Event-guided Frame Interpolation and Dynamic Range Expansion <br> of Single Rolling Shutter Image</b>
@@ -126,9 +148,11 @@ If you are interested, please email me with your resume. </em>
       Yinqiang Zheng
       <br>
       <em>ACM-MM</em>, 2023
+      <br>
+      <a href="https://dl.acm.org/doi/10.1145/3581783.3612093" target="_blank">paper</a>
     </td>
   </tr>
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Blur Interpolation Transformer for Real-World Motion from Blur</b>
@@ -142,12 +166,13 @@ If you are interested, please email me with your resume. </em>
       <em>CVPR</em>, 2023
       <br>
       <a href="https://zzh-tech.github.io/BiT/" target="_blank">project page</a> /
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhong_Blur_Interpolation_Transformer_for_Real-World_Motion_From_Blur_CVPR_2023_paper.html" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2211.11423" target="_blank">arXiv</a> /
       <a href="https://github.com/zzh-tech/BiT" target="_blank">code</a> /
       <a href="https://zhuanlan.zhihu.com/p/614802509" target="_blank">zhihu</a>
     </td>
   </tr>
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Visibility Constrained Wide-band Illumination Spectrum Design <br> for Seeing-in-the-Dark</b>
@@ -159,11 +184,12 @@ If you are interested, please email me with your resume. </em>
       <br>
       <em>CVPR</em>, 2023
       <br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Niu_Visibility_Constrained_Wide-Band_Illumination_Spectrum_Design_for_Seeing-in-the-Dark_CVPR_2023_paper.html" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2303.11642" target="_blank">arXiv</a> /
       <a href="https://github.com/MyNiuuu/VCSD" target="_blank">code</a>
     </td>
   </tr>
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Animation from Blur: Multi-modal Blur Decomposition with <br> Motion Guidance</b>
@@ -206,7 +232,7 @@ If you are interested, please email me with your resume. </em>
       <a href="https://github.com/zzh-tech/Dual-Reversed-RS" target="_blank">code</a>
     </td>
   </tr> 
-    
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Efficient Video Deblurring Guided by Motion Magnitude</b>
@@ -226,7 +252,7 @@ If you are interested, please email me with your resume. </em>
       <a href="https://github.com/sollynoay/MMP-RNN" target="_blank">code</a>
     </td>
   </tr>
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Towards real-world video deblurring by exploring blur formation process</b>
@@ -265,7 +291,7 @@ If you are interested, please email me with your resume. </em>
       <a href="https://github.com/ljzycmd/BSRSC" target="_blank">code</a>
     </td>
   </tr>
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient <br> Recurrent Neural Network</b>
@@ -316,7 +342,7 @@ If you are interested, please email me with your resume. </em>
       <a href="https://github.com/zzh-tech/ESTRNN" target="_blank">code</a>
     </td>
   </tr>  
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Multistream Temporal Convolutional Network for Correct/Incorrect <br> Patient Transfer Action Detection Using Body Sensor Network</b>
@@ -337,7 +363,7 @@ If you are interested, please email me with your resume. </em>
       <a href="https://github.com/zzh-tech/Continuous-Action-Detection" target="_blank">code</a>  
     </td>
   </tr>  
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Development and validation of robot patient equipped with an inertial measurement unit and angular position sensors to evaluate transfer <br> skills of nurses</b>
@@ -357,7 +383,7 @@ If you are interested, please email me with your resume. </em>
       <a href="https://link.springer.com/article/10.1007/s12369-020-00673-6" target="_blank">paper</a>
     </td>
   </tr>  
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Multi-attention deep recurrent neural network for nursing action <br> evaluation using wearable sensor</b>
