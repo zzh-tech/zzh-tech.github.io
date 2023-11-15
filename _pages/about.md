@@ -82,6 +82,7 @@ If you are interested, please email me with your resume. </em>
       <em>Under review</em>, 2023
       <br>
       <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
+      <a href="https://arxiv.org/abs/2311.08007" target="_blank">paper</a> /
       <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a>
     </td>
   </tr>
