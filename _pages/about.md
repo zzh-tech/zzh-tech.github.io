@@ -83,7 +83,8 @@ If you are interested, please email me with your resume. </em>
       <br>
       <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
       <a href="https://arxiv.org/abs/2311.08007" target="_blank">paper</a> /
-      <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a>
+      <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a> /
+      <a href="http://ai4sports.opengvlab.com/interpany-clearer/" target="_blank">demo</a>
     </td>
   </tr>
 
