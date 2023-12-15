@@ -13,10 +13,9 @@ redirect_from:
 Hi, こんにちは, 你好 :-)
 <br><br>
 
-Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Lab</a> (AI for Sports team).<br>
-In 2023, he received his Ph.D. in computer science from the University of Tokyo. <br>
-In 2018, he received his B.E. degree (Mixed Honors Class) from
-<br> Chu Kochen Honors College, Zhejiang University.
+Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Lab</a> (<a href="https://github.com/OpenGVLab" target="_blank">OpenGVLab</a>, AI for Sports team).<br>
+In 2023, he received his Ph.D. degree in computer science from the University of Tokyo. <br>
+In 2018, he received his B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University.
 <br>
 Zhihang's current research interests include: <br>
 image/video restoration and enhancement, 4D motion reconstruction and editing<br>
@@ -30,6 +29,7 @@ If you are interested, please email me with your resume. </em>
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2023.12] I give a talk at <a href="https://mp.weixin.qq.com/s/9kYeSrJze2Ah7snSqPFLPg" target="_blank"> OpenMMLab</a> about temporal super-resolution. <br>
     [2023.11] Glad to release <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny-Clearer</a> project! <br>
     [2023.07] Two papers are accepted by ICCV 2023. <br>
     [2023.07] One paper is accepted by ACM-MM 2023. <br>
