@@ -75,6 +75,7 @@ If you are interested, please email me with your resume. </em>
       <br>
       <strong>Zhihang Zhong</strong>,
       Gurunandan Krishnan,
+      Xiao Sun,
       Yu Qiao,
       Sizhuo Ma,
       Jian Wang
