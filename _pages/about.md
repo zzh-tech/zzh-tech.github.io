@@ -29,13 +29,14 @@ If you are interested, please email me with your resume. </em>
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2023.07] Two papers are accepted by CVPR 2024. <br>
     [2023.12] I give a talk at <a href="https://mp.weixin.qq.com/s/9kYeSrJze2Ah7snSqPFLPg" target="_blank"> OpenMMLab</a> about temporal super-resolution. <br>
     [2023.11] Glad to release <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny-Clearer</a> project! <br>
     [2023.07] Two papers are accepted by ICCV 2023. <br>
     [2023.07] One paper is accepted by ACM-MM 2023. <br>
     [2023.03] I am accepted to CVPR 2023's Doctoral Consortium. <br>
-    [2023.02] Two papers are accepted by CVPR 2023. <br>
     </summary>
+    [2023.02] Two papers are accepted by CVPR 2023. <br>
     [2022.10] I give a talk at <a
                 href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
                 target="_blank">MIPI Workshop 2022</a>. <br>
@@ -68,7 +69,35 @@ If you are interested, please email me with your resume. </em>
 </head>
 
 <table style="width:75%;border:0px;border-spacing:0px;margin-right:auto;margin-left:5px;">
-<tbody> 
+<tbody>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>IQ-VFI: Implicit Quadratic Motion Estimation for Video Frame Interpolation</b>
+      <br>
+      Mengshun Hu,
+      Kui Jiang,
+      <strong>Zhihang Zhong</strong>,
+      Zheng Wang,
+      Yinqiang Zheng
+      <br>
+      <em>CVPR</em>, 2024
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Fooling Polarization-based Vision using Locally Controllable Polarizing Projection</b>
+      <br>
+      Zhuoxiao Li,
+      <strong>Zhihang Zhong</strong>,
+      Shohei Nobuhara,
+      Ko Nishino,
+      Yinqiang Zheng
+      <br>
+      <em>CVPR</em>, 2024
+      <br>
+      <a href="https://arxiv.org/abs/2303.17890" target="_blank">arXiv</a>
+    </td>
+  </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
@@ -80,10 +109,10 @@ If you are interested, please email me with your resume. </em>
       Sizhuo Ma,
       Jian Wang
       <br>
-      <em>Under review</em>, 2023
+      <em>Under review</em>, 2024
       <br>
       <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
-      <a href="https://arxiv.org/abs/2311.08007" target="_blank">paper</a> /
+      <a href="https://arxiv.org/abs/2311.08007" target="_blank">arXiv</a> /
       <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a> /
       <a href="http://ai4sports.opengvlab.com/interpany-clearer/" target="_blank">demo</a>
     </td>
