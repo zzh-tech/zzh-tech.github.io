@@ -70,9 +70,22 @@ If you are interested, please email me with your resume. </em></b>
     </style><title></title>
 </head>
 
+<sup>*</sup> indicates first author, <sup>†</sup> indicates corresponding author
+
 <table style="width:75%;border:0px;border-spacing:0px;margin-right:auto;margin-left:5px;">
 <tbody>
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+          <td style="padding:10px;width:70%;vertical-align:middle">
+            <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with Pose Sequence</b>
+          <br>
+          Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Wei Wang, Xiao Sun, Yu Qiao,<br>Yinqiang Zheng
+          <br>
+          <em>arXiv</em>, 2024 <br>
+          <a href="http://ai4sports.opengvlab.com/Dyco" target="_blank">project page</a> / 
+          <a href="https://arxiv.org/abs/2403.19160" target="_blank">arXiv</a>
+        </td>
+      </tr>  
+    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>IQ-VFI: Implicit Quadratic Motion Estimation for Video Frame Interpolation</b>
       <br>
@@ -104,7 +117,7 @@ If you are interested, please email me with your resume. </em></b>
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
       Gurunandan Krishnan,
       Xiao Sun,
       Yu Qiao,
@@ -154,7 +167,7 @@ If you are interested, please email me with your resume. </em></b>
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>ClipCrop: Conditioned Cropping Driven by Vision-Language Model</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
       Mingxi Cheng,
       Zhirong Wu,
       Yuhui Yuan,
@@ -191,7 +204,7 @@ If you are interested, please email me with your resume. </em></b>
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Blur Interpolation Transformer for Real-World Motion from Blur</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
       Mingdeng Cao,
       Xiang Ji,
       Yinqiang Zheng,
@@ -228,7 +241,7 @@ If you are interested, please email me with your resume. </em></b>
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Animation from Blur: Multi-modal Blur Decomposition with <br> Motion Guidance</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
       Xiao Sun, 
       Zhirong Wu,
       Yinqiang Zheng,
@@ -249,7 +262,7 @@ If you are interested, please email me with your resume. </em></b>
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Bringing Rolling Shutter Images Alive with Dual Reversed Distortion</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
        Mingdeng Cao,
        Xiao Sun,
        Zhirong Wu,
@@ -330,7 +343,7 @@ If you are interested, please email me with your resume. </em></b>
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient <br> Recurrent Neural Network</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
       Ye Gao,
       Yinqiang Zheng,
       Bo Zheng,
@@ -348,7 +361,7 @@ If you are interested, please email me with your resume. </em></b>
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
       Yinqiang Zheng, 
       Imari Sato
       <br>
@@ -364,7 +377,7 @@ If you are interested, please email me with your resume. </em></b>
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
       Ye Gao,
       Yinqiang Zheng,
       Bo Zheng
@@ -381,7 +394,7 @@ If you are interested, please email me with your resume. </em></b>
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Multistream Temporal Convolutional Network for Correct/Incorrect <br> Patient Transfer Action Detection Using Body Sensor Network</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
       Chingszu Lin,
       Masako Kanai-Pak,
       Jukai Maeda,
@@ -422,7 +435,7 @@ If you are interested, please email me with your resume. </em></b>
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Multi-attention deep recurrent neural network for nursing action <br> evaluation using wearable sensor</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
       Chingszu Lin,
       Taiki Ogata,
       Jun Ota
