@@ -70,7 +70,9 @@ If you are interested, please email me with your resume. </em></b>
     </style><title></title>
 </head>
 
+<font size="+0.2">
 <sup>*</sup> indicates first author, <sup>†</sup> indicates corresponding author
+</font>
 
 <table style="width:75%;border:0px;border-spacing:0px;margin-right:auto;margin-left:5px;">
 <tbody>
