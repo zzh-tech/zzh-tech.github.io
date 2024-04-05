@@ -13,7 +13,8 @@ redirect_from:
 Hi, こんにちは, 你好 :-)
 <br><br>
 
-Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Lab</a> (<a href="https://github.com/OpenGVLab" target="_blank">OpenGVLab</a>, AI for Sports team).<br>
+Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI
+Lab</a> (<a href="https://github.com/OpenGVLab" target="_blank">OpenGVLab</a>, AI for Sports team).<br>
 In 2023, he received his Ph.D. degree in computer science from the University of Tokyo (UTokyo). <br>
 In 2018, he received his B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University.
 <br>
@@ -78,15 +79,44 @@ If you are interested, please email me with your resume. </em></b>
 <tbody>
     <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
           <td style="padding:10px;width:70%;vertical-align:middle">
-            <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with Pose Sequence</b>
+            <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with<br>Pose Sequence</b>
           <br>
-          Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Wei Wang, Xiao Sun, Yu Qiao,<br>Yinqiang Zheng
+          Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Wei Wang, Xiao Sun<sup>†</sup>, Yu Qiao,<br>Yinqiang Zheng
           <br>
-          <em>arXiv</em>, 2024 <br>
+          <em>Under review</em>, 2024 <br>
           <a href="http://ai4sports.opengvlab.com/Dyco" target="_blank">project page</a> / 
           <a href="https://arxiv.org/abs/2403.19160" target="_blank">arXiv</a>
         </td>
-      </tr>  
+    </tr>
+    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+          <td style="padding:10px;width:70%;vertical-align:middle">
+            <b>DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior</b>
+          <br>
+          Yiming Zhang, Zhe Wang, Xinjie Li, Yunchen Yuan, Chengsong Zhang, Xiao Sun,<br><strong>Zhihang Zhong<sup>†</sup></strong>, Jian Wang<sup>†</sup>
+          <br>
+          <em>Under review</em>, 2024 <br>
+          <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
+        </td>
+    </tr>
+    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+          <td style="padding:10px;width:70%;vertical-align:middle">
+            <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
+          <br>
+          <strong>Zhihang Zhong<sup>*</sup></strong>,
+          Xiao Sun,
+          Yu Qiao,
+          Gurunandan Krishnan,
+          Sizhuo Ma,
+          Jian Wang
+          <br>
+          <em>Under review</em>, 2024
+          <br>
+          <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
+          <a href="https://arxiv.org/abs/2311.08007" target="_blank">arXiv</a> /
+          <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a> /
+          <a href="http://ai4sports.opengvlab.com/interpany-clearer/" target="_blank">demo</a>
+        </td>
+    </tr>
     <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>IQ-VFI: Implicit Quadratic Motion Estimation for Video Frame Interpolation</b>
@@ -100,6 +130,7 @@ If you are interested, please email me with your resume. </em></b>
       <em>CVPR</em>, 2024
     </td>
   </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Fooling Polarization-based Vision using Locally Controllable Polarizing Projection</b>
@@ -113,25 +144,6 @@ If you are interested, please email me with your resume. </em></b>
       <em>CVPR</em>, 2024
       <br>
       <a href="https://arxiv.org/abs/2303.17890" target="_blank">arXiv</a>
-    </td>
-  </tr>
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-      <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
-      <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
-      Gurunandan Krishnan,
-      Xiao Sun,
-      Yu Qiao,
-      Sizhuo Ma,
-      Jian Wang
-      <br>
-      <em>Under review</em>, 2024
-      <br>
-      <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
-      <a href="https://arxiv.org/abs/2311.08007" target="_blank">arXiv</a> /
-      <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a> /
-      <a href="http://ai4sports.opengvlab.com/interpany-clearer/" target="_blank">demo</a>
     </td>
   </tr>
 
