@@ -14,16 +14,19 @@ Hi, こんにちは, 你好 :-)
 <br><br>
 
 Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI
-Lab</a> (<a href="https://github.com/OpenGVLab" target="_blank">OpenGVLab</a>, AI for Sports team).<br>
+Lab</a> (<a href="https://github.com/OpenGVLab" target="_blank">OpenGVLab</a>).<br>
 In 2023, he received his Ph.D. degree in computer science from the University of Tokyo (UTokyo). <br>
+In 2020, he received his M.E. degree in Precision Engineering from UTokyo. <br>
 In 2018, he received his B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University.
 <br>
 Zhihang's current research interests include: <br>
-image/video restoration and enhancement, 4D motion reconstruction and editing<br>
+<b><em>* 4D motion modeling</em></b><br>
+<b><em>* AI for Sports</em></b><br>
+<em>image/video restoration and enhancement</em><br>
 <br>
-<b><em>We are looking for highly self-motivated students, and interns! <br>
-(P.S. We have sufficient computing resources and remote is possible) <br>
-If you are interested, please email me with your resume. </em></b>
+<b><em>We are looking for highly self-motivated students (Joint Ph.D., 联合培养博士), and interns!</em></b><br>
+If you are interested, please email me with your CV and your published papers. <br>
+(P.S. We have sufficient computing resources and remote is possible)
 </font>
 
 ## News
@@ -31,13 +34,14 @@ If you are interested, please email me with your resume. </em></b>
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w">SportsStrat (浦动)</a> on CCTV5 in support of the 2024 Thomas & Uber Cups!<br>
     [2024.03] Glad to receive the <a href="https://www.i.u-tokyo.ac.jp/news/topics/2024/202403192381.shtml">Dean's Award for Academic Achievement</a> from the UTokyo! <br>
     [2024.02] Two papers are accepted by CVPR 2024. <br>
     [2023.12] I give a talk at <a href="https://mp.weixin.qq.com/s/9kYeSrJze2Ah7snSqPFLPg" target="_blank"> OpenMMLab</a> about temporal super-resolution. <br>
     [2023.11] Glad to release <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny-Clearer</a> project! <br>
     [2023.07] Two papers are accepted by ICCV 2023. <br>
-    [2023.07] One paper is accepted by ACM-MM 2023. <br>
     </summary>
+    [2023.07] One paper is accepted by ACM-MM 2023. <br>
     [2023.03] I am accepted to CVPR 2023's Doctoral Consortium. <br>
     [2023.02] Two papers are accepted by CVPR 2023. <br>
     [2022.10] I give a talk at <a
@@ -90,16 +94,6 @@ If you are interested, please email me with your resume. </em></b>
     </tr>
     <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
           <td style="padding:10px;width:70%;vertical-align:middle">
-            <b>DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior</b>
-          <br>
-          Yiming Zhang, Zhe Wang, Xinjie Li, Yunchen Yuan, Chengsong Zhang, Xiao Sun,<br><strong>Zhihang Zhong<sup>†</sup></strong>, Jian Wang<sup>†</sup>
-          <br>
-          <em>Under review</em>, 2024 <br>
-          <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
-        </td>
-    </tr>
-    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-          <td style="padding:10px;width:70%;vertical-align:middle">
             <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
           <br>
           <strong>Zhihang Zhong<sup>*</sup></strong>,
@@ -115,6 +109,16 @@ If you are interested, please email me with your resume. </em></b>
           <a href="https://arxiv.org/abs/2311.08007" target="_blank">arXiv</a> /
           <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a> /
           <a href="http://ai4sports.opengvlab.com/interpany-clearer/" target="_blank">demo</a>
+        </td>
+    </tr>
+    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+          <td style="padding:10px;width:70%;vertical-align:middle">
+            <b>DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior</b>
+          <br>
+          Yiming Zhang, Zhe Wang, Xinjie Li, Yunchen Yuan, Chengsong Zhang, Xiao Sun,<br><strong>Zhihang Zhong<sup>†</sup></strong>, Jian Wang<sup>†</sup>
+          <br>
+          <em>Under review</em>, 2024 <br>
+          <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
         </td>
     </tr>
     <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
