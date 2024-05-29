@@ -15,13 +15,13 @@ Hi, こんにちは, 你好 :-)
 
 Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI
 Lab</a> (<a href="https://github.com/OpenGVLab" target="_blank">OpenGVLab</a>).<br>
-In 2023, he received his Ph.D. degree in computer science from the University of Tokyo (UTokyo). <br>
-In 2020, he received his M.E. degree in Precision Engineering from UTokyo. <br>
-In 2018, he received his B.E. degree (Mixed Honors Class) from Chu Kochen Honors College, Zhejiang University.
+In 2023, he received his Ph.D. degree in computer science from the University of Tokyo (UTokyo).<br>
+In 2020, he received his M.E. degree in Precision Engineering from the UTokyo. <br>
+In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.
 <br>
 Zhihang's current research interests include: <br>
 <b><em>* 4D motion modeling</em></b><br>
-<b><em>* AI for Sports</em></b><br>
+<b><em>* AI for sports</em></b><br>
 <em>image/video restoration and enhancement</em><br>
 <br>
 <b><em>We are looking for highly self-motivated students (Joint Ph.D., 联合培养博士), and interns!</em></b><br>
