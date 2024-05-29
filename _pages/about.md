@@ -17,7 +17,7 @@ Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_bl
 Lab</a> (<a href="https://github.com/OpenGVLab" target="_blank">OpenGVLab</a>).<br>
 In 2023, he received his Ph.D. degree in computer science from the University of Tokyo (UTokyo).<br>
 In 2020, he received his M.E. degree in Precision Engineering from the UTokyo. <br>
-In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.
+In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
 <br>
 Zhihang's current research interests include: <br>
 <b><em>* 4D motion modeling</em></b><br>
