@@ -15,7 +15,7 @@ Hi, こんにちは, 你好 :-)
 
 Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI
 Lab</a> (<a href="https://github.com/OpenGVLab" target="_blank">OpenGVLab</a>).<br>
-In 2023, he received his Ph.D. degree in computer science from the University of Tokyo (UTokyo).<br>
+In 2023, he received his Ph.D. degree in Computer Science from the University of Tokyo (UTokyo).<br>
 In 2020, he received his M.E. degree in Precision Engineering from the UTokyo. <br>
 In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
 <br>
