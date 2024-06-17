@@ -29,6 +29,9 @@ If you are interested, please email me with your CV and your published papers. <
 (P.S. We have sufficient computing resources and remote is possible)
 </font>
 
+<br>
+<img src="../files/ai4sports/badminton_unity_demo.gif" width="83%" height="83%"/>
+
 ## News
 
 <font size="+0.2">
