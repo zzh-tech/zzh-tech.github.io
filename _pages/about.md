@@ -37,13 +37,14 @@ If you are interested, please email me with your CV and your published papers. <
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2024.07] Three papers are accepted by ECCV 2024. <br>
     [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w">SportsStrat (浦动)</a> on CCTV5 in support of the 2024 Thomas & Uber Cups!<br>
     [2024.03] Glad to receive the <a href="https://www.i.u-tokyo.ac.jp/news/topics/2024/202403192381.shtml">Dean's Award for Academic Achievement</a> from the UTokyo! <br>
     [2024.02] Two papers are accepted by CVPR 2024. <br>
     [2023.12] I give a talk at <a href="https://mp.weixin.qq.com/s/9kYeSrJze2Ah7snSqPFLPg" target="_blank"> OpenMMLab</a> about temporal super-resolution. <br>
     [2023.11] Glad to release <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny-Clearer</a> project! <br>
-    [2023.07] Two papers are accepted by ICCV 2023. <br>
     </summary>
+    [2023.07] Two papers are accepted by ICCV 2023. <br>
     [2023.07] One paper is accepted by ACM-MM 2023. <br>
     [2023.03] I am accepted to CVPR 2023's Doctoral Consortium. <br>
     [2023.02] Two papers are accepted by CVPR 2023. <br>
@@ -84,47 +85,56 @@ If you are interested, please email me with your CV and your published papers. <
 
 <table style="width:75%;border:0px;border-spacing:0px;margin-right:auto;margin-left:5px;">
 <tbody>
-    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-          <td style="padding:10px;width:70%;vertical-align:middle">
-            <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with<br>Pose Sequence</b>
-          <br>
-          Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Wei Wang, Xiao Sun<sup>†</sup>, Yu Qiao,<br>Yinqiang Zheng
-          <br>
-          <em>Under review</em>, 2024 <br>
-          <a href="http://ai4sports.opengvlab.com/Dyco" target="_blank">project page</a> / 
-          <a href="https://arxiv.org/abs/2403.19160" target="_blank">arXiv</a>
-        </td>
-    </tr>
-    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-          <td style="padding:10px;width:70%;vertical-align:middle">
-            <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
-          <br>
-          <strong>Zhihang Zhong<sup>*</sup></strong>,
-          Xiao Sun,
-          Yu Qiao,
-          Gurunandan Krishnan,
-          Sizhuo Ma,
-          Jian Wang
-          <br>
-          <em>Under review</em>, 2024
-          <br>
-          <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
-          <a href="https://arxiv.org/abs/2311.08007" target="_blank">arXiv</a> /
-          <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a> /
-          <a href="http://ai4sports.opengvlab.com/interpany-clearer/" target="_blank">demo</a>
-        </td>
-    </tr>
-    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-          <td style="padding:10px;width:70%;vertical-align:middle">
-            <b>DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior</b>
-          <br>
-          Yiming Zhang, Zhe Wang, Xinjie Li, Yunchen Yuan, Chengsong Zhang, Xiao Sun,<br><strong>Zhihang Zhong<sup>†</sup></strong>, Jian Wang<sup>†</sup>
-          <br>
-          <em>Under review</em>, 2024 <br>
-          <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
-        </td>
-    </tr>
-    <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with<br>Pose Sequence</b>
+      <br>
+      Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Wei Wang, Xiao Sun<sup>†</sup>, Yu Qiao,<br>Yinqiang Zheng
+      <br>
+      <em>ECCV</em>, 2024 <br>
+      <a href="http://ai4sports.opengvlab.com/Dyco" target="_blank">project page</a> / 
+      <a href="https://arxiv.org/abs/2403.19160" target="_blank">arXiv</a> /
+      <a href="https://github.com/Yifever20002/Dyco" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
+      <br>
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      Xiao Sun,
+      Yu Qiao,
+      Gurunandan Krishnan,
+      Sizhuo Ma,
+      Jian Wang
+      <br>
+      <em>ECCV</em>, 2024
+      <br>
+      <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
+      <a href="https://arxiv.org/abs/2311.08007" target="_blank">arXiv</a> /
+      <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a> /
+      <a href="http://ai4sports.opengvlab.com/interpany-clearer/" target="_blank">demo</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter</b>
+      <br>
+      Yifan Zhan,
+      Zhuoxiao Li,
+      Muyao Niu,
+      <strong>Zhihang Zhong</strong>,
+      Shohei Nobuhara,
+      Ko Nishino,
+      Yinqiang Zheng
+      <br>
+      <em>ECCV</em>, 2024
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>IQ-VFI: Implicit Quadratic Motion Estimation for Video Frame Interpolation</b>
       <br>
@@ -135,6 +145,8 @@ If you are interested, please email me with your CV and your published papers. <
       Yinqiang Zheng
       <br>
       <em>CVPR</em>, 2024
+      <br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Hu_IQ-VFI_Implicit_Quadratic_Motion_Estimation_for_Video_Frame_Interpolation_CVPR_2024_paper.html" target="_blank">paper</a>
     </td>
   </tr>
 
@@ -150,7 +162,19 @@ If you are interested, please email me with your CV and your published papers. <
       <br>
       <em>CVPR</em>, 2024
       <br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_Fooling_Polarization-Based_Vision_using_Locally_Controllable_Polarizing_Projection_CVPR_2024_paper.html" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2303.17890" target="_blank">arXiv</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior</b>
+      <br>
+      Yiming Zhang, Zhe Wang, Xinjie Li, Yunchen Yuan, Chengsong Zhang, Xiao Sun,<br><strong>Zhihang Zhong<sup>†</sup></strong>, Jian Wang<sup>†</sup>
+      <br>
+      <em>Under review</em>, 2024 <br>
+      <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
     </td>
   </tr>
 
