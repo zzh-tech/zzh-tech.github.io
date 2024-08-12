@@ -37,7 +37,7 @@ If you are interested, please email me with your CV and your published papers. <
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
-    [2024.07] Glad to receive the 2023 Chinese Government Award for <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad">Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
+    [2024.07] Glad to receive the 2023 <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad">Chinese Government Award for Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
     [2024.07] Three papers are accepted by ECCV 2024. <br>
     [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w">SportsStrat (浦动)</a> on CCTV5 in support of the 2024 Thomas & Uber Cups!<br>
     [2024.03] Glad to receive the <a href="https://www.i.u-tokyo.ac.jp/news/topics/2024/202403192381.shtml">Dean's Award for Academic Achievement</a> from the UTokyo! <br>
