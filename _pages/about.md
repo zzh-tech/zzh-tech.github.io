@@ -39,33 +39,33 @@ If you are interested, please email me with your CV and your published papers. <
     <summary> [see more] <br>
     [2024.08] Our <a href="https://mp.weixin.qq.com/s/dEAAvAupqjAMHczwTUCkhQ?version=4.1.28.6010&platform=win&nwr_flag=1#wechat_redirect">SportsStrat (浦动) empowers the 2024 Paris Olympics</a>!<br>
     [2024.07] Glad to receive the 2023 <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad">Chinese Government Award for Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
-    [2024.07] Three papers (one Oral) are accepted by ECCV 2024! <br>
+    [2024.07] Three papers (one Oral) are accepted to ECCV 2024! <br>
     [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w">SportsStrat (浦动) on CCTV5 in support of the 2024 Thomas & Uber Cups</a>!<br>
     [2024.03] Glad to receive the <a href="https://www.i.u-tokyo.ac.jp/news/topics/2024/202403192381.shtml">Dean's Award for Academic Achievement</a> from the UTokyo! <br>
-    [2024.02] Two papers are accepted by CVPR 2024. <br>
+    [2024.02] Two papers are accepted to CVPR 2024. <br>
     </summary>
     [2023.12] I give a talk at <a href="https://mp.weixin.qq.com/s/9kYeSrJze2Ah7snSqPFLPg" target="_blank"> OpenMMLab</a> about temporal super-resolution. <br>
     [2023.11] Glad to release <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny-Clearer</a> project! <br>
-    [2023.07] Two papers are accepted by ICCV 2023. <br>
-    [2023.07] One paper is accepted by ACM-MM 2023. <br>
+    [2023.07] Two papers are accepted to ICCV 2023. <br>
+    [2023.07] One paper is accepted to ACM-MM 2023. <br>
     [2023.03] I am accepted to CVPR 2023's Doctoral Consortium. <br>
-    [2023.02] Two papers are accepted by CVPR 2023. <br>
+    [2023.02] Two papers are accepted to CVPR 2023. <br>
     [2022.10] I give a talk at <a
                 href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
                 target="_blank">MIPI Workshop 2022</a>. <br>
-    [2022.10] One paper is accepted by IJCV. <br>
+    [2022.10] One paper is accepted to IJCV. <br>
     [2022.09] I become a JSPS「日本学術振興会」DC fellow! <br>
-    [2022.07] Three papers (one Oral) are accepted by ECCV 2022! <br>
+    [2022.07] Three papers (one Oral) are accepted to ECCV 2022! <br>
     [2022.04] I become a JEM intern at Microsoft. <br>
-    [2022.03] One paper is accepted by CVPR 2022. <br>
+    [2022.03] One paper is accepted to CVPR 2022. <br>
     [2021.09] I become a research intern in the Visual Computing group at MSRA. <br>
     [2021.04] I become a IIW fellow「知能社会創造フェローシップ生」of UTokyo! <br>
-    [2021.04] One paper is accepted by IoTJ. <br>
-    [2021.02] One paper is accepted by CVPR 2021. <br>
+    [2021.04] One paper is accepted to IoTJ. <br>
+    [2021.02] One paper is accepted to CVPR 2021. <br>
     [2020.11] I become a MSRA D-CORE fellow! <br>
     [2020.09] I obtain my M.E. degree from UTokyo with an outstanding thesis award! <br>
-    [2020.07] One paper (Spotlight) is accepted by ECCV 2020! <br>
-    [2019.12] One paper is accepted by IUI 2020. <br>
+    [2020.07] One paper (Spotlight) is accepted to ECCV 2020! <br>
+    [2019.12] One paper is accepted to IUI 2020. <br>
 </details>
 </font>
 
