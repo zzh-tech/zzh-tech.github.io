@@ -37,11 +37,11 @@ If you are interested, please email me with your CV and your published papers. <
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
-    [2024.08] Our <a href="https://mp.weixin.qq.com/s/dEAAvAupqjAMHczwTUCkhQ?version=4.1.28.6010&platform=win&nwr_flag=1#wechat_redirect">SportsStrat (浦动) empowers the 2024 Paris Olympics</a>!<br>
-    [2024.07] Glad to receive the 2023 <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad">Chinese Government Award for Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
+    [2024.08] Our <a href="https://mp.weixin.qq.com/s/dEAAvAupqjAMHczwTUCkhQ?version=4.1.28.6010&platform=win&nwr_flag=1#wechat_redirect" target="_blank">SportsStrat (浦动) empowers the 2024 Paris Olympics</a>!<br>
+    [2024.07] Glad to receive the 2023 <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Chinese Government Award for Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
     [2024.07] Three papers (one Oral) are accepted to ECCV 2024! <br>
-    [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w">SportsStrat (浦动) on CCTV5 in support of the 2024 Thomas & Uber Cups</a>!<br>
-    [2024.03] Glad to receive the <a href="https://www.i.u-tokyo.ac.jp/news/topics/2024/202403192381.shtml">Dean's Award for Academic Achievement</a> from the UTokyo! <br>
+    [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w" target="_blank">SportsStrat (浦动) on CCTV5 in support of the 2024 Thomas & Uber Cups</a>!<br>
+    [2024.03] Glad to receive the <a href="https://www.i.u-tokyo.ac.jp/news/topics/2024/202403192381.shtml" target="_blank">Dean's Award for Academic Achievement</a> from the UTokyo! <br>
     [2024.02] Two papers are accepted to CVPR 2024. <br>
     </summary>
     [2023.12] I give a talk at <a href="https://mp.weixin.qq.com/s/9kYeSrJze2Ah7snSqPFLPg" target="_blank"> OpenMMLab</a> about temporal super-resolution. <br>
