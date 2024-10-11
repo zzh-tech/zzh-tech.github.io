@@ -89,6 +89,17 @@ If you are interested, please email me with your CV and your published papers. <
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>ToMiE: Towards Modular Growth in Enhanced SMPL Skeleton for 3D Human <br>with Animatable Garments</b>
+      <br>
+      Yifan Zhan, Qingtian Zhu, Muyao Niu, Mingze Ma, Jiancheng Zhao, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>, Yu Qiao, Yinqiang Zheng
+      <br>
+      <em>arXiv</em>, 2024 <br>
+      <a href="https://arxiv.org/abs/2410.08082" target="_blank">arXiv</a> /
+      <a href="https://github.com/Yifever20002/ToMiE" target="_blank">code</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with<br>Pose Sequence</b>
       <br>
       Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Wei Wang, Xiao Sun<sup>†</sup>, Yu Qiao,<br>Yinqiang Zheng
@@ -175,7 +186,7 @@ If you are interested, please email me with your CV and your published papers. <
       <br>
       Yiming Zhang, Zhe Wang, Xinjie Li, Yunchen Yuan, Chengsong Zhang, Xiao Sun,<br><strong>Zhihang Zhong<sup>†</sup></strong>, Jian Wang<sup>†</sup>
       <br>
-      <em>Under review</em>, 2024 <br>
+      <em>arXiv</em>, 2024 <br>
       <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
     </td>
   </tr>
