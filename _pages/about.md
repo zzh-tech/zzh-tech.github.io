@@ -14,7 +14,7 @@ Hi, こんにちは, 你好 :-)
 <br><br>
 
 Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI
-Lab</a> (<a href="https://github.com/OpenGVLab" target="_blank">OpenGVLab</a>).<br>
+Laboratory</a>.<br>
 In 2023, he received his Ph.D. degree in Computer Science from the University of Tokyo (UTokyo).<br>
 In 2020, he received his M.E. degree in Precision Engineering from the UTokyo. <br>
 In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
@@ -22,11 +22,13 @@ In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors Coll
 Zhihang's current research interests include: <br>
 <b><em>* 4D motion modeling</em></b><br>
 <b><em>* AI for sports</em></b><br>
-<em>image/video restoration and enhancement</em><br>
+<em>* image/video restoration and enhancement</em><br>
 <br>
-<b><em>We are looking for highly self-motivated students (Joint Ph.D., 联合培养博士), and interns!</em></b><br>
-If you are interested, please email me with your CV and your published papers. <br>
-(P.S. We have sufficient computing resources and remote is possible)
+<b><em>We are looking for  
+(1) highly self-motivated Joint Ph.D. students (SJTU, FDU, ZJU, USTC等联合培养博士);<br>
+(2) interns with strong background and publications;<br>
+(3) remote collaborators with relevant and interesting ideas (we can provide enough A100s and 4090s, as well as specialized equipment for <a href="https://dna-rendering.github.io/#about" target="_blank">3D data acquisition</a>).<br>
+If you are interested, please email me with your CV and your published papers. </em></b><br>
 </font>
 
 <br>
@@ -91,7 +93,7 @@ If you are interested, please email me with your CV and your published papers. <
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>ToMiE: Towards Modular Growth in Enhanced SMPL Skeleton for 3D Human <br>with Animatable Garments</b>
       <br>
-      Yifan Zhan, Qingtian Zhu, Muyao Niu, Mingze Ma, Jiancheng Zhao, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>, Yu Qiao, Yinqiang Zheng
+      Yifan Zhan, Qingtian Zhu, Muyao Niu, Mingze Ma, Jiancheng Zhao, <strong>Zhihang Zhong<sup>†</sup></strong>, <br>Xiao Sun<sup>†</sup>, Yu Qiao, Yinqiang Zheng
       <br>
       <em>arXiv</em>, 2024 <br>
       <a href="https://arxiv.org/abs/2410.08082" target="_blank">arXiv</a> /
@@ -329,7 +331,7 @@ If you are interested, please email me with your CV and your published papers. <
        Stephen Lin,
        Imari Sato
       <br>
-      <em>ECCV</em>, 2022, <em style="color: red">Oral (top 2.7%)</em>
+      <em>ECCV</em>, 2022, <em style="color: red">Oral</em>
       <br>
       <a href="https://zzh-tech.github.io/Dual-Reversed-RS/" target="_blank">project page</a> /
       <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4547_ECCV_2022_paper.php" target="_blank">paper</a> /
@@ -440,7 +442,7 @@ If you are interested, please email me with your CV and your published papers. <
       Yinqiang Zheng,
       Bo Zheng
       <br>
-      <em>ECCV</em>, 2020, <em style="color: red">Spotlight (top 5.0%)</em>
+      <em>ECCV</em>, 2020, <em style="color: red">Spotlight</em>
       <br>
       <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5116_ECCV_2020_paper.php" target="_blank">paper</a> / 
       <a href="https://arxiv.org/abs/2106.16028" target="_blank">arXiv</a> / 
@@ -455,7 +457,7 @@ If you are interested, please email me with your CV and your published papers. <
       <strong>Zhihang Zhong<sup>*</sup></strong>,
       Chingszu Lin,
       Masako Kanai-Pak,
-      Jukai Maeda,
+      Jukai Maeda,<br>
       Yasuko Kitajima,
       Mitsuhiro Nakamura,
       Noriaki Kuwahara,
