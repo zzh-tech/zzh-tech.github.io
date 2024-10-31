@@ -24,7 +24,7 @@ Zhihang's current research interests include: <br>
 <b><em>* AI for sports</em></b><br>
 <em>* image/video restoration and enhancement</em><br>
 <br>
-<b><em>We are looking for<br>
+<em>We are looking for<br>
 (1) highly self-motivated Joint Ph.D. students (上海交大, 复旦, 浙大, 中科大等联合培养博士);<br>
 (2) interns with strong background and publications;<br>
 (3) remote collaborators with relevant and interesting ideas (we can provide sufficient A100s and 4090s, as well as specialized equipment for <a href="https://dna-rendering.github.io/#about" target="_blank">3D data acquisition</a>).<br>
