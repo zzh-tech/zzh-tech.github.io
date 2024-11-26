@@ -102,6 +102,16 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation</b>
+      <br>
+      Yuchen Yang, Xuanyi Liu, Xing Gao, <strong>Zhihang Zhong</strong>, Xiao Sun
+      <br>
+      <em>arXiv</em>, 2024 <br>
+      <a href="https://arxiv.org/abs/2411.13026" target="_blank">arXiv</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with<br>Pose Sequence</b>
       <br>
       Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Wei Wang, Xiao Sun<sup>†</sup>, Yu Qiao,<br>Yinqiang Zheng
