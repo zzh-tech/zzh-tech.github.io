@@ -91,6 +91,27 @@ If you are interested, please email me with your CV and your published papers.</
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>GAST: Sequential Gaussian Avatars with Hierarchical Spatio-temporal Context</b>
+      <br>
+      Wangze Xu, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
+      <br>
+      <em>arXiv</em>, 2024 <br>
+      <a href="https://arxiv.org/abs/2411.16768" target="_blank">arXiv</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Bundle Adjusted Gaussian Avatars Deblurring</b>
+      <br>
+      Muyao Niu, Yifan Zhan, Qingtian Zhu, Zhuoxiao Li, Wei Wang, <strong>Zhihang Zhong<sup>†</sup></strong>,<br>Xiao Sun<sup>†</sup>, Yinqiang Zheng
+      <br>
+      <em>arXiv</em>, 2024 <br>
+      <a href="https://www.arxiv.org/abs/2411.16758" target="_blank">arXiv</a> /
+      <a href="https://github.com/MyNiuuu/BAGA" target="_blank">code</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>ToMiE: Towards Modular Growth in Enhanced SMPL Skeleton for 3D Human <br>with Animatable Garments</b>
       <br>
       Yifan Zhan, Qingtian Zhu, Muyao Niu, Mingze Ma, Jiancheng Zhao, <strong>Zhihang Zhong<sup>†</sup></strong>, <br>Xiao Sun<sup>†</sup>, Yu Qiao, Yinqiang Zheng
