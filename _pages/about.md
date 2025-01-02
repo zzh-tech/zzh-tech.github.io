@@ -123,6 +123,16 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks</b>
+      <br>
+      Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yifan Zhan, Sheng Xu, <br>Xiao Sun<sup>†</sup>
+      <br>
+      <em>arXiv</em>, 2024 <br>
+      <a href="https://arxiv.org/abs/2412.20522" target="_blank">arXiv</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation</b>
       <br>
       Yuchen Yang, Xuanyi Liu, Xing Gao, <strong>Zhihang Zhong</strong>, Xiao Sun
