@@ -125,7 +125,7 @@ If you are interested, please email me with your CV and your published papers.</
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks</b>
       <br>
-      Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yifan Zhan, Sheng Xu, <br>Xiao Sun<sup>†</sup>
+      Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yifan Zhan, Sheng Xu, Xiao Sun<sup>†</sup>
       <br>
       <em>arXiv</em>, 2024 <br>
       <a href="https://arxiv.org/abs/2412.20522" target="_blank">arXiv</a>
