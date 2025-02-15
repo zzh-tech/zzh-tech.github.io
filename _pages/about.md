@@ -20,9 +20,9 @@ In 2020, he received his M.E. degree in Precision Engineering from the UTokyo. <
 In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
 <br>
 Zhihang's current research interests include: <br>
-<b><em>* Neural Rendering (NeRF/3DGS)</em></b><br>
+<b><em>* Neural Rendering </em></b><br>
 <b><em>* AI for Sports</em></b><br>
-<em>* Low-level Vision</em><br>
+<em>* Computational Photography</em><br>
 <br>
 <em>We are looking for<br>
 (1) highly self-motivated Joint Ph.D. students (上海交大, 复旦, 浙大, 中科大等联合培养博士);<br>
