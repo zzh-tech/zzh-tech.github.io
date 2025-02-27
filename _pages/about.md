@@ -91,6 +91,17 @@ If you are interested, please email me with your CV and your published papers.</
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks</b>
+      <br>
+      Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yifan Zhan, Sheng Xu, Xiao Sun<sup>†</sup>
+      <br>
+      <em>CVPR</em>, 2025 <br>
+      <a href="https://arxiv.org/abs/2412.20522" target="_blank">arXiv</a> /
+      <a href="https://github.com/kaikai23/maskgaussian" target="_blank">code</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>GAST: Sequential Gaussian Avatars with Hierarchical Spatio-temporal Context</b>
       <br>
       Wangze Xu, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
@@ -119,16 +130,6 @@ If you are interested, please email me with your CV and your published papers.</
       <em>arXiv</em>, 2024 <br>
       <a href="https://arxiv.org/abs/2410.08082" target="_blank">arXiv</a> /
       <a href="https://github.com/Yifever20002/ToMiE" target="_blank">code</a>
-    </td>
-  </tr>
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-      <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks</b>
-      <br>
-      Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yifan Zhan, Sheng Xu, Xiao Sun<sup>†</sup>
-      <br>
-      <em>arXiv</em>, 2024 <br>
-      <a href="https://arxiv.org/abs/2412.20522" target="_blank">arXiv</a>
     </td>
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
