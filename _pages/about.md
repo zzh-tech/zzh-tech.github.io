@@ -102,6 +102,27 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>R<sup>3</sup>-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars</b>
+      <br>
+      Yifan Zhan, Wangze Xu, Qingtian Zhu, Muyao Niu, Mingze Ma, Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>, Yinqiang Zheng
+      <br>
+      <em>arxiv</em>, 2025 <br>
+      <a href="https://arxiv.org/abs/2503.12751" target="_blank">arXiv</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>SGA-INTERACT: A 3D Skeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic</b>
+      <br>
+      Yuchen Yang, Wei Wang, Yifei Liu, Linfeng Dong, Hao Wu, Mingxin Zhang, <br><strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
+      <br>
+      <em>arxiv</em>, 2025 <br>
+      <a href="https://arxiv.org/abs/2503.06522" target="_blank">arXiv</a> /
+      <a href="https://github.com/Charrrrrlie/SGA-INTERACT?tab=readme-ov-file" target="_blank">code</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>GAST: Sequential Gaussian Avatars with Hierarchical Spatio-temporal Context</b>
       <br>
       Wangze Xu, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
@@ -139,7 +160,8 @@ If you are interested, please email me with your CV and your published papers.</
       Yuchen Yang, Xuanyi Liu, Xing Gao, <strong>Zhihang Zhong</strong>, Xiao Sun
       <br>
       <em>arXiv</em>, 2024 <br>
-      <a href="https://arxiv.org/abs/2411.13026" target="_blank">arXiv</a>
+      <a href="https://arxiv.org/abs/2411.13026" target="_blank">arXiv</a> /
+      <a href="https://github.com/Charrrrrlie/X-as-Supervision" target="_blank">code</a>
     </td>
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
@@ -198,6 +220,8 @@ If you are interested, please email me with your CV and your published papers.</
       Yinqiang Zheng
       <br>
       <em>ECCV</em>, 2024
+      <br>
+      <a href="https://arxiv.org/abs/2407.13185" target="_blank">arXiv</a>
     </td>
   </tr>
 
