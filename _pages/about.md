@@ -39,13 +39,14 @@ If you are interested, please email me with your CV and your published papers.</
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2025.02] <a href="https://github.com/kaikai23/maskgaussian" target="_blank">MaskGaussian</a> is accepted to CVPR 2025. <br>
     [2024.08] Our <a href="https://mp.weixin.qq.com/s/dEAAvAupqjAMHczwTUCkhQ?version=4.1.28.6010&platform=win&nwr_flag=1#wechat_redirect" target="_blank">SportsStrat (浦动) empowers the 2024 Paris Olympics</a>!<br>
     [2024.07] Glad to receive the 2023 <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Chinese Government Award for Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
     [2024.07] Three papers (one Oral) are accepted to ECCV 2024! <br>
     [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w" target="_blank">SportsStrat (浦动) on CCTV5 in support of the 2024 Thomas & Uber Cups</a>!<br>
     [2024.03] Glad to receive the <a href="https://www.i.u-tokyo.ac.jp/news/topics/2024/202403192381.shtml" target="_blank">Dean's Award for Academic Achievement</a> from the UTokyo! <br>
+    </summary>    
     [2024.02] Two papers are accepted to CVPR 2024. <br>
-    </summary>
     [2023.12] I give a talk at <a href="https://mp.weixin.qq.com/s/9kYeSrJze2Ah7snSqPFLPg" target="_blank"> OpenMMLab</a> about temporal super-resolution. <br>
     [2023.11] Glad to release <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny-Clearer</a> project! <br>
     [2023.07] Two papers are accepted to ICCV 2023. <br>
@@ -98,6 +99,18 @@ If you are interested, please email me with your CV and your published papers.</
       <em>CVPR</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2412.20522" target="_blank">arXiv</a> /
       <a href="https://github.com/kaikai23/maskgaussian" target="_blank">code</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction</b>
+      <br>
+      Yuanyuan Gao, Hao Li, Jiaqi Chen, Zhengyu Zou, <strong>Zhihang Zhong<sup>†</sup></strong>, Dingwen Zhang<sup>†</sup>,<br>Xiao Sun, Junwei Han
+      <br>
+      <em>arxiv</em>, 2025 <br>
+      <a href="https://lifuguan.github.io/CityGS-X/" target="_blank">project page</a> /
+      <a href="https://arxiv.org/abs/2503.23044" target="_blank">arXiv</a> /
+      <a href="https://github.com/gyy456/CityGS-X" target="_blank">code</a>
     </td>
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
