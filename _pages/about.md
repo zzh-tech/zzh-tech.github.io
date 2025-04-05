@@ -97,13 +97,14 @@ If you are interested, please email me with your CV and your published papers.</
       Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yifan Zhan, Sheng Xu, Xiao Sun<sup>†</sup>
       <br>
       <em>CVPR</em>, 2025 <br>
+      <a href="https://maskgaussian.github.io/" target="_blank">project page</a> /
       <a href="https://arxiv.org/abs/2412.20522" target="_blank">arXiv</a> /
       <a href="https://github.com/kaikai23/maskgaussian" target="_blank">code</a>
     </td>
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction</b>
+        <b>CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale <br>Scene Reconstruction</b>
       <br>
       Yuanyuan Gao, Hao Li, Jiaqi Chen, Zhengyu Zou, <strong>Zhihang Zhong<sup>†</sup></strong>, Dingwen Zhang<sup>†</sup>,<br>Xiao Sun, Junwei Han
       <br>
@@ -115,19 +116,20 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>R<sup>3</sup>-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars</b>
+        <b>R<sup>3</sup>-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic <br>Human Avatars</b>
       <br>
-      Yifan Zhan, Wangze Xu, Qingtian Zhu, Muyao Niu, Mingze Ma, Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>, Yinqiang Zheng
+      Yifan Zhan, Wangze Xu, Qingtian Zhu, Muyao Niu, Mingze Ma, Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, <br>Xiao Sun<sup>†</sup>, Yinqiang Zheng
       <br>
       <em>arxiv</em>, 2025 <br>
-      <a href="https://arxiv.org/abs/2503.12751" target="_blank">arXiv</a>
+      <a href="https://arxiv.org/abs/2503.12751" target="_blank">arXiv</a> /
+      <a href="https://github.com/Yifever20002/R3Avatars" target="_blank">code</a>
     </td>
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>SGA-INTERACT: A 3D Skeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic</b>
+        <b>SGA-INTERACT: A 3D Skeleton-based Benchmark for Group Activity Understanding <br>in Modern Basketball Tactic</b>
       <br>
-      Yuchen Yang, Wei Wang, Yifei Liu, Linfeng Dong, Hao Wu, Mingxin Zhang, <br><strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
+      Yuchen Yang, Wei Wang, Yifei Liu, Linfeng Dong, Hao Wu, Mingxin Zhang, <strong>Zhihang Zhong<sup>†</sup></strong>, <br>Xiao Sun<sup>†</sup>
       <br>
       <em>arxiv</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2503.06522" target="_blank">arXiv</a> /
@@ -168,7 +170,7 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation</b>
+        <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D <br>Pose Estimation</b>
       <br>
       Yuchen Yang, Xuanyi Liu, Xing Gao, <strong>Zhihang Zhong</strong>, Xiao Sun
       <br>
@@ -230,7 +232,7 @@ If you are interested, please email me with your CV and your published papers.</
       <strong>Zhihang Zhong</strong>,
       Shohei Nobuhara,
       Ko Nishino,
-      Yinqiang Zheng
+      <br>Yinqiang Zheng
       <br>
       <em>ECCV</em>, 2024
       <br>
@@ -284,7 +286,7 @@ If you are interested, please email me with your CV and your published papers.</
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>NIR-assisted Low-light Video Enhancement Using Unpaired <br> 24-hour Data</b>
+        <b>NIR-assisted Low-light Video Enhancement Using Unpaired 24-hour Data</b>
       <br>
       Muyao Niu,
       <strong>Zhihang Zhong</strong>,
@@ -388,7 +390,7 @@ If you are interested, please email me with your CV and your published papers.</
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Animation from Blur: Multi-modal Blur Decomposition with <br> Motion Guidance</b>
+        <b>Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance</b>
       <br>
       <strong>Zhihang Zhong<sup>*</sup></strong>,
       Xiao Sun, 
@@ -490,7 +492,7 @@ If you are interested, please email me with your CV and your published papers.</
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient <br> Recurrent Neural Network</b>
+        <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient Recurrent <br>Neural Network</b>
       <br>
       <strong>Zhihang Zhong<sup>*</sup></strong>,
       Ye Gao,
@@ -582,7 +584,7 @@ If you are interested, please email me with your CV and your published papers.</
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Multi-attention deep recurrent neural network for nursing action <br> evaluation using wearable sensor</b>
+        <b>Multi-attention deep recurrent neural network for nursing action evaluation <br>using wearable sensor</b>
       <br>
       <strong>Zhihang Zhong<sup>*</sup></strong>,
       Chingszu Lin,
