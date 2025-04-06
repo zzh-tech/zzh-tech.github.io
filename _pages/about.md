@@ -236,7 +236,8 @@ If you are interested, please email me with your CV and your published papers.</
       <br>
       <em>ECCV</em>, 2024
       <br>
-      <a href="https://arxiv.org/abs/2407.13185" target="_blank">arXiv</a>
+      <a href="https://arxiv.org/abs/2407.13185" target="_blank">arXiv</a> /
+      <a href="https://github.com/Yifever20002/KFD-NeRF" target="_blank">code</a> /
     </td>
   </tr>
 
@@ -286,7 +287,7 @@ If you are interested, please email me with your CV and your published papers.</
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>NIR-assisted Low-light Video Enhancement Using Unpaired 24-hour Data</b>
+        <b>NIR-assisted Video Enhancement via Unpaired 24-hour Data </b>
       <br>
       Muyao Niu,
       <strong>Zhihang Zhong</strong>,
@@ -310,7 +311,8 @@ If you are interested, please email me with your CV and your published papers.</
       <br>
       <em>ICCV</em>, 2023
       <br>
-      <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Rethinking_Video_Frame_Interpolation_from_Shutter_Mode_Induced_Degradation_ICCV_2023_paper.html" target="_blank">paper</a>
+      <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Rethinking_Video_Frame_Interpolation_from_Shutter_Mode_Induced_Degradation_ICCV_2023_paper.html" target="_blank">paper</a> /
+      <a href="https://github.com/jixiang2016/PMBNet" target="_blank">code</a>
     </td>
   </tr>
 
@@ -331,7 +333,8 @@ If you are interested, please email me with your CV and your published papers.</
       <br>
       <em>ICCV Workshops</em>, 2023
       <br>
-      <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a>
+      <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a> /
+      <a href="https://github.com/zzh-tech/ClipCrop" target="_blank">dataset</a>
     </td>
   </tr>  
 
@@ -453,7 +456,7 @@ If you are interested, please email me with your CV and your published papers.</
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Towards real-world video deblurring by exploring blur formation process</b>
+        <b>Towards Real-world Video Deblurring by Exploring Blur Formation Process</b>
       <br>
       Mingdeng Cao,
       <strong>Zhihang Zhong</strong>,
@@ -543,7 +546,7 @@ If you are interested, please email me with your CV and your published papers.</
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Multistream Temporal Convolutional Network for Correct/Incorrect <br> Patient Transfer Action Detection Using Body Sensor Network</b>
+        <b>Multistream Temporal Convolutional Network for Correct/Incorrect <br> Patient Transfer Action Detection using Body Sensor Network</b>
       <br>
       <strong>Zhihang Zhong<sup>*</sup></strong>,
       Chingszu Lin,
@@ -564,7 +567,7 @@ If you are interested, please email me with your CV and your published papers.</
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Development and validation of robot patient equipped with an inertial measurement unit and angular position sensors to evaluate transfer <br> skills of nurses</b>
+        <b>Development and Validation of Robot Patient Equipped with An Inertial Measurement Unit and Angular Position Sensors to Evaluate Transfer Skills of Nurses</b>
       <br>
       Chingszu Lin,
       Taiki Ogata,
@@ -584,7 +587,7 @@ If you are interested, please email me with your CV and your published papers.</
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Multi-attention deep recurrent neural network for nursing action evaluation <br>using wearable sensor</b>
+        <b>Multi-attention Deep Recurrent Neural Network for Nursing Action Evaluation <br>using Wearable Sensor</b>
       <br>
       <strong>Zhihang Zhong<sup>*</sup></strong>,
       Chingszu Lin,
