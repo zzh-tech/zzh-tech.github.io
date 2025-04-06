@@ -104,7 +104,7 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale <br>Scene Reconstruction</b>
+        <b>CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction</b>
       <br>
       Yuanyuan Gao, Hao Li, Jiaqi Chen, Zhengyu Zou, <strong>Zhihang Zhong<sup>†</sup></strong>, Dingwen Zhang<sup>†</sup>,<br>Xiao Sun, Junwei Han
       <br>
@@ -116,7 +116,7 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>R<sup>3</sup>-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic <br>Human Avatars</b>
+        <b>R<sup>3</sup>-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars</b>
       <br>
       Yifan Zhan, Wangze Xu, Qingtian Zhu, Muyao Niu, Mingze Ma, Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, <br>Xiao Sun<sup>†</sup>, Yinqiang Zheng
       <br>
@@ -127,7 +127,7 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>SGA-INTERACT: A 3D Skeleton-based Benchmark for Group Activity Understanding <br>in Modern Basketball Tactic</b>
+        <b>SGA-INTERACT: A 3D Skeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic</b>
       <br>
       Yuchen Yang, Wei Wang, Yifei Liu, Linfeng Dong, Hao Wu, Mingxin Zhang, <strong>Zhihang Zhong<sup>†</sup></strong>, <br>Xiao Sun<sup>†</sup>
       <br>
@@ -170,7 +170,7 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D <br>Pose Estimation</b>
+        <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation</b>
       <br>
       Yuchen Yang, Xuanyi Liu, Xing Gao, <strong>Zhihang Zhong</strong>, Xiao Sun
       <br>
