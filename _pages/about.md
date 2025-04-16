@@ -138,6 +138,24 @@ If you are interested, please email me with your CV and your published papers.</
   </tr>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Disambiguation for Video Frame Interpolation</b>
+      <br>
+      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      Yiming Zhang,
+      Wei Wang,
+      Xiao Sun,
+      Yu Qiao,
+      Gurunandan Krishnan,
+      Sizhuo Ma,
+      Jian Wang
+      <br>
+      <em>arxiv</em>, 2025
+      <br>
+      <a href="https://arxiv.org/abs/2311.08007v3" target="_blank">arXiv</a>
+    </td>
+  </tr>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>GAST: Sequential Gaussian Avatars with Hierarchical Spatio-temporal Context</b>
       <br>
       Wangze Xu, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
@@ -207,16 +225,16 @@ If you are interested, please email me with your CV and your published papers.</
         <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
       <br>
       <strong>Zhihang Zhong<sup>*</sup></strong>,
+      Gurunandan Krishnan,      
       Xiao Sun,
       Yu Qiao,
-      Gurunandan Krishnan,
       Sizhuo Ma,
       Jian Wang
       <br>
       <em>ECCV</em>, 2024, <em style="color: red">Oral</em>
       <br>
       <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
-      <a href="https://arxiv.org/abs/2311.08007" target="_blank">arXiv</a> /
+      <a href="https://arxiv.org/abs/2311.08007v2" target="_blank">arXiv</a> /
       <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a> /
       <a href="http://ai4sports.opengvlab.com/interpany-clearer/" target="_blank">demo</a>
     </td>
