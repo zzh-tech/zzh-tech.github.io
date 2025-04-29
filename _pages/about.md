@@ -20,8 +20,8 @@ In 2020, he received his M.E. degree in Precision Engineering from the UTokyo. <
 In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
 <br>
 Zhihang's current research interests include: <br>
-<b><em>* Neural Rendering </em></b><br>
-<b><em>* AI for Sports</em></b><br>
+<b><em>* Spatial Intelligence</em></b><br>
+<b><em>* Human-centric Computer Vision </em></b><br>
 <em>* Computational Photography</em><br>
 <br>
 <em>We are looking for<br>
