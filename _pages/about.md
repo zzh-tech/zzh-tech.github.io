@@ -129,7 +129,7 @@ If you are interested, please email me with your CV and your published papers.</
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>SGA-INTERACT: A 3D Skeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic</b>
       <br>
-      Yuchen Yang, Wei Wang, Yifei Liu, Linfeng Dong, Hao Wu, Mingxin Zhang, <strong>Zhihang Zhong<sup>†</sup></strong>, <br>Xiao Sun<sup>†</sup>
+      Yuchen Yang, Wei Wang, Yifei Liu, Linfeng Dong, Hao Wu, Mingxin Zhang, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
       <br>
       <em>arxiv</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2503.06522" target="_blank">arXiv</a> /
@@ -197,7 +197,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://github.com/Charrrrrlie/X-as-Supervision" target="_blank">code</a>
     </td>
   </tr>
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+  <!-- <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding</b>
       <br>
@@ -206,7 +206,7 @@ If you are interested, please email me with your CV and your published papers.</
       <em>arXiv</em>, 2024 <br>
       <a href="https://arxiv.org/abs/2412.01115" target="_blank">arXiv</a>
     </td>
-  </tr>
+  </tr> -->
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with<br>Pose Sequence</b>
