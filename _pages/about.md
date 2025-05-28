@@ -102,6 +102,30 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://github.com/kaikai23/maskgaussian" target="_blank">code</a>
     </td>
   </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>DiffBody: Human Body Image Restoration with Generative Diffusion Prior</b>
+      <br>
+      Yiming Zhang, Zhe Wang, Sizhuo Ma, Xinjie Li, Jian Ren, <strong>Zhihang Zhong<sup>†</sup></strong>, Jian Wang<sup>†</sup>
+      <br>
+      <em>ICCP</em>, 2025 <br>
+      <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
+    </td>
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models</b>
+      <br>
+      Muyao Niu, Mingdeng Cao, Yifan Zhan, Qingtian Zhu, Mingze Ma, Jiancheng Zhao, Yanhong Zeng, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>, Yinqiang Zheng
+      <br>
+      <em>arxiv</em>, 2025 <br>
+      <a href="https://www.arxiv.org/abs/2505.20255" target="_blank">arXiv</a> /
+      <a href="https://github.com/MyNiuuu/AniCrafter" target="_blank">code</a>
+    </td>
+  </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction</b>
@@ -114,6 +138,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://github.com/gyy456/CityGS-X" target="_blank">code</a>
     </td>
   </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>R<sup>3</sup>-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars</b>
@@ -125,6 +150,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://github.com/Yifever20002/R3Avatars" target="_blank">code</a>
     </td>
   </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>SGA-INTERACT: A 3D Skeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic</b>
@@ -136,6 +162,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://github.com/Charrrrrlie/SGA-INTERACT?tab=readme-ov-file" target="_blank">code</a>
     </td>
   </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Disambiguation for Video Frame Interpolation</b>
@@ -154,6 +181,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://arxiv.org/abs/2311.08007v3" target="_blank">arXiv</a>
     </td>
   </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>GAST: Sequential Gaussian Avatars with Hierarchical Spatio-temporal Context</b>
@@ -164,6 +192,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://arxiv.org/abs/2411.16768" target="_blank">arXiv</a>
     </td>
   </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Bundle Adjusted Gaussian Avatars Deblurring</b>
@@ -175,6 +204,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://github.com/MyNiuuu/BAGA" target="_blank">code</a>
     </td>
   </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>ToMiE: Towards Modular Growth in Enhanced SMPL Skeleton for 3D Human <br>with Animatable Garments</b>
@@ -186,6 +216,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://github.com/Yifever20002/ToMiE" target="_blank">code</a>
     </td>
   </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation</b>
@@ -197,6 +228,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://github.com/Charrrrrlie/X-as-Supervision" target="_blank">code</a>
     </td>
   </tr>
+
   <!-- <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding</b>
@@ -207,6 +239,7 @@ If you are interested, please email me with your CV and your published papers.</
       <a href="https://arxiv.org/abs/2412.01115" target="_blank">arXiv</a>
     </td>
   </tr> -->
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with<br>Pose Sequence</b>
@@ -289,17 +322,6 @@ If you are interested, please email me with your CV and your published papers.</
       <br>
       <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_Fooling_Polarization-Based_Vision_using_Locally_Controllable_Polarizing_Projection_CVPR_2024_paper.html" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2303.17890" target="_blank">arXiv</a>
-    </td>
-  </tr>
-
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-      <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>DiffBody: Human Body Restoration by Imagining with Generative Diffusion Prior</b>
-      <br>
-      Yiming Zhang, Zhe Wang, Xinjie Li, Yunchen Yuan, Chengsong Zhang, Xiao Sun,<br><strong>Zhihang Zhong<sup>†</sup></strong>, Jian Wang<sup>†</sup>
-      <br>
-      <em>arXiv</em>, 2024 <br>
-      <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
     </td>
   </tr>
 
