@@ -158,6 +158,7 @@ If you are interested, please email me with your Resume.</em><br>
       Muyao Niu, Mingdeng Cao, Yifan Zhan, Qingtian Zhu, Mingze Ma, Jiancheng Zhao, Yanhong Zeng, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>, Yinqiang Zheng
       <br>
       <em>arxiv</em>, 2025 <br>
+      <a href="https://myniuuu.github.io/AniCrafter/" target="_blank">project page</a> /
       <a href="https://www.arxiv.org/abs/2505.20255" target="_blank">arXiv</a> /
       <a href="https://github.com/MyNiuuu/AniCrafter" target="_blank">code</a>
     </td>
