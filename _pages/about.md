@@ -21,14 +21,14 @@ In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors Coll
 <br>
 Zhihang's current research interests include: <br>
 <b><em>* Spatial Intelligence</em></b><br>
-<b><em>* Human-centric Computer Vision </em></b><br>
+<b><em>* Neural Rendering</em></b><br>
 <em>* Computational Photography</em><br>
 <br>
 <em>We are looking for<br>
-(1) highly self-motivated Joint Ph.D. students (上交, 复旦, 浙大, 中科大, 北航等联合培养博士);<br>
-(2) interns with good background and publications;<br>
-(3) remote collaborators with relevant research interests (we can provide idea, GPU, and equipments for 3D data acquisition).<br>
-If you are interested, please email me with your Resume.</em><br>
+<b>(1) research interns in 3D/4D Peception, Generation and Editing;</b><br>
+<b>(2) research interns in Spatial Intelligence based on Multimodal Large Models;</b><br>
+(3) remote collaborators with relevant research interests.<br>
+If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with your Resume.</em><br>
 </font>
 
 <br>
