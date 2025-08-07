@@ -111,7 +111,9 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       Wangze Xu, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
       <br>
       <em>ICCV</em>, 2025 <br>
-      <a href="https://arxiv.org/abs/2411.16768" target="_blank">arXiv</a>
+      <a href="https://zezeaaa.github.io/projects/SeqAvatar/" target="_blank">project page</a> /
+      <a href="https://arxiv.org/abs/2411.16768" target="_blank">arXiv</a> /
+      <a href="https://github.com/zezeaaa/SeqAvatar" target="_blank">code</a>
     </td>
   </tr>
   
