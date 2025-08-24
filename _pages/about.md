@@ -292,7 +292,7 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       <em>ECCV</em>, 2024
       <br>
       <a href="https://arxiv.org/abs/2407.13185" target="_blank">arXiv</a> /
-      <a href="https://github.com/Yifever20002/KFD-NeRF" target="_blank">code</a> /
+      <a href="https://github.com/Yifever20002/KFD-NeRF" target="_blank">code</a>
     </td>
   </tr>
 
