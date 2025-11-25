@@ -94,6 +94,18 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>RacketVision: A Multiple Racket Sports Benchmark for Unified Ball and Racket Analysis</b>
+      <br>
+      Linfeng Dong, Yuchen Yang, Hao Wu, Wei Wang, Yuenan Hou, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
+      <br>
+      <em>AAAI</em>, 2026, <em style="color: red">Oral</em><br>
+      <a href="https://arxiv.org/abs/2511.17045" target="_blank">arXiv</a> /
+      <a href="https://github.com/OrcustD/RacketVision" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction</b>
       <br>
       Yuanyuan Gao, Hao Li, Jiaqi Chen, Zhengyu Zou, <strong>Zhihang Zhong<sup>†</sup></strong>, Dingwen Zhang<sup>†</sup>,<br>Xiao Sun, Junwei Han
