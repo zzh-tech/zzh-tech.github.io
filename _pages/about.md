@@ -68,10 +68,10 @@ If you are interested, please email me: zzh-tech [at] gmail.com</em><br>
 </font>
 
 ## Projects
-<b>Visionary:</b><br>
+<b>Visionary:</b><br><br>
 <img src="../images/visionary_teaser.png" width="72%" height="72%"/>
 
-<b>SportsStrat:</b><br>
+<b>SportsStrat:</b><br><br>
 <img src="../files/ai4sports/badminton_unity_demo.gif" width="72%" height="72%"/>
 
 ## Publications
