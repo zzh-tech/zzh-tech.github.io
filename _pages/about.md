@@ -15,37 +15,30 @@ Hi, こんにちは, 你好 :-)
 
 Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI
 Laboratory</a>.<br>
-In 2023, he received his Ph.D. degree in Computer Science from the University of Tokyo (UTokyo).<br>
-In 2020, he received his M.E. degree in Precision Engineering from the UTokyo. <br>
-In 2018, he received his B.E. degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
+He received his PhD degree in Computer Science and ME degree in Precision Engineering from the University of Tokyo (UTokyo). Before that, he received his BE degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
 <br>
 Zhihang's current research interests include: <br>
 <b><em>* Spatial Intelligence</em></b><br>
 <b><em>* Neural Rendering</em></b><br>
 <em>* Computational Photography</em><br>
 <br>
-<em>We are looking for<br>
-<b>(1) research interns in 3D/4D Perception, Reconstruction, Generation and Editing;</b><br>
-<b>(2) research interns in Spatial Intelligence based on Multimodal Large Models;</b><br>
-(3) remote collaborators with relevant research interests.<br>
-If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with your Resume.</em><br>
+<b>🔥 <em>We are looking for interns and PhD students!</b><br>
+If you are interested, please email me: zzh-tech [at] gmail.com</em><br>
 </font>
-
-<br>
-<img src="../files/ai4sports/badminton_unity_demo.gif" width="83%" height="83%"/>
 
 ## News
 
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
     [2025.11] One paper (Oral) is accepted to AAAI 2026. <br>
     [2025.06] Three papers are accepted to ICCV 2025. <br>
     [2025.02] <a href="https://github.com/kaikai23/maskgaussian" target="_blank">MaskGaussian</a> is accepted to CVPR 2025. <br>
     [2024.08] Our <a href="https://mp.weixin.qq.com/s/dEAAvAupqjAMHczwTUCkhQ?version=4.1.28.6010&platform=win&nwr_flag=1#wechat_redirect" target="_blank">SportsStrat (浦动) empowers the 2024 Paris Olympics</a>!<br>
+    </summary>
     [2024.07] Glad to receive the 2023 <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Chinese Government Award for Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
     [2024.07] Three papers (one Oral) are accepted to ECCV 2024! <br>
-    </summary>   
     [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w" target="_blank">SportsStrat (浦动) on CCTV5 in support of the 2024 Thomas & Uber Cups</a>!<br>
     [2024.03] Glad to receive the <a href="https://www.i.u-tokyo.ac.jp/news/topics/2024/202403192381.shtml" target="_blank">Dean's Award for Academic Achievement</a> from the UTokyo! <br>
     [2024.02] Two papers are accepted to CVPR 2024. <br>
@@ -74,6 +67,13 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
 </details>
 </font>
 
+## Projects
+<b>Visionary:</b><br>
+<img src="../images/visionary_teaser.png" width="72%" height="72%"/>
+
+<b>SportsStrat:</b><br>
+<img src="../files/ai4sports/badminton_unity_demo.gif" width="72%" height="72%"/>
+
 ## Publications
 
 <head>
@@ -94,6 +94,20 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform</b>
+      <br>
+      Yuning Gong, Yifei Liu, Yifan Zhan, Muyao Niu, Xueying Li, Yuanjun Liao, Jiaming Chen, Yuanyuan Gao, Jiaqi Chen, Minming Chen, Li Zhou, Yuning Zhang, Wei Wang, Xiaoqing Hou, Huaxi Huang, Shixiang Tang, Le Ma, Dingwen Zhang, Xue Yang, Junchi Yan, Yanchi Zhang, Yinqiang Zheng, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
+      <br>
+      <em>arXiv</em>, 2025<br>
+      <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2512.08478" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/visionary" target="_blank">code</a> /
+      <a href="https://ai4sports.opengvlab.com/index_visionary.html" target="_blank">editor</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>RacketVision: A Multiple Racket Sports Benchmark for Unified Ball and Racket Analysis</b>
       <br>
       Linfeng Dong, Yuchen Yang, Hao Wu, Wei Wang, Yuenan Hou, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
@@ -111,7 +125,7 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       Yuanyuan Gao, Hao Li, Jiaqi Chen, Zhengyu Zou, <strong>Zhihang Zhong<sup>†</sup></strong>, Dingwen Zhang<sup>†</sup>,<br>Xiao Sun, Junwei Han
       <br>
       <em>ICCV</em>, 2025 <br>
-      <a href="https://lifuguan.github.io/CityGS-X/" target="_blank">project page</a> /
+      <a href="https://lifuguan.github.io/CityGS-X/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2503.23044" target="_blank">arXiv</a> /
       <a href="https://github.com/gyy456/CityGS-X" target="_blank">code</a>
     </td>
@@ -124,7 +138,7 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       Wangze Xu, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>
       <br>
       <em>ICCV</em>, 2025 <br>
-      <a href="https://zezeaaa.github.io/projects/SeqAvatar/" target="_blank">project page</a> /
+      <a href="https://zezeaaa.github.io/projects/SeqAvatar/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2411.16768" target="_blank">arXiv</a> /
       <a href="https://github.com/zezeaaa/SeqAvatar" target="_blank">code</a>
     </td>
@@ -149,7 +163,7 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yifan Zhan, Sheng Xu, Xiao Sun<sup>†</sup>
       <br>
       <em>CVPR</em>, 2025 <br>
-      <a href="https://maskgaussian.github.io/" target="_blank">project page</a> /
+      <a href="https://maskgaussian.github.io/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2412.20522" target="_blank">arXiv</a> /
       <a href="https://github.com/kaikai23/maskgaussian" target="_blank">code</a>
     </td>
@@ -173,7 +187,7 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       Muyao Niu, Mingdeng Cao, Yifan Zhan, Qingtian Zhu, Mingze Ma, Jiancheng Zhao, Yanhong Zeng, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>, Yinqiang Zheng
       <br>
       <em>arxiv</em>, 2025 <br>
-      <a href="https://myniuuu.github.io/AniCrafter/" target="_blank">project page</a> /
+      <a href="https://myniuuu.github.io/AniCrafter/" target="_blank">project</a> /
       <a href="https://www.arxiv.org/abs/2505.20255" target="_blank">arXiv</a> /
       <a href="https://github.com/MyNiuuu/AniCrafter" target="_blank">code</a>
     </td>
@@ -264,7 +278,7 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup>†</sup></strong>, Wei Wang, Xiao Sun<sup>†</sup>, Yu Qiao,<br>Yinqiang Zheng
       <br>
       <em>ECCV</em>, 2024 <br>
-      <a href="http://ai4sports.opengvlab.com/Dyco" target="_blank">project page</a> / 
+      <a href="http://ai4sports.opengvlab.com/Dyco" target="_blank">project</a> / 
       <a href="https://arxiv.org/abs/2403.19160" target="_blank">arXiv</a> /
       <a href="https://github.com/Yifever20002/Dyco" target="_blank">code</a>
     </td>
@@ -283,11 +297,9 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       <br>
       <em>ECCV</em>, 2024, <em style="color: red">Oral</em>
       <br>
-      <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project page</a> /
+      <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2311.08007v2" target="_blank">arXiv</a> /
-      <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a> /
-      <a href="http://ai4sports.opengvlab.com/interpany-clearer/" target="_blank">demo</a>
-    </td>
+      <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank">code</a>    </td>
   </tr>
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
@@ -423,7 +435,7 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       <br>
       <em>CVPR</em>, 2023
       <br>
-      <a href="https://zzh-tech.github.io/BiT/" target="_blank">project page</a> /
+      <a href="https://zzh-tech.github.io/BiT/" target="_blank">project</a> /
       <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhong_Blur_Interpolation_Transformer_for_Real-World_Motion_From_Blur_CVPR_2023_paper.html" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2211.11423" target="_blank">arXiv</a> /
       <a href="https://github.com/zzh-tech/BiT" target="_blank">code</a> /
@@ -461,7 +473,7 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       <br>
       <em>ECCV</em>, 2022
       <br>
-      <a href="https://zzh-tech.github.io/Animation-from-Blur/" target="_blank">project page</a> /
+      <a href="https://zzh-tech.github.io/Animation-from-Blur/" target="_blank">project</a> /
       <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7210_ECCV_2022_paper.php" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2207.10123" target="_blank">arXiv</a> / 
       <a href="https://github.com/zzh-tech/Animation-from-Blur" target="_blank">code</a> /
@@ -484,7 +496,7 @@ If you are interested, please email me ( zhongzhihang [at] pjlab.org.cn ) with y
       <br>
       <em>ECCV</em>, 2022, <em style="color: red">Oral</em>
       <br>
-      <a href="https://zzh-tech.github.io/Dual-Reversed-RS/" target="_blank">project page</a> /
+      <a href="https://zzh-tech.github.io/Dual-Reversed-RS/" target="_blank">project</a> /
       <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4547_ECCV_2022_paper.php" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2203.06451" target="_blank">arXiv</a> / 
       <a href="https://github.com/zzh-tech/Dual-Reversed-RS" target="_blank">code</a>
