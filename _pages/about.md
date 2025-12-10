@@ -22,7 +22,7 @@ Zhihang's current research interests include: <br>
 <b><em>* Neural Rendering</em></b><br>
 <em>* Computational Photography</em><br>
 <br>
-<b>🔥 <em>We are looking for interns and PhD students!</b><br>
+<em><b>🔥 We are looking for interns and PhD students!</b><br>
 If you are interested, please email me: zzh-tech [at] gmail.com</em><br>
 </font>
 
