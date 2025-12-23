@@ -13,17 +13,19 @@ redirect_from:
 Hi, こんにちは, 你好 :-)
 <br><br>
 
-Zhihang Zhong is a researcher at <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI
-Laboratory</a>.<br>
+Zhihang Zhong is a researcher at Shanghai AI
+Laboratory and an incoming <b><em>Associate Professor at the School of Artificial Intelligence, Shanghai Jiao Tong University.</em></b><br>
+
 He received his PhD degree in Computer Science and ME degree in Precision Engineering from the University of Tokyo (UTokyo). Before that, he received his BE degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
 <br>
-Zhihang's current research interests include: <br>
-<b><em>* Spatial Intelligence</em></b><br>
-<b><em>* Neural Rendering</em></b><br>
-<em>* Computational Photography</em><br>
+Zhihang's current research interests focus on <b><em>Spatial Intelligence</em></b>: <br>
+<b><em>* Neural Rendering (3DGS)</em></b><br>
+<b><em>* Spatial Agent (VLM-based)</em></b><br>
+<em>* Feed-forward 3D Vision Tasks</em><br>
 <br>
-<em><b>🔥 We are looking for interns and PhD students!</b><br>
-If you are interested, please email me: zzh-tech [at] gmail.com</em><br>
+<em><b>🔥 We are looking for PhD students (26 Fall 普博，以及欢迎有创智、中关村、河套学院名额的学生联系) and RAs!</b><br>
+If you are interested, please email me with with your CV and a brief description of your research interests:</em><br>
+<em>zzh-tech [at] gmail.com</em><br>
 </font>
 
 ## News
