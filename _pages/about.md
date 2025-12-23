@@ -25,7 +25,7 @@ Zhihang's current research interests focus on <b><em>Spatial Intelligence</em></
 <br>
 <em><b>🔥 We are looking for PhD students (26 Fall 普博，以及欢迎有创智、中关村、河套学院名额的学生联系) and RAs!</b><br>
 If you are interested, please email me with with your CV and a brief description of your research interests:</em><br>
-<em>zzh-tech [at] gmail.com</em><br>
+<em>zzh.tech [at] gmail.com</em><br>
 </font>
 
 ## News
