@@ -23,7 +23,7 @@ Zhihang's current research interests focus on <b><em>Spatial Intelligence</em></
 <b><em>* Spatial Agent (VLM-based)</em></b><br>
 <em>* Feed-forward 3D Vision Tasks</em><br>
 <br>
-<em><b>🔥 We are looking for PhD students (26 Fall 普博，以及欢迎有创智、中关村、河套学院名额的学生联系) and RAs!</b><br>
+<em><b>🔥 We are looking for PhD students (26普博、27直博以及欢迎有创智、中关村、河套学院名额的学生联系) and RAs!</b><br>
 If you are interested, please email me with with your CV and a brief description of your research interests:</em><br>
 <em>zzh.tech [at] gmail.com</em><br>
 </font>
@@ -89,7 +89,7 @@ If you are interested, please email me with with your CV and a brief description
 </head>
 
 <font size="+0.2">
-<sup>*</sup> indicates first author, <sup>†</sup> indicates corresponding author
+<sup>†</sup> denotes corresponding author
 </font>
 
 <table style="width:75%;border:0px;border-spacing:0px;margin-right:auto;margin-left:5px;">
@@ -186,7 +186,7 @@ If you are interested, please email me with with your CV and a brief description
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models</b>
       <br>
-      Muyao Niu, Mingdeng Cao, Yifan Zhan, Qingtian Zhu, Mingze Ma, Jiancheng Zhao, Yanhong Zeng, <strong>Zhihang Zhong<sup>†</sup></strong>, Xiao Sun<sup>†</sup>, Yinqiang Zheng
+      Muyao Niu, Mingdeng Cao, Yifan Zhan, Qingtian Zhu, Mingze Ma, Jiancheng Zhao, Yanhong Zeng, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>, Yinqiang Zheng
       <br>
       <em>arxiv</em>, 2025 <br>
       <a href="https://myniuuu.github.io/AniCrafter/" target="_blank">project</a> /
@@ -199,7 +199,7 @@ If you are interested, please email me with with your CV and a brief description
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>R<sup>3</sup>-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars</b>
       <br>
-      Yifan Zhan, Wangze Xu, Qingtian Zhu, Muyao Niu, Mingze Ma, Yifei Liu, <strong>Zhihang Zhong<sup>†</sup></strong>, <br>Xiao Sun<sup>†</sup>, Yinqiang Zheng
+      Yifan Zhan, Wangze Xu, Qingtian Zhu, Muyao Niu, Mingze Ma, Yifei Liu, Xiao Sun, <br><strong>Zhihang Zhong<sup>†</sup></strong>, Yinqiang Zheng
       <br>
       <em>arxiv</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2503.12751" target="_blank">arXiv</a> /
@@ -223,7 +223,7 @@ If you are interested, please email me with with your CV and a brief description
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Disambiguation for Video Frame Interpolation</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Yiming Zhang,
       Wei Wang,
       Xiao Sun,
@@ -242,7 +242,7 @@ If you are interested, please email me with with your CV and a brief description
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Bundle Adjusted Gaussian Avatars Deblurring</b>
       <br>
-      Muyao Niu, Yifan Zhan, Qingtian Zhu, Zhuoxiao Li, Wei Wang, <strong>Zhihang Zhong<sup>†</sup></strong>,<br>Xiao Sun<sup>†</sup>, Yinqiang Zheng
+      Muyao Niu, Yifan Zhan, Qingtian Zhu, Zhuoxiao Li, Wei Wang, <strong>Zhihang Zhong<sup>†</sup></strong>,<br>Xiao Sun, Yinqiang Zheng
       <br>
       <em>arXiv</em>, 2024 <br>
       <a href="https://www.arxiv.org/abs/2411.16758" target="_blank">arXiv</a> /
@@ -250,7 +250,7 @@ If you are interested, please email me with with your CV and a brief description
     </td>
   </tr>
 
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+  <!-- <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation</b>
       <br>
@@ -260,7 +260,7 @@ If you are interested, please email me with with your CV and a brief description
       <a href="https://arxiv.org/abs/2411.13026" target="_blank">arXiv</a> /
       <a href="https://github.com/Charrrrrlie/X-as-Supervision" target="_blank">code</a>
     </td>
-  </tr>
+  </tr> -->
 
   <!-- <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
@@ -290,7 +290,7 @@ If you are interested, please email me with with your CV and a brief description
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Gurunandan Krishnan,      
       Xiao Sun,
       Yu Qiao,
@@ -387,11 +387,11 @@ If you are interested, please email me with with your CV and a brief description
     </td>
   </tr>
 
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+  <!-- <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>ClipCrop: Conditioned Cropping Driven by Vision-Language Model</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Mingxi Cheng,
       Zhirong Wu,
       Yuhui Yuan,
@@ -407,7 +407,7 @@ If you are interested, please email me with with your CV and a brief description
       <a href="https://arxiv.org/abs/2211.11492" target="_blank">arXiv</a> /
       <a href="https://github.com/zzh-tech/ClipCrop" target="_blank">dataset</a>
     </td>
-  </tr>  
+  </tr>   -->
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
@@ -429,7 +429,7 @@ If you are interested, please email me with with your CV and a brief description
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Blur Interpolation Transformer for Real-World Motion from Blur</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Mingdeng Cao,
       Xiang Ji,
       Yinqiang Zheng,
@@ -466,7 +466,7 @@ If you are interested, please email me with with your CV and a brief description
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Xiao Sun, 
       Zhirong Wu,
       Yinqiang Zheng,
@@ -487,7 +487,7 @@ If you are interested, please email me with with your CV and a brief description
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Bringing Rolling Shutter Images Alive with Dual Reversed Distortion</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
        Mingdeng Cao,
        Xiao Sun,
        Zhirong Wu,
@@ -525,7 +525,7 @@ If you are interested, please email me with with your CV and a brief description
     </td>
   </tr>
 
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+  <!-- <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Towards Real-world Video Deblurring by Exploring Blur Formation Process</b>
       <br>
@@ -544,7 +544,7 @@ If you are interested, please email me with with your CV and a brief description
       <a href="https://arxiv.org/abs/2208.13184" target="_blank">arXiv</a> / 
       <a href="https://github.com/ljzycmd/RAWBlur" target="_blank">code</a>
     </td>
-  </tr>
+  </tr> -->
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
@@ -568,7 +568,7 @@ If you are interested, please email me with with your CV and a brief description
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient Recurrent <br>Neural Network</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Ye Gao,
       Yinqiang Zheng,
       Bo Zheng,
@@ -586,7 +586,7 @@ If you are interested, please email me with with your CV and a brief description
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Yinqiang Zheng, 
       Imari Sato
       <br>
@@ -602,7 +602,7 @@ If you are interested, please email me with with your CV and a brief description
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Ye Gao,
       Yinqiang Zheng,
       Bo Zheng
@@ -619,7 +619,7 @@ If you are interested, please email me with with your CV and a brief description
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Multistream Temporal Convolutional Network for Correct/Incorrect <br> Patient Transfer Action Detection using Body Sensor Network</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Chingszu Lin,
       Masako Kanai-Pak,
       Jukai Maeda,<br>
@@ -636,7 +636,7 @@ If you are interested, please email me with with your CV and a brief description
     </td>
   </tr>  
 
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+  <!-- <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Development and Validation of Robot Patient Equipped with An Inertial Measurement Unit and Angular Position Sensors to Evaluate Transfer Skills of Nurses</b>
       <br>
@@ -654,13 +654,13 @@ If you are interested, please email me with with your CV and a brief description
       <br>
       <a href="https://link.springer.com/article/10.1007/s12369-020-00673-6" target="_blank">paper</a>
     </td>
-  </tr>  
+  </tr>   -->
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
     <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Multi-attention Deep Recurrent Neural Network for Nursing Action Evaluation <br>using Wearable Sensor</b>
       <br>
-      <strong>Zhihang Zhong<sup>*</sup></strong>,
+      <strong>Zhihang Zhong</strong>,
       Chingszu Lin,
       Taiki Ogata,
       Jun Ota
