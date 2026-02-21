@@ -33,12 +33,14 @@ If you are interested, please email me with with your CV and a brief description
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2026.02] Two papers accepted at CVPR 2026, with one receiving full scores! <br>
+    [2026.02] One paper is accepted to TPAMI! <br>
     [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
     [2025.11] One paper (Oral) is accepted to AAAI 2026. <br>
     [2025.06] Three papers are accepted to ICCV 2025. <br>
     [2025.02] <a href="https://github.com/kaikai23/maskgaussian" target="_blank">MaskGaussian</a> is accepted to CVPR 2025. <br>
-    [2024.08] Our <a href="https://mp.weixin.qq.com/s/dEAAvAupqjAMHczwTUCkhQ?version=4.1.28.6010&platform=win&nwr_flag=1#wechat_redirect" target="_blank">SportsStrat (浦动) empowers the 2024 Paris Olympics</a>!<br>
     </summary>
+    [2024.08] Our <a href="https://mp.weixin.qq.com/s/dEAAvAupqjAMHczwTUCkhQ?version=4.1.28.6010&platform=win&nwr_flag=1#wechat_redirect" target="_blank">SportsStrat (浦动) empowers the 2024 Paris Olympics</a>!<br>
     [2024.07] Glad to receive the 2023 <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Chinese Government Award for Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
     [2024.07] Three papers (one Oral) are accepted to ECCV 2024! <br>
     [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w" target="_blank">SportsStrat (浦动) on CCTV5 in support of the 2024 Thomas & Uber Cups</a>!<br>
@@ -96,15 +98,43 @@ If you are interested, please email me with with your CV and a brief description
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform</b>
+        <b>Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting</b>
       <br>
-      Yuning Gong, Yifei Liu, Yifan Zhan, Muyao Niu, Xueying Li, Yuanjun Liao, Jiaming Chen, Yuanyuan Gao, Jiaqi Chen, Minming Chen, Li Zhou, Yuning Zhang, Wei Wang, Xiaoqing Hou, Huaxi Huang, Shixiang Tang, Le Ma, Dingwen Zhang, Xue Yang, Junchi Yan, Yanchi Zhang, Yinqiang Zheng, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
+      Yuanyuan Gao, Yuning Gong, Yifei Liu, Jingfeng Li, Dan Xu, Yanchi Zhang, Dingwen Zhang<sup>†</sup>, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
       <br>
-      <em>arXiv</em>, 2025<br>
-      <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">project</a> /
-      <a href="https://arxiv.org/abs/2512.08478" target="_blank">arXiv</a> /
-      <a href="https://github.com/Visionary-Laboratory/visionary" target="_blank">code</a> /
-      <a href="https://ai4sports.opengvlab.com/index_visionary.html" target="_blank">editor</a>
+      <em>CVPR</em>, 2026 <br>
+      <a href="https://arxiv.org/abs/2509.24421" target="_blank">arXiv</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Motion-Aware Animatable Gaussian Avatars Deblurring</b>
+      <br>
+      Muyao Niu, Yifan Zhan, Qingtian Zhu, Zhuoxiao Li, Wei Wang, <strong>Zhihang Zhong<sup>†</sup></strong>,<br>Xiao Sun, Yinqiang Zheng
+      <br>
+      <em>CVPR</em>, 2026 <br>
+      <a href="https://www.arxiv.org/abs/2411.16758" target="_blank">arXiv</a> /
+      <a href="https://github.com/MyNiuuu/BAGA" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Velocity Disambiguation for Video Frame Interpolation</b>
+      <br>
+      <strong>Zhihang Zhong</strong>,
+      Yiming Zhang,
+      Wei Wang,
+      Xiao Sun,
+      Yu Qiao,
+      Gurunandan Krishnan,
+      Sizhuo Ma,
+      Jian Wang
+      <br>
+      <em>TPAMI</em>, 2026
+      <br>
+      <a href="https://arxiv.org/abs/2311.08007v3" target="_blank">arXiv</a>
     </td>
   </tr>
 
@@ -117,6 +147,20 @@ If you are interested, please email me with with your CV and a brief description
       <em>AAAI</em>, 2026, <em style="color: red">Oral</em><br>
       <a href="https://arxiv.org/abs/2511.17045" target="_blank">arXiv</a> /
       <a href="https://github.com/OrcustD/RacketVision" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform</b>
+      <br>
+      Yuning Gong, Yifei Liu, Yifan Zhan, Muyao Niu, Xueying Li, Yuanjun Liao, Jiaming Chen, Yuanyuan Gao, Jiaqi Chen, Minming Chen, Li Zhou, Yuning Zhang, Wei Wang, Xiaoqing Hou, Huaxi Huang, Shixiang Tang, Le Ma, Dingwen Zhang, Xue Yang, Junchi Yan, Yanchi Zhang, Yinqiang Zheng, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
+      <br>
+      <em>arXiv</em>, 2025<br>
+      <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2512.08478" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/visionary" target="_blank">code</a> /
+      <a href="https://ai4sports.opengvlab.com/index_visionary.html" target="_blank">editor</a>
     </td>
   </tr>
 
@@ -216,37 +260,6 @@ If you are interested, please email me with with your CV and a brief description
       <em>arxiv</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2503.06522" target="_blank">arXiv</a> /
       <a href="https://github.com/Charrrrrlie/SGA-INTERACT?tab=readme-ov-file" target="_blank">code</a>
-    </td>
-  </tr>
-
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-      <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Disambiguation for Video Frame Interpolation</b>
-      <br>
-      <strong>Zhihang Zhong</strong>,
-      Yiming Zhang,
-      Wei Wang,
-      Xiao Sun,
-      Yu Qiao,
-      Gurunandan Krishnan,
-      Sizhuo Ma,
-      Jian Wang
-      <br>
-      <em>arxiv</em>, 2025
-      <br>
-      <a href="https://arxiv.org/abs/2311.08007v3" target="_blank">arXiv</a>
-    </td>
-  </tr>
-
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-      <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Bundle Adjusted Gaussian Avatars Deblurring</b>
-      <br>
-      Muyao Niu, Yifan Zhan, Qingtian Zhu, Zhuoxiao Li, Wei Wang, <strong>Zhihang Zhong<sup>†</sup></strong>,<br>Xiao Sun, Yinqiang Zheng
-      <br>
-      <em>arXiv</em>, 2024 <br>
-      <a href="https://www.arxiv.org/abs/2411.16758" target="_blank">arXiv</a> /
-      <a href="https://github.com/MyNiuuu/BAGA" target="_blank">code</a>
     </td>
   </tr>
 
