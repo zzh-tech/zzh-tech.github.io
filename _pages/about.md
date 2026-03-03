@@ -13,8 +13,7 @@ redirect_from:
 Hi, こんにちは, 你好 :-)
 <br><br>
 
-Zhihang Zhong is a researcher at Shanghai AI
-Laboratory and an incoming <b><em>Associate Professor at the School of Artificial Intelligence, Shanghai Jiao Tong University.</em></b><br>
+Zhong Zhihang is an associate professor at the School of Artificial Intelligence, Shanghai Jiao Tong University. Previously, he was a researcher at the Shanghai AI Laboratory.<br>
 
 He received his PhD degree in Computer Science and ME degree in Precision Engineering from the University of Tokyo (UTokyo). Before that, he received his BE degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
 <br>
@@ -134,6 +133,7 @@ If you are interested, please email me with with your CV and a brief description
       <br>
       <em>TPAMI</em>, 2026
       <br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/11408249/" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2311.08007v3" target="_blank">arXiv</a>
     </td>
   </tr>
