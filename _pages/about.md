@@ -32,17 +32,18 @@ If you are interested, please email me with with your CV and a brief description
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
     [2026.02] Two papers accepted at CVPR 2026, with one receiving full scores! <br>
     [2026.02] One paper is accepted to TPAMI! <br>
     [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
     [2025.11] One paper (Oral) is accepted to AAAI 2026. <br>
     [2025.06] Three papers are accepted to ICCV 2025. <br>
-    [2025.02] <a href="https://github.com/kaikai23/maskgaussian" target="_blank">MaskGaussian</a> is accepted to CVPR 2025. <br>
     </summary>
+    [2025.02] <a href="https://github.com/kaikai23/maskgaussian" target="_blank">MaskGaussian</a> is accepted to CVPR 2025. <br>
     [2024.08] Our <a href="https://mp.weixin.qq.com/s/dEAAvAupqjAMHczwTUCkhQ?version=4.1.28.6010&platform=win&nwr_flag=1#wechat_redirect" target="_blank">SportsStrat (浦动) empowers the 2024 Paris Olympics</a>!<br>
     [2024.07] Glad to receive the 2023 <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Chinese Government Award for Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
     [2024.07] Three papers (one Oral) are accepted to ECCV 2024! <br>
-    [2024.05] We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w" target="_blank">SportsStrat (浦动) on CCTV5 in support of the 2024 Thomas & Uber Cups</a>!<br>
+    [2024.05] 🚀 We release <a href="https://mp.weixin.qq.com/s/uBUfvuF09WBMnN_Fm_Ss7w" target="_blank">SportsStrat (浦动) on CCTV5 in support of the 2024 Thomas & Uber Cups</a>!<br>
     [2024.03] Glad to receive the <a href="https://www.i.u-tokyo.ac.jp/news/topics/2024/202403192381.shtml" target="_blank">Dean's Award for Academic Achievement</a> from the UTokyo! <br>
     [2024.02] Two papers are accepted to CVPR 2024. <br>
     [2023.12] I give a talk at <a href="https://mp.weixin.qq.com/s/9kYeSrJze2Ah7snSqPFLPg" target="_blank"> OpenMMLab</a> about temporal super-resolution. <br>
@@ -95,6 +96,19 @@ If you are interested, please email me with with your CV and a brief description
 
 <table style="width:75%;border:0px;border-spacing:0px;margin-right:auto;margin-left:5px;">
 <tbody>
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence</b>
+      <br>
+      Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>
+      <br>
+      <em>arXiv</em>, 2026 <br>
+      <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2603.07660" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/holi-spatial" target="_blank">code</a>
+    </td>
+  </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting</b>
