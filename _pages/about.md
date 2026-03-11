@@ -32,13 +32,14 @@ If you are interested, please email me with with your CV and a brief description
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
     [2026.02] Two papers accepted at CVPR 2026, with one receiving full scores! <br>
     [2026.02] One paper is accepted to TPAMI! <br>
     [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
+    </summary>
     [2025.11] One paper (Oral) is accepted to AAAI 2026. <br>
     [2025.06] Three papers are accepted to ICCV 2025. <br>
-    </summary>
     [2025.02] <a href="https://github.com/kaikai23/maskgaussian" target="_blank">MaskGaussian</a> is accepted to CVPR 2025. <br>
     [2024.08] Our <a href="https://mp.weixin.qq.com/s/dEAAvAupqjAMHczwTUCkhQ?version=4.1.28.6010&platform=win&nwr_flag=1#wechat_redirect" target="_blank">SportsStrat (浦动) empowers the 2024 Paris Olympics</a>!<br>
     [2024.07] Glad to receive the 2023 <a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Chinese Government Award for Outstanding <br>Self-financed Students Abroad (Group B, Global Top 50)</a>!<br>
@@ -72,11 +73,14 @@ If you are interested, please email me with with your CV and a brief description
 </font>
 
 ## Projects
-<b>Visionary:</b><br><br>
-<img src="../images/visionary_teaser.png" width="72%" height="72%"/>
+<b>Holi-Spatial:</b><br>
+<img src="../files/spatial-intelligence/holi-spatial.gif" width="64%" height="64%"/>
 
-<b>SportsStrat:</b><br><br>
-<img src="../files/ai4sports/badminton_unity_demo.gif" width="72%" height="72%"/>
+<b>Visionary:</b><br>
+<img src="../images/visionary_teaser.png" width="64%" height="64%"/>
+
+<b>SportsStrat:</b><br>
+<img src="../files/ai4sports/badminton_unity_demo.gif" width="64%" height="64%"/>
 
 ## Publications
 
@@ -98,6 +102,19 @@ If you are interested, please email me with with your CV and a brief description
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports</b>
+      <br>
+      Yuchen Yang, Yuqing Shao, Duxiu Huang, Linfeng Dong, Yifei Liu, Suixin Tang, Xiang Zhou, Yuanyuan Gao, Wei Wang, Yue Zhou, Xue Yang, Yanfeng Wang, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
+      <br>
+      <em>arXiv</em>, 2026 <br>
+      <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2603.09896" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/CourtSI" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence</b>
       <br>
       Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>
@@ -111,12 +128,26 @@ If you are interested, please email me with with your CV and a brief description
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing</b>
+      <br>
+      Changyao Tian, Danni Yang, Guanzhou Chen, Erfei Cui, Zhaokai Wang, Yuchen Duan, Penghao Yin, Sitao Chen, Ganlin Yang, Mingxin Liu, Zirun Zhu, Ziqian Fan, Leyao Gu, Haomin Wang, Qi Wei, Jinhui Yin, Xue Yang, <strong>Zhihang Zhong</strong>, Qi Qin, Yi Xin, Bin Fu, Yihao Liu, Jiaye Ge, Qipeng Guo, Gen Luo, Hongsheng Li, Yu Qiao, Kai Chen, Hongjie Zhang
+      <br>
+      <em>arXiv</em>, 2026 <br>
+      <a href="https://arxiv.org/abs/2603.09877" target="_blank">arXiv</a> /
+      <a href="https://github.com/OpenGVLab/InternVL-U" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting</b>
       <br>
       Yuanyuan Gao, Yuning Gong, Yifei Liu, Jingfeng Li, Dan Xu, Yanchi Zhang, Dingwen Zhang<sup>†</sup>, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
       <br>
       <em>CVPR</em>, 2026 <br>
-      <a href="https://arxiv.org/abs/2509.24421" target="_blank">arXiv</a>
+      <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2509.24421" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/Proxy-GS" target="_blank">code</a>
     </td>
   </tr>
 
