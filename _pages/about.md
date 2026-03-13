@@ -102,19 +102,6 @@ If you are interested, please email me with with your CV and a brief description
 <tbody>
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports</b>
-      <br>
-      Yuchen Yang, Yuqing Shao, Duxiu Huang, Linfeng Dong, Yifei Liu, Suixin Tang, Xiang Zhou, Yuanyuan Gao, Wei Wang, Yue Zhou, Xue Yang, Yanfeng Wang, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
-      <br>
-      <em>arXiv</em>, 2026 <br>
-      <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">project</a> /
-      <a href="https://arxiv.org/abs/2603.09896" target="_blank">arXiv</a> /
-      <a href="https://github.com/Visionary-Laboratory/CourtSI" target="_blank">code</a>
-    </td>
-  </tr>
-
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence</b>
       <br>
       Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>
@@ -128,6 +115,19 @@ If you are interested, please email me with with your CV and a brief description
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports</b>
+      <br>
+      Yuchen Yang, Yuqing Shao, Duxiu Huang, Linfeng Dong, Yifei Liu, Suixin Tang, Xiang Zhou, Yuanyuan Gao, Wei Wang, Yue Zhou, Xue Yang, Yanfeng Wang, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
+      <br>
+      <em>arXiv</em>, 2026 <br>
+      <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2603.09896" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/CourtSI" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing</b>
       <br>
       Changyao Tian, Danni Yang, Guanzhou Chen, Erfei Cui, Zhaokai Wang, Yuchen Duan, Penghao Yin, Sitao Chen, Ganlin Yang, Mingxin Liu, Zirun Zhu, Ziqian Fan, Leyao Gu, Haomin Wang, Qi Wei, Jinhui Yin, Xue Yang, <strong>Zhihang Zhong</strong>, Qi Qin, Yi Xin, Bin Fu, Yihao Liu, Jiaye Ge, Qipeng Guo, Gen Luo, Hongsheng Li, Yu Qiao, Kai Chen, Hongjie Zhang
@@ -135,6 +135,19 @@ If you are interested, please email me with with your CV and a brief description
       <em>arXiv</em>, 2026 <br>
       <a href="https://arxiv.org/abs/2603.09877" target="_blank">arXiv</a> /
       <a href="https://github.com/OpenGVLab/InternVL-U" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing</b>
+      <br>
+      Mingxin Liu, Ziqian Fan, Zhaokai Wang, Leyao Gu, Zirun Zhu, Yiguo He, Yuchen Yang, Changyao Tian, Xiangyu Zhao, Ning Liao, Shaofeng Zhang, Qibing Ren, <strong>Zhihang Zhong</strong>, Xuanhe Zhou, Junchi Yan, Xue Yang
+      <br>
+      <em>arXiv</em>, 2026 <br>
+      <a href="https://grade-bench.github.io/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2603.12264" target="_blank">arXiv</a> /
+      <a href="https://github.com/VisionXLab/GRADE" target="_blank">code</a>
     </td>
   </tr>
 
