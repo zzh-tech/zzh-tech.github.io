@@ -153,6 +153,18 @@ If you are interested, please email me with with your CV and a brief description
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>RISE-Video: Can Video Generators Decode Implicit World Rules?</b>
+      <br>
+      Mingxin Liu, Shuran Ma, Shibei Meng, Xiangyu Zhao, Zicheng Zhang, Shaofeng Zhang, <strong>Zhihang Zhong</strong>, Peixian Chen, Haoyu Cao, Xing Sun, Haodong Duan, Xue Yang
+      <br>
+      <em>arXiv</em>, 2026 <br>
+      <a href="https://arxiv.org/abs/2602.05986" target="_blank">arXiv</a> /
+      <a href="https://github.com/VisionXLab/Rise-Video" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting</b>
       <br>
       Yuanyuan Gao, Yuning Gong, Yifei Liu, Jingfeng Li, Dan Xu, Yanchi Zhang, Dingwen Zhang<sup>†</sup>, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
