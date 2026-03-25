@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhihang Zhong"
   avatar           : "zhong.jpeg"
-  bio              : "Researcher at Shanghai AI Lab"
+  bio              : "Associate Professor"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "Shanghai Jiao Tong University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_4d1GUcAAAAJ&hl=en"
-  email            : "zzh-tech@gmail.com"
+  email            : "zhongzhihang@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
