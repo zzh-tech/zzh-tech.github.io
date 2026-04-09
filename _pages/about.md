@@ -169,7 +169,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <br>
       Yuanyuan Gao, Yuning Gong, Yifei Liu, Jingfeng Li, Dan Xu, Yanchi Zhang, Dingwen Zhang<sup>†</sup>, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
       <br>
-      <em>CVPR</em>, 2026 <br>
+      <em>CVPR</em>, 2026, <em style="color: red">Oral</em><br>
       <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2509.24421" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/Proxy-GS" target="_blank">code</a>
