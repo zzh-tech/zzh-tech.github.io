@@ -84,7 +84,7 @@ author:
   avatar           : "zhong.jpeg"
   bio              : "Associate Professor"
   location         : "Shanghai, China"
-  employer         : "Shanghai Jiao Tong University"
+  # employer         : "Shanghai Jiao Tong University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_4d1GUcAAAAJ&hl=en"
   email            : "zhongzhihang@sjtu.edu.cn"
