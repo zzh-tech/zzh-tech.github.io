@@ -113,12 +113,12 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <a href="https://github.com/Visionary-Laboratory/holi-spatial" target="_blank">code</a>
     </td>
   </tr>
-  
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Perceptual Flow Network for Visually Grounded Reasoning</b>
       <br>
-      Yangfu Li, Yuning Gong, Hongjian Zhan, Teng Li, Yuanhuiyi Lyu, Tianyi Chen, Qi Liu, Ziyuan Huang, <strong>Zhihang Zhong<sup>†</sup></strong>, DanDan Zheng, Yue Lu
+      Yangfu Li, Yuning Gong, Hongjian Zhan<sup>†</sup>, Teng Li, Yuanhuiyi Lyu, Tianyi Chen, Qi Liu, Ziyuan Huang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>, DanDan Zheng, Yue Lu
       <br>
       <em>ICML</em>, 2026 <br>
     </td>
