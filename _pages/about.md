@@ -32,12 +32,13 @@ If you are interested, please email me with with your Resume, a brief descriptio
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2025.06] Two papers (one Spotlight) are accepted to ICML 2026! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
     [2026.02] Two papers accepted at CVPR 2026, with one receiving full scores! <br>
     [2026.02] One paper is accepted to TPAMI! <br>
-    [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
     </summary>
+    [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
     [2025.11] One paper (Oral) is accepted to AAAI 2026. <br>
     [2025.06] Three papers are accepted to ICCV 2025. <br>
     [2025.02] <a href="https://github.com/kaikai23/maskgaussian" target="_blank">MaskGaussian</a> is accepted to CVPR 2025. <br>
@@ -106,10 +107,20 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <br>
       Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>
       <br>
-      <em>arXiv</em>, 2026 <br>
+      <em>ICML</em>, 2026, <em style="color: red">Spotlight</em><br>
       <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2603.07660" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/holi-spatial" target="_blank">code</a>
+    </td>
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Perceptual Flow Network for Visually Grounded Reasoning</b>
+      <br>
+      Yangfu Li, Yuning Gong, Hongjian Zhan, Teng Li, Yuanhuiyi Lyu, Tianyi Chen, Qi Liu, Ziyuan Huang, <strong>Zhihang Zhong<sup>†</sup></strong>, DanDan Zheng, Yue Lu
+      <br>
+      <em>ICML</em>, 2026 <br>
     </td>
   </tr>
 
