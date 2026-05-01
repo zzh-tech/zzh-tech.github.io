@@ -15,7 +15,7 @@ Hi, こんにちは, 你好 :-)
 
 Zhong Zhihang is an associate professor at the School of Artificial Intelligence, Shanghai Jiao Tong University. Previously, he was a researcher at the Shanghai AI Laboratory.<br>
 
-He received his PhD degree in Computer Science and ME degree in Precision Engineering from the University of Tokyo (UTokyo). Before that, he received his BE degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
+He received his PhD degree in Computer Science and ME degree in Precision Engineering from the University of Tokyo. Before that, he received his BE degree in Mechatronics from Chu Kochen Honors College, Zhejiang University.<br>
 <br>
 Zhihang's current research interests focus on <b><em>Spatial Intelligence</em></b>: <br>
 <b><em>* "Spatial": Neural Rendering (3DGS)</em></b><br>
@@ -118,7 +118,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Perceptual Flow Network for Visually Grounded Reasoning</b>
       <br>
-      Yangfu Li, Yuning Gong, Hongjian Zhan<sup>†</sup>, Teng Li, Yuanhuiyi Lyu, Tianyi Chen, Qi Liu, Ziyuan Huang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>, DanDan Zheng, Yue Lu
+      Yangfu Li, Yuning Gong, Hongjian Zhan<sup>†</sup>, Teng Li, Yuanhuiyi Lyu, Tianyi Chen, Qi Liu, Ziyuan Huang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>, Dandan Zheng, Yue Lu
       <br>
       <em>ICML</em>, 2026 <br>
     </td>
