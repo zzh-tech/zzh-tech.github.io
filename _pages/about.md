@@ -143,7 +143,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <br>
       Changyao Tian, Danni Yang, Guanzhou Chen, Erfei Cui, Zhaokai Wang, Yuchen Duan, Penghao Yin, Sitao Chen, Ganlin Yang, Mingxin Liu, Zirun Zhu, Ziqian Fan, Leyao Gu, Haomin Wang, Qi Wei, Jinhui Yin, Xue Yang, <strong>Zhihang Zhong</strong>, Qi Qin, Yi Xin, Bin Fu, Yihao Liu, Jiaye Ge, Qipeng Guo, Gen Luo, Hongsheng Li, Yu Qiao, Kai Chen, Hongjie Zhang
       <br>
-      <em>arXiv</em>, 2026 <br>
+      <em>Technical Report</em>, 2026 <br>
       <a href="https://arxiv.org/abs/2603.09877" target="_blank">arXiv</a> /
       <a href="https://github.com/OpenGVLab/InternVL-U" target="_blank">code</a>
     </td>
@@ -237,7 +237,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <br>
       Yuning Gong, Yifei Liu, Yifan Zhan, Muyao Niu, Xueying Li, Yuanjun Liao, Jiaming Chen, Yuanyuan Gao, Jiaqi Chen, Minming Chen, Li Zhou, Yuning Zhang, Wei Wang, Xiaoqing Hou, Huaxi Huang, Shixiang Tang, Le Ma, Dingwen Zhang, Xue Yang, Junchi Yan, Yanchi Zhang, Yinqiang Zheng, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
       <br>
-      <em>arXiv</em>, 2025<br>
+      <em>Technical Report</em>, 2025<br>
       <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2512.08478" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/visionary" target="_blank">code</a> /
