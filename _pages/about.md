@@ -121,6 +121,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
       Yangfu Li, Yuning Gong, Hongjian Zhan<sup>†</sup>, Teng Li, Yuanhuiyi Lyu, Tianyi Chen, Qi Liu, Ziyuan Huang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>, Dandan Zheng, Yue Lu
       <br>
       <em>ICML</em>, 2026 <br>
+      <a href="https://arxiv.org/abs/2605.02730v1" target="_blank">arXiv</a>
     </td>
   </tr>
 
