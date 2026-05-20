@@ -32,10 +32,10 @@ If you are interested, please email me with with your Resume, a brief descriptio
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
-    [2025.06] Two papers (one Spotlight) are accepted to ICML 2026! <br>
+    [2026.05] Two papers (one Spotlight: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
-    [2026.02] Two papers accepted at CVPR 2026 (one Award Candidate)! <br>
+    [2026.02] Two papers accepted to CVPR 2026 (one Award Candidate: <a href="https://github.com/Visionary-Laboratory/Proxy-GS" target="_blank">Proxy-GS</a>) 🔥 <br>
     [2026.02] One paper is accepted to TPAMI! <br>
     </summary>
     [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
