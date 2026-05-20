@@ -35,7 +35,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
     [2025.06] Two papers (one Spotlight) are accepted to ICML 2026! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
-    [2026.02] Two papers accepted at CVPR 2026, with one receiving full scores! <br>
+    [2026.02] Two papers accepted at CVPR 2026 (one Award Candidate)! <br>
     [2026.02] One paper is accepted to TPAMI! <br>
     </summary>
     [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
@@ -181,7 +181,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <br>
       Yuanyuan Gao, Yuning Gong, Yifei Liu, Jingfeng Li, Dan Xu, Yanchi Zhang, Dingwen Zhang<sup>†</sup>, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
       <br>
-      <em>CVPR</em>, 2026, <em style="color: red">Oral</em><br>
+      <em>CVPR</em>, 2026, <em style="color: red">Oral, Award Candidate</em> 🎖️<br>
       <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2509.24421" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/Proxy-GS" target="_blank">code</a>
