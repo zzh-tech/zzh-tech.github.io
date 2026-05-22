@@ -32,12 +32,13 @@ If you are interested, please email me with with your Resume, a brief descriptio
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2026.05] 🚀 We release <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">SpaceDG</a>, the first benchmark for Spatial Intelligence under visual degradations! <br>
     [2026.05] Two papers (one Spotlight: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
     [2026.02] Two papers accepted to CVPR 2026 (one Award Candidate 🎖️: <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">Proxy-GS</a>) 🔥 <br>
-    [2026.02] <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny</a> is accepted to TPAMI! <br>
     </summary>
+    [2026.02] <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny</a> is accepted to TPAMI! <br>
     [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
     [2025.11] One paper (Oral) is accepted to AAAI 2026. <br>
     [2025.06] Three papers are accepted to ICCV 2025. <br>
@@ -101,6 +102,20 @@ If you are interested, please email me with with your Resume, a brief descriptio
 
 <table style="width:75%;border:0px;border-spacing:0px;margin-right:auto;margin-left:5px;">
 <tbody>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation</b>
+      <br>
+      Xiaolong Zhou, Yifei Liu, Ziyang Gong, Jiarui Li, Qiyue Zhao, Muyao Niu, Yuanyuan Gao, Le Ma, Xue Yang, Hongjie Zhang, <strong>Zhihang Zhong<sup>†</sup></strong>
+      <br>
+      <em>arXiv</em>, 2026<br>
+      <a href="https://visionary-laboratory.github.io/SpaceDG//" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2605.22536" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/SpaceDG" target="_blank">code</a>
+    </td>
+  </tr>
+
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence</b>
