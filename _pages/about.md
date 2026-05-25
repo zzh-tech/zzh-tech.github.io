@@ -33,7 +33,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
 <details>
     <summary> [see more] <br>
     [2026.05] 🚀 We release <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">SpaceDG</a>, the first benchmark for Spatial Intelligence under visual degradations! <br>
-    [2026.05] Two papers (one Spotlight: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026! <br>
+    [2026.05] Two papers (one Oral: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
     [2026.02] Two papers accepted to CVPR 2026 (one Award Candidate 🎖️: <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">Proxy-GS</a>) 🔥 <br>
@@ -110,9 +110,22 @@ If you are interested, please email me with with your Resume, a brief descriptio
       Xiaolong Zhou, Yifei Liu, Ziyang Gong, Jiarui Li, Qiyue Zhao, Muyao Niu, Yuanyuan Gao, Le Ma, Xue Yang, Hongjie Zhang, <strong>Zhihang Zhong<sup>†</sup></strong>
       <br>
       <em>arXiv</em>, 2026<br>
-      <a href="https://visionary-laboratory.github.io/SpaceDG//" target="_blank">project</a> /
+      <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2605.22536" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/SpaceDG" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>PhotoFlow: Agentic 3D Virtual Photography Missions</b>
+      <br>
+      Jiarui Guo, Haojia Wei, Yiming Zhang, Yifei Liu, Yuning Gong, Hongjie Zhang, Xue Yang, <strong>Zhihang Zhong<sup>†</sup></strong>
+      <br>
+      <em>arXiv</em>, 2026<br>
+      <a href="https://visionary-laboratory.github.io/PhotoFlow/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2605.23771" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/PhotoFlow" target="_blank">code</a>
     </td>
   </tr>
 
@@ -122,7 +135,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <br>
       Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>
       <br>
-      <em>ICML</em>, 2026, <em style="color: red">Spotlight</em><br>
+      <em>ICML</em>, 2026, <em style="color: red">Oral</em><br>
       <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2603.07660" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/holi-spatial" target="_blank">code</a>
