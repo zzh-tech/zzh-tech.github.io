@@ -131,6 +131,19 @@ If you are interested, please email me with with your Resume, a brief descriptio
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events</b>
+      <br>
+      Xiaolin Liu, Yilun Zhu, Xiangyu Zhao, Xuehui Wang, Yan Li, Xin Li, Haoyu Cao, Xing Sun, Shaofeng Zhang, Xu Yang, <strong>Zhihang Zhong</strong>, Xue Yang
+      <br>
+      <em>arXiv</em>, 2026<br>
+      <a href="https://moment-video.netlify.app/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2606.02522" target="_blank">arXiv</a> /
+      <a href="https://github.com/VisionXLab/Moment-Video" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence</b>
       <br>
       Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang<sup>†</sup>, <strong>Zhihang Zhong<sup>†</sup></strong>
