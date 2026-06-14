@@ -22,8 +22,8 @@ Zhihang's current research interests focus on <b><em>Spatial Intelligence</em></
 <b><em>* "Intelligence": Spatial Agent (VLM)</em></b><br>
 <!-- <em>* Feed-forward 3D Vision Tasks</em><br> -->
 <br>
-<em><b>🔥 We are looking for Master students, PhD students (27保研直博以及欢迎有创智、中关村、河套学院名额的学生联系), interns and RAs!</b><br>
-If you are interested, please email me with with your Resume, a brief description of your research interests and proposals:</em><br>
+<em><b>🔥 We are looking for Master students, PhD students, interns and RAs! (硕士博士申请请提前至少三个月联系，需要研究考核)</b><br>
+If you are interested, please email me with with your Resume (标明申请类别，以及感兴趣的研究方向):</em><br>
 📧 <em>zhongzhihang [at] sjtu.edu.cn</em><br>
 </font>
 
@@ -36,7 +36,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
     [2026.05] Two papers (one Oral: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
-    [2026.02] Two papers accepted to CVPR 2026 (one Award Candidate 🎖️: <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">Proxy-GS</a>) 🔥 <br>
+    [2026.02] Two papers accepted to CVPR 2026 (one Best Paper Candidate 🎖️: <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">Proxy-GS</a>) 🔥 <br>
     </summary>
     [2026.02] <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny</a> is accepted to TPAMI! <br>
     [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
@@ -126,6 +126,17 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <a href="https://visionary-laboratory.github.io/PhotoFlow/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2605.23771" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/PhotoFlow" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence</b>
+      <br>
+      Yiming Zhang, Ruoxuan Cao, <strong>Zhihang Zhong<sup>†</sup></strong>
+      <br>
+      <em>arXiv</em>, 2026<br>
+      <a href="https://arxiv.org/abs/2606.10401" target="_blank">arXiv</a>
     </td>
   </tr>
 
@@ -222,7 +233,7 @@ If you are interested, please email me with with your Resume, a brief descriptio
       <br>
       Yuanyuan Gao, Yuning Gong, Yifei Liu, Jingfeng Li, Dan Xu, Yanchi Zhang, Dingwen Zhang<sup>†</sup>, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
       <br>
-      <em>CVPR</em>, 2026, <em style="color: red">Oral, Award Candidate</em> 🎖️<br>
+      <em>CVPR</em>, 2026, <em style="color: red">Oral, Best Paper Candidate</em> 🎖️<br>
       <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2509.24421" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/Proxy-GS" target="_blank">code</a>
