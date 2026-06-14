@@ -23,7 +23,7 @@ Zhihang's current research interests focus on <b><em>Spatial Intelligence</em></
 <!-- <em>* Feed-forward 3D Vision Tasks</em><br> -->
 <br>
 <em><b>🔥 We are looking for Master students, PhD students, interns and RAs! (硕士博士申请请提前至少三个月联系，需要研究考核)</b><br>
-If you are interested, please email me with with your Resume (标明申请类别，以及感兴趣的研究方向):</em><br>
+If you are interested, please email me with with your Resume (请标明申请类别和感兴趣的研究方向):</em><br>
 📧 <em>zhongzhihang [at] sjtu.edu.cn</em><br>
 </font>
 
