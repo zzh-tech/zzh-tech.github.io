@@ -218,6 +218,16 @@ If you are interested, please email me with with your Resume (请标明申请类
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Aligning Anything: Hierarchical Motion Estimation for Video Frame Interpolation</b>
+      <br>
+      Mengshun Hu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yansheng Qiu, Zheng Wang, Xiao Sun
+      <br>
+      <em>ECCV</em>, 2026 <br>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>RISE-Video: Can Video Generators Decode Implicit World Rules?</b>
       <br>
       Mingxin Liu, Shuran Ma, Shibei Meng, Xiangyu Zhao, Zicheng Zhang, Shaofeng Zhang, <strong>Zhihang Zhong</strong>, Peixian Chen, Haoyu Cao, Xing Sun, Haodong Duan, Xue Yang
