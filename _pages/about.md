@@ -143,6 +143,19 @@ If you are interested, please email me with with your Resume (请标明申请类
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing</b>
+      <br>
+      Zhaokai Wang, Mingxin Liu, Zirun Zhu, Ziqian Fan, Yiguo He, Mohan Zhang, Leyao Gu, Xiangyu Zhao, Ning Liao, Shaofeng Zhang, Xuanhe Zhou, <strong>Zhihang Zhong</strong>, Junchi Yan, Xue Yang
+      <br>
+      <em>arXiv</em>, 2026<br>
+      <a href="https://disciplinegen.github.io/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2607.02290" target="_blank">arXiv</a> /
+      <a href="https://github.com/VisionXLab/DisciplineGen-1M" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events</b>
       <br>
       Xiaolin Liu, Yilun Zhu, Xiangyu Zhao, Xuehui Wang, Yan Li, Xin Li, Haoyu Cao, Xing Sun, Shaofeng Zhang, Xu Yang, <strong>Zhihang Zhong</strong>, Xue Yang
