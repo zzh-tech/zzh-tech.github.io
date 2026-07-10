@@ -32,13 +32,14 @@ If you are interested, please email me with with your Resume (请标明申请类
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2026.07] Two papers are accepted to ACM MM 2026. <br>
     [2026.06] Two papers are accepted to ECCV 2026. <br>
     [2026.05] 🚀 We release <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">SpaceDG</a>, the first benchmark for Spatial Intelligence under visual degradations! <br>
     [2026.05] Two papers (one Oral: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
-    [2026.02] Two papers are accepted to CVPR 2026 (one Best Paper Candidate 🎖️: <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">Proxy-GS</a>) 🔥 <br>
     </summary>
+    [2026.02] Two papers are accepted to CVPR 2026 (one Best Paper Candidate 🎖️: <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">Proxy-GS</a>) 🔥 <br>
     [2026.02] <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny</a> is accepted to TPAMI! <br>
     [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
     [2025.11] One paper (Oral) is accepted to AAAI 2026. <br>
@@ -53,7 +54,7 @@ If you are interested, please email me with with your Resume (请标明申请类
     [2023.12] I give a talk at <a href="https://mp.weixin.qq.com/s/9kYeSrJze2Ah7snSqPFLPg" target="_blank"> OpenMMLab</a> about temporal super-resolution. <br>
     [2023.11] Glad to release <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny-Clearer</a> project! <br>
     [2023.07] Two papers are accepted to ICCV 2023. <br>
-    [2023.07] One paper is accepted to ACM-MM 2023. <br>
+    [2023.07] One paper is accepted to ACM MM 2023. <br>
     [2023.03] I am accepted to CVPR 2023's Doctoral Consortium. <br>
     [2023.02] Two papers are accepted to CVPR 2023. <br>
     [2022.10] I give a talk at <a
@@ -138,6 +139,19 @@ If you are interested, please email me with with your Resume (请标明申请类
       <br>
       <em>arXiv</em>, 2026<br>
       <a href="https://arxiv.org/abs/2606.10401" target="_blank">arXiv</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation</b>
+      <br>
+      Yifan Zhou, Qihao Yang, Yan Li, Donggang Li, Xiru Hu, Hokin Deng, Ziyang Gong, Xuanyi Zhou, Huacan Wang, Xiangchao Yan, Wanghan Xu, Wenlong Zhang, Shaofeng Zhang, Yue Zhou, Yifan Yang, <strong>Zhihang Zhong</strong>, Xue Yang
+      <br>
+      <em>arXiv</em>, 2026<br>
+      <a href="https://arxiv.org/abs/2607.08758" target="_blank">project</a> /
+      <a href="https://visionxlab.github.io/IdeasHaveGenomes/" target="_blank">arXiv</a> /
+      <a href="https://github.com/VisionXLab/IdeasHaveGenomes" target="_blank">code</a>
     </td>
   </tr>
 
@@ -233,7 +247,7 @@ If you are interested, please email me with with your Resume (请标明申请类
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Aligning Anything: Hierarchical Motion Estimation for Video Frame Interpolation</b>
       <br>
-      Mengshun Hu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yansheng Qiu, Zheng Wang, Xiao Sun
+      Mengshun Hu, <strong>Zhihang Zhong<sup>†</sup></strong>, Yansheng Qiu, Zheng Wang<sup>†</sup>, Xiao Sun
       <br>
       <em>ECCV</em>, 2026 <br>
     </td>
@@ -310,6 +324,29 @@ If you are interested, please email me with with your Resume (请标明申请类
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models</b>
+      <br>
+      Muyao Niu, Mingdeng Cao, Yifan Zhan, Qingtian Zhu, Mingze Ma, Jiancheng Zhao, Yanhong Zeng, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>, Yinqiang Zheng
+      <br>
+      <em>ACM MM</em>, 2026 <br>
+      <a href="https://myniuuu.github.io/AniCrafter/" target="_blank">project</a> /
+      <a href="https://www.arxiv.org/abs/2505.20255" target="_blank">arXiv</a> /
+      <a href="https://github.com/MyNiuuu/AniCrafter" target="_blank">code</a>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark</b>
+      <br>
+      Muyao Niu, Mingze Ma, Yifan Zhan, Qingtian Zhu, <strong>Zhihang Zhong</strong>, Wei Guo, Chang Wen Chen, Yinqiang Zheng
+      <br>
+      <em>ACM MM</em>, 2026 <br>
+    </td>
+  </tr>
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform</b>
       <br>
       Yuning Gong, Yifei Liu, Yifan Zhan, Muyao Niu, Xueying Li, Yuanjun Liao, Jiaming Chen, Yuanyuan Gao, Jiaqi Chen, Minming Chen, Li Zhou, Yuning Zhang, Wei Wang, Xiaoqing Hou, Huaxi Huang, Shixiang Tang, Le Ma, Dingwen Zhang, Xue Yang, Junchi Yan, Yanchi Zhang, Yinqiang Zheng, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>
@@ -381,19 +418,6 @@ If you are interested, please email me with with your Resume (请标明申请类
       <br>
       <em>ICCP</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
-    </td>
-  </tr>
-  
-  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
-      <td style="padding:10px;width:70%;vertical-align:middle">
-        <b>AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models</b>
-      <br>
-      Muyao Niu, Mingdeng Cao, Yifan Zhan, Qingtian Zhu, Mingze Ma, Jiancheng Zhao, Yanhong Zeng, Xiao Sun, <strong>Zhihang Zhong<sup>†</sup></strong>, Yinqiang Zheng
-      <br>
-      <em>arxiv</em>, 2025 <br>
-      <a href="https://myniuuu.github.io/AniCrafter/" target="_blank">project</a> /
-      <a href="https://www.arxiv.org/abs/2505.20255" target="_blank">arXiv</a> /
-      <a href="https://github.com/MyNiuuu/AniCrafter" target="_blank">code</a>
     </td>
   </tr>
 
@@ -590,7 +614,7 @@ If you are interested, please email me with with your Resume (请标明申请类
       <strong>Zhihang Zhong</strong>,
       Yinqiang Zheng
       <br>
-      <em>ACM-MM</em>, 2023
+      <em>ACM MM</em>, 2023
       <br>
       <a href="https://dl.acm.org/doi/10.1145/3581783.3612093" target="_blank">paper</a>
     </td>
