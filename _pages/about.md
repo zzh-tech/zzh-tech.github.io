@@ -144,6 +144,17 @@ If you are interested, please email me with with your Resume (请标明申请类
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Segment and Select: Vision-Language Segmentation in 3D Scenarios</b>
+      <br>
+      Yulin Chen, <strong>Zhihang Zhong</strong>, Yuenan Hou
+      <br>
+      <em>arXiv</em>, 2026<br>
+      <a href="https://arxiv.org/abs/2606.10594" target="_blank">arXiv</a>
+    </td>
+  </tr>
+  
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation</b>
       <br>
       Yifan Zhou, Qihao Yang, Yan Li, Donggang Li, Xiru Hu, Hokin Deng, Ziyang Gong, Xuanyi Zhou, Huacan Wang, Xiangchao Yan, Wanghan Xu, Wenlong Zhang, Shaofeng Zhang, Yue Zhou, Yifan Yang, <strong>Zhihang Zhong</strong>, Xue Yang
