@@ -22,7 +22,7 @@ Zhihang's current research interests focus on <b><em>Spatial Intelligence</em></
 <b><em>* "Intelligence": Spatial Agent (VLM)</em></b><br>
 <!-- <em>* Feed-forward 3D Vision Tasks</em><br> -->
 <br>
-<em><b>🔥 We are looking for Master students, PhD students, interns and RAs! (硕士博士申请请提前至少半年联系，需要研究考核；27级正常名额已满，有创智等额外名额的可以联系)</b><br>
+<em><b>🔥 We are looking for Master students, PhD students, interns and RAs! (硕士博士申请请提前至少半年联系，需要考核；27级正常名额已满，有创智等额外名额可联系)</b><br>
 If you are interested, please email me with with your Resume (请标明申请类别和感兴趣的研究方向):</em><br>
 📧 <em>zhongzhihang [at] sjtu.edu.cn</em><br>
 </font>
