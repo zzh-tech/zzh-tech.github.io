@@ -22,7 +22,7 @@ Zhihang's current research interests focus on <b><em>Spatial Intelligence</em></
 <b><em>* "Intelligence": Spatial Agent (VLM)</em></b><br>
 <!-- <em>* Feed-forward 3D Vision Tasks</em><br> -->
 <br>
-<em><b>🔥 We are looking for Master students, PhD students, interns and RAs! (硕士博士申请请提前至少三个月联系，需要研究考核)</b><br>
+<em><b>🔥 We are looking for Master students, PhD students, interns and RAs! (硕士博士申请请提前至少半年联系，需要研究考核；27级正常名额已满，有创智等额外名额的可以联系)</b><br>
 If you are interested, please email me with with your Resume (请标明申请类别和感兴趣的研究方向):</em><br>
 📧 <em>zhongzhihang [at] sjtu.edu.cn</em><br>
 </font>
@@ -33,7 +33,7 @@ If you are interested, please email me with with your Resume (请标明申请类
 <details>
     <summary> [see more] <br>
     [2026.07] Two papers are accepted to ACM MM 2026. <br>
-    [2026.06] Two papers (one Oral) are accepted to ECCV 2026! <br>
+    [2026.06] Two papers (one Spotlight) are accepted to ECCV 2026! <br>
     [2026.05] 🚀 We release <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">SpaceDG</a>, the first benchmark for Spatial Intelligence under visual degradations! <br>
     [2026.05] Two papers (one Oral: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
@@ -247,7 +247,7 @@ If you are interested, please email me with with your Resume (请标明申请类
       <br>
       Mingxin Liu, Ziqian Fan, Zhaokai Wang, Leyao Gu, Zirun Zhu, Yiguo He, Yuchen Yang, Changyao Tian, Xiangyu Zhao, Ning Liao, Shaofeng Zhang, Qibing Ren, <strong>Zhihang Zhong</strong>, Xuanhe Zhou, Junchi Yan, Xue Yang
       <br>
-      <em>ECCV</em>, 2026, <em style="color: red">Oral</em><br>
+      <em>ECCV</em>, 2026, <em style="color: red">Spotlight</em><br>
       <a href="https://grade-bench.github.io/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2603.12264" target="_blank">arXiv</a> /
       <a href="https://github.com/VisionXLab/GRADE" target="_blank">code</a>
