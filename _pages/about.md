@@ -107,6 +107,19 @@ If you are interested, please email me with with your Resume (请标明申请类
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
+        <b>Intern-S2-Preview: Scientific Agentic Foundation Model</b>
+      <br>
+      Intern-S2-Preview Team
+      <br>
+      <em>arXiv</em>, 2026<br>
+      <a href="https://arxiv.org/abs/2608.13505" target="_blank">arXiv</a> /
+      <a href="https://github.com/InternLM/Intern-S1" target="_blank">code</a>
+    </td>
+  </tr>
+
+
+  <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
+      <td style="padding:10px;width:70%;vertical-align:middle">
         <b>SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation</b>
       <br>
       Xiaolong Zhou, Yifei Liu, Ziyang Gong, Jiarui Li, Qiyue Zhao, Muyao Niu, Yuanyuan Gao, Le Ma, Xue Yang, Hongjie Zhang, <strong>Zhihang Zhong<sup>†</sup></strong>
