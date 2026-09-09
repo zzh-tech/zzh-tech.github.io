@@ -10,7 +10,7 @@ redirect_from:
 <br>
 
 <font size="+0.2">
-Hi, こんにちは, 你好 :-)
+Hi, 你好 :-)
 <br><br>
 
 Zhong Zhihang is an associate professor at the School of Artificial Intelligence, Shanghai Jiao Tong University. Previously, he was a researcher at the Shanghai AI Laboratory.<br>
@@ -32,13 +32,15 @@ If you are interested, please email me with with your Resume (请标明申请类
 <font size="+0.2">
 <details>
     <summary> [see more] <br>
+    [2026.09] I am appointed as an Area Chair for ICLR. <br>
+    [2026.07] I am appointed as a Senior Program Committee member for AAAI. <br>
     [2026.07] Two papers are accepted to ACM MM 2026. <br>
     [2026.06] Two papers (one Spotlight) are accepted to ECCV 2026! <br>
     [2026.05] 🚀 We release <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">SpaceDG</a>, the first benchmark for Spatial Intelligence under visual degradations! <br>
     [2026.05] Two papers (one Oral: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026! <br>
+    </summary>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence! <br>
     [2026.03] 🚀 We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence! <br>
-    </summary>
     [2026.02] Two papers are accepted to CVPR 2026 (one Best Paper Candidate 🎖️: <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">Proxy-GS</a>) 🔥 <br>
     [2026.02] <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">InterpAny</a> is accepted to TPAMI! <br>
     [2025.12] 🚀 We are thrilled to release <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">Visionary</a>, the <em>World Model Carrier</em>!!<br>
@@ -61,12 +63,12 @@ If you are interested, please email me with with your Resume (请标明申请类
                 href="https://mipi-challenge.org/#:~:text=Presenter%3A%20Zhihang%20Zhong%20(The%20University%20of%20Tokyo)"
                 target="_blank">MIPI Workshop 2022</a>. <br>
     [2022.10] One paper is accepted to IJCV. <br>
-    [2022.09] I become a JSPS「日本学術振興会」DC fellow! <br>
+    [2022.09] I become a JSPS DC fellow! <br>
     [2022.07] Three papers (one Oral) are accepted to ECCV 2022! <br>
     [2022.04] I become a JEM intern at Microsoft. <br>
     [2022.03] One paper is accepted to CVPR 2022. <br>
     [2021.09] I become a research intern in the Visual Computing group at MSRA. <br>
-    [2021.04] I become a IIW fellow「知能社会創造フェローシップ生」of UTokyo! <br>
+    [2021.04] I become a IIW fellow of UTokyo! <br>
     [2021.04] One paper is accepted to IoTJ. <br>
     [2021.02] One paper is accepted to CVPR 2021. <br>
     [2020.11] I become a MSRA D-CORE fellow! <br>
@@ -144,6 +146,7 @@ If you are interested, please email me with with your Resume (请标明申请类
     </td>
   </tr>
 
+  <!--
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence</b>
@@ -154,6 +157,7 @@ If you are interested, please email me with with your Resume (请标明申请类
       <a href="https://arxiv.org/abs/2606.10401" target="_blank">arXiv</a>
     </td>
   </tr>
+  -->
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
@@ -166,6 +170,7 @@ If you are interested, please email me with with your Resume (请标明申请类
     </td>
   </tr>
   
+  <!--
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation</b>
@@ -178,7 +183,9 @@ If you are interested, please email me with with your Resume (请标明申请类
       <a href="https://github.com/VisionXLab/IdeasHaveGenomes" target="_blank">code</a>
     </td>
   </tr>
+  -->
 
+  <!--
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing</b>
@@ -191,7 +198,9 @@ If you are interested, please email me with with your Resume (请标明申请类
       <a href="https://github.com/VisionXLab/DisciplineGen-1M" target="_blank">code</a>
     </td>
   </tr>
+  -->
 
+  <!--
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events</b>
@@ -204,6 +213,7 @@ If you are interested, please email me with with your Resume (请标明申请类
       <a href="https://github.com/VisionXLab/Moment-Video" target="_blank">code</a>
     </td>
   </tr>
+  -->
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
@@ -277,6 +287,7 @@ If you are interested, please email me with with your Resume (请标明申请类
     </td>
   </tr>
 
+  <!--
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>RISE-Video: Can Video Generators Decode Implicit World Rules?</b>
@@ -288,6 +299,7 @@ If you are interested, please email me with with your Resume (请标明申请类
       <a href="https://github.com/VisionXLab/Rise-Video" target="_blank">code</a>
     </td>
   </tr>
+  -->
 
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
@@ -445,6 +457,7 @@ If you are interested, please email me with with your Resume (请标明申请类
     </td>
   </tr>
 
+  <!--
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>R<sup>3</sup>-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars</b>
@@ -456,7 +469,9 @@ If you are interested, please email me with with your Resume (请标明申请类
       <a href="https://github.com/Yifever20002/R3Avatars" target="_blank">code</a>
     </td>
   </tr>
+  -->
 
+  <!--
   <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">
         <b>SGA-INTERACT: A 3D Skeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic</b>
@@ -468,6 +483,7 @@ If you are interested, please email me with with your Resume (请标明申请类
       <a href="https://github.com/Charrrrrlie/SGA-INTERACT?tab=readme-ov-file" target="_blank">code</a>
     </td>
   </tr>
+  -->
 
   <!-- <tr onmouseout="sfp_stop()" onmouseover="sfp_start()">
       <td style="padding:10px;width:70%;vertical-align:middle">

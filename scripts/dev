@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+source "$(dirname "$0")/env.sh"
+export JEKYLL_ENV=development
+exec "$MISE_BIN" exec -- bundle exec jekyll serve --config _config.yml,_config.dev.yml --trace "$@"

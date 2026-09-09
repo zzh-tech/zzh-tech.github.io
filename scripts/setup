@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+if [[ ! -x .local/bin/mise ]]; then
+  mkdir -p .local/bin
+  curl -fsSL https://mise.run -o .local/install-mise.sh
+  MISE_INSTALL_PATH="$PWD/.local/bin/mise" MISE_INSTALL_HELP=0 sh .local/install-mise.sh
+fi
+source scripts/env.sh
+"$MISE_BIN" install
+"$MISE_BIN" exec -- bundle install
+echo "Ready. Run ./scripts/dev and open http://localhost:4000"

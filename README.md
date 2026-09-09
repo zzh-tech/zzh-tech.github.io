@@ -2,7 +2,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+Ruby dependencies are locked in `Gemfile.lock`; update dependencies deliberately and verify the build before committing changes.
 
 # Instructions
 
@@ -18,11 +18,27 @@ See more info at https://academicpages.github.io/
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+### 本地调试（macOS）
+
+在项目目录运行：
+
+```bash
+./scripts/setup   # 首次安装 Ruby 和网站依赖，需要联网
+./scripts/dev     # 启动开发服务器
+```
+
+打开 <http://localhost:4000>。修改 Markdown、HTML、布局或 SCSS 后，网站会自动重新生成，浏览器会自动刷新。终端按 `Ctrl+C` 停止服务；下次只需运行 `./scripts/dev`。
+
+运行环境使用 [mise](https://mise.en.dev/lang/ruby) 管理，Ruby 版本固定在 `mise.toml`。运行时安装到 `.local/`，Gem 依赖安装到 `vendor/bundle/`，均不提交到 Git。macOS 首次安装原生依赖需要 Command Line Tools（如未安装，运行 `xcode-select --install`）。无需修改系统 Ruby 或全局 shell 配置。
+
+- 首页内容：`_pages/about.md`；其他页面：`_pages/`。
+- 导航：`_data/navigation.yml`；布局：`_layouts/`、`_includes/`；样式：`_sass/`。
+- 本地配置：`_config.dev.yml`（关闭统计和评论、使用本地地址）。修改任一 `_config*.yml` 后需要重启服务器。
+- 浏览器开发者工具可检查样式、网络请求和 JavaScript；构建错误会显示在启动服务的终端中。
+- 查看草稿：`./scripts/dev --drafts`；端口被占用：`./scripts/dev --port 4001`。
+- 正式构建检查：`./scripts/build`，生成文件位于 `_site/`。该命令不会发布网站。
+
+现有网页已包含编译后的 `assets/js/main.min.js`，日常修改内容和 SCSS 不需要 Node.js。若修改 `assets/js/_main.js` 或插件源码，需要另行安装 Node.js，并运行 `npm install`、`npm run build:js`；开发时可使用 `npm run watch:js`。
 
 # Changelog -- bugfixes and enhancements
 

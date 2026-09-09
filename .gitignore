@@ -1,5 +1,25 @@
-_site/
-.idea/
-Gemfile.lock
-.DS_Store
+# Generated site and Jekyll caches
+/_site/
+/.sass-cache/
+/.jekyll-cache/
+/.jekyll-metadata
 
+# Local runtime, dependencies, and cleanup backups
+/.bundle/
+/.local/
+/vendor/
+/node_modules/
+
+# Machine-specific configuration and temporary files
+.idea/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+.env
+.env.*
+!.env.example
+
+# Keep Gemfile.lock, mise.toml, scripts/, and _config.dev.yml in Git.
+# _sass/vendor/ and assets/js/vendor/ are website source, not local dependencies.
