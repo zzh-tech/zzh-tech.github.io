@@ -17,7 +17,7 @@ redirect_from:
       <p><span>Spatial Agents</span><small>Vision-Language Models</small></p>
     </div>
   </div>
-  <p>I am Zhihang Zhong, an associate professor at the School of Artificial Intelligence, Shanghai Jiao Tong University, where I lead <strong>Visionary Laboratory</strong> (空间多媒体实验室). Previously, I was a researcher at the Shanghai AI Laboratory.</p>
+  <p>I am Zhihang Zhong, an associate professor at the School of Artificial Intelligence, Shanghai Jiao Tong University, where I lead <a href="https://github.com/Visionary-Laboratory" target="_blank" rel="noopener noreferrer"><strong>Visionary Laboratory</strong> (空间多媒体实验室)</a>. Previously, I was a researcher at the Shanghai AI Laboratory.</p>
   <p>I received my PhD in Computer Science and ME in Precision Engineering from the University of Tokyo, and my BE in Mechatronics from Chu Kochen Honors College, Zhejiang University.</p>
 </section>
 
@@ -542,7 +542,7 @@ redirect_from:
 
 <tr>
       <td class="publication-entry">
-        <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with<br>Pose Sequence</b>
+        <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with Pose Sequence</b>
       <br>
       Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Wei Wang, Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Yu Qiao, Yinqiang Zheng
       <br>
@@ -683,7 +683,7 @@ redirect_from:
 
 <tr>
       <td class="publication-entry">
-        <b>Event-guided Frame Interpolation and Dynamic Range Expansion <br> of Single Rolling Shutter Image</b>
+        <b>Event-guided Frame Interpolation and Dynamic Range Expansion of Single Rolling Shutter Image</b>
       <br>
       Guixu Lin,
       Jin Han,
@@ -719,7 +719,7 @@ redirect_from:
 
 <tr>
     <td class="publication-entry">
-        <b>Visibility Constrained Wide-band Illumination Spectrum Design <br> for Seeing-in-the-Dark</b>
+        <b>Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark</b>
       <br>
       Muyao Niu,
       Zhuoxiao Li,
@@ -842,7 +842,7 @@ redirect_from:
 
 <tr>
     <td class="publication-entry">
-        <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient Recurrent <br>Neural Network</b>
+        <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient Recurrent Neural Network</b>
       <br>
       <strong>Zhihang Zhong</strong>,
       Ye Gao,
@@ -883,7 +883,7 @@ redirect_from:
 
 <tr>
     <td class="publication-entry">
-        <b>Multistream Temporal Convolutional Network for Correct/Incorrect <br> Patient Transfer Action Detection using Body Sensor Network</b>
+        <b>Multistream Temporal Convolutional Network for Correct/Incorrect Patient Transfer Action Detection using Body Sensor Network</b>
       <br>
       <strong>Zhihang Zhong</strong>,
       Chingszu Lin,
@@ -947,7 +947,7 @@ redirect_from:
 
 <tr>
     <td class="publication-entry">
-        <b>Multi-attention Deep Recurrent Neural Network for Nursing Action Evaluation <br>using Wearable Sensor</b>
+        <b>Multi-attention Deep Recurrent Neural Network for Nursing Action Evaluation using Wearable Sensor</b>
       <br>
       <strong>Zhihang Zhong</strong>,
       Chingszu Lin,

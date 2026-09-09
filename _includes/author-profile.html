@@ -16,7 +16,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.bio %}<p class="author__bio">{% if page.editorial %}<a href="https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhongzhihang" target="_blank" rel="noopener noreferrer" aria-label="Zhihang Zhong’s official profile at Shanghai Jiao Tong University">{{ author.bio }}</a>{% else %}{{ author.bio }}{% endif %}</p>{% endif %}
     {% if page.editorial %}<p class="author__bio">School of Artificial Intelligence<br>Shanghai Jiao Tong University</p>{% endif %}
   </div>
 
