@@ -309,8 +309,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed
-  jekyll-sitemap
   webrick (~> 1.7)
 
 BUNDLED WITH
