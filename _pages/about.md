@@ -17,7 +17,7 @@ redirect_from:
       <p><span>Spatial Agents</span><small>Vision-Language Models</small></p>
     </div>
   </div>
-  <p>I am Zhihang Zhong, an associate professor at the School of Artificial Intelligence, Shanghai Jiao Tong University, where I lead <a href="https://github.com/Visionary-Laboratory" target="_blank" rel="noopener noreferrer"><strong>Visionary Laboratory</strong> (空间多媒体实验室)</a>. Previously, I was a researcher at the Shanghai AI Laboratory.</p>
+  <p>I am Zhihang Zhong (钟志航), an associate professor at the School of Artificial Intelligence, Shanghai Jiao Tong University, where I lead <a href="https://github.com/Visionary-Laboratory" target="_blank" rel="noopener noreferrer"><strong>Visionary Laboratory</strong> (空间多媒体实验室)</a>. Previously, I was a researcher at the Shanghai AI Laboratory.</p>
   <p>I received my PhD in Computer Science and ME in Precision Engineering from the University of Tokyo, and my BE in Mechatronics from Chu Kochen Honors College, Zhejiang University.</p>
 </section>
 
