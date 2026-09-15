@@ -38,7 +38,7 @@ redirect_from:
   <li><time datetime="2026-05">2026.05</time><div>Two papers (one <strong class="news-award">Oral</strong>: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026!</div></li>
 </ul>
 <details class="news-archive">
-<summary>More news</summary>
+<summary><span class="news-expand-label">More news</span><span class="news-collapse-label">Less news</span></summary>
 <ul class="news-list">
   <li><time datetime="2026-03">2026.03</time><div>We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence!</div></li>
   <li><time datetime="2026-03">2026.03</time><div>We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence!</div></li>
