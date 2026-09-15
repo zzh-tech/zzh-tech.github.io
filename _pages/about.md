@@ -130,7 +130,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Intern-S2-Preview: Scientific Agentic Foundation Model</b>
       <br>
-      Intern-S2-Preview Team
+      <span class="publication-author">Intern-S2-Preview Team</span>
       <br>
       <em>arXiv</em>, 2026<br>
       <a href="https://arxiv.org/abs/2608.13505" target="_blank">arXiv</a> /
@@ -142,7 +142,7 @@ redirect_from:
       <td class="publication-entry">
         <b>SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation</b>
       <br>
-      Xiaolong Zhou, Yifei Liu, Ziyang Gong, Jiarui Li, Qiyue Zhao, Muyao Niu, Yuanyuan Gao, Le Ma, Xue Yang, Hongjie Zhang, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>
+      <span class="publication-author">Xiaolong Zhou,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Ziyang Gong,</span> <span class="publication-author">Jiarui Li,</span> <span class="publication-author">Qiyue Zhao,</span> <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Le Ma,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Hongjie Zhang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
       <em>arXiv</em>, 2026<br>
       <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">project</a> /
@@ -155,7 +155,7 @@ redirect_from:
       <td class="publication-entry">
         <b>PhotoFlow: Agentic 3D Virtual Photography Missions</b>
       <br>
-      Jiarui Guo, Haojia Wei, Yiming Zhang, Yifei Liu, Yuning Gong, Hongjie Zhang, Xue Yang, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>
+      <span class="publication-author">Jiarui Guo,</span> <span class="publication-author">Haojia Wei,</span> <span class="publication-author">Yiming Zhang,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Hongjie Zhang,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
       <em>arXiv</em>, 2026<br>
       <a href="https://visionary-laboratory.github.io/PhotoFlow/" target="_blank">project</a> /
@@ -169,7 +169,7 @@ redirect_from:
       <td class="publication-entry">
         <b>CoCoSI: Collaborative Cognitive Map Construction for Spatial Intelligence</b>
       <br>
-      Yiming Zhang, Ruoxuan Cao, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>
+      <span class="publication-author">Yiming Zhang,</span> <span class="publication-author">Ruoxuan Cao,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
       <em>arXiv</em>, 2026<br>
       <a href="https://arxiv.org/abs/2606.10401" target="_blank">arXiv</a>
@@ -181,7 +181,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Segment and Select: Vision-Language Segmentation in 3D Scenarios</b>
       <br>
-      Yulin Chen, <strong>Zhihang Zhong</strong>, Yuenan Hou
+      <span class="publication-author">Yulin Chen,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yuenan Hou</span>
       <br>
       <em>arXiv</em>, 2026<br>
       <a href="https://arxiv.org/abs/2606.10594" target="_blank">arXiv</a>
@@ -193,7 +193,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation</b>
       <br>
-      Yifan Zhou, Qihao Yang, Yan Li, Donggang Li, Xiru Hu, Hokin Deng, Ziyang Gong, Xuanyi Zhou, Huacan Wang, Xiangchao Yan, Wanghan Xu, Wenlong Zhang, Shaofeng Zhang, Yue Zhou, Yifan Yang, <strong>Zhihang Zhong</strong>, Xue Yang
+      <span class="publication-author">Yifan Zhou,</span> <span class="publication-author">Qihao Yang,</span> <span class="publication-author">Yan Li,</span> <span class="publication-author">Donggang Li,</span> <span class="publication-author">Xiru Hu,</span> <span class="publication-author">Hokin Deng,</span> <span class="publication-author">Ziyang Gong,</span> <span class="publication-author">Xuanyi Zhou,</span> <span class="publication-author">Huacan Wang,</span> <span class="publication-author">Xiangchao Yan,</span> <span class="publication-author">Wanghan Xu,</span> <span class="publication-author">Wenlong Zhang,</span> <span class="publication-author">Shaofeng Zhang,</span> <span class="publication-author">Yue Zhou,</span> <span class="publication-author">Yifan Yang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xue Yang</span>
       <br>
       <em>arXiv</em>, 2026<br>
       <a href="https://arxiv.org/abs/2607.08758" target="_blank">project</a> /
@@ -208,7 +208,7 @@ redirect_from:
       <td class="publication-entry">
         <b>DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing</b>
       <br>
-      Zhaokai Wang, Mingxin Liu, Zirun Zhu, Ziqian Fan, Yiguo He, Mohan Zhang, Leyao Gu, Xiangyu Zhao, Ning Liao, Shaofeng Zhang, Xuanhe Zhou, <strong>Zhihang Zhong</strong>, Junchi Yan, Xue Yang
+      <span class="publication-author">Zhaokai Wang,</span> <span class="publication-author">Mingxin Liu,</span> <span class="publication-author">Zirun Zhu,</span> <span class="publication-author">Ziqian Fan,</span> <span class="publication-author">Yiguo He,</span> <span class="publication-author">Mohan Zhang,</span> <span class="publication-author">Leyao Gu,</span> <span class="publication-author">Xiangyu Zhao,</span> <span class="publication-author">Ning Liao,</span> <span class="publication-author">Shaofeng Zhang,</span> <span class="publication-author">Xuanhe Zhou,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Junchi Yan,</span> <span class="publication-author">Xue Yang</span>
       <br>
       <em>arXiv</em>, 2026<br>
       <a href="https://disciplinegen.github.io/" target="_blank">project</a> /
@@ -223,7 +223,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events</b>
       <br>
-      Xiaolin Liu, Yilun Zhu, Xiangyu Zhao, Xuehui Wang, Yan Li, Xin Li, Haoyu Cao, Xing Sun, Shaofeng Zhang, Xu Yang, <strong>Zhihang Zhong</strong>, Xue Yang
+      <span class="publication-author">Xiaolin Liu,</span> <span class="publication-author">Yilun Zhu,</span> <span class="publication-author">Xiangyu Zhao,</span> <span class="publication-author">Xuehui Wang,</span> <span class="publication-author">Yan Li,</span> <span class="publication-author">Xin Li,</span> <span class="publication-author">Haoyu Cao,</span> <span class="publication-author">Xing Sun,</span> <span class="publication-author">Shaofeng Zhang,</span> <span class="publication-author">Xu Yang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xue Yang</span>
       <br>
       <em>arXiv</em>, 2026<br>
       <a href="https://moment-video.netlify.app/" target="_blank">project</a> /
@@ -237,7 +237,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence</b>
       <br>
-      Yuanyuan Gao, Hao Li, Yifei Liu, Xinhao Ji, Yuning Gong, Yuanjun Liao, Fangfu Liu, Manyuan Zhang, Yuchen Yang, Dan Xu, Xue Yang, Huaxi Huang, Hongjie Zhang, Ziwei Liu, Xiao Sun, Dingwen Zhang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>
+      <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Hao Li,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Xinhao Ji,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Yuanjun Liao,</span> <span class="publication-author">Fangfu Liu,</span> <span class="publication-author">Manyuan Zhang,</span> <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Dan Xu,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Huaxi Huang,</span> <span class="publication-author">Hongjie Zhang,</span> <span class="publication-author">Ziwei Liu,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Dingwen Zhang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
       <em>ICML</em>, 2026, <em class="publication-award">Oral</em><br>
       <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">project</a> /
@@ -250,7 +250,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Perceptual Flow Network for Visually Grounded Reasoning</b>
       <br>
-      Yangfu Li, Yuning Gong, Hongjian Zhan<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Teng Li, Yuanhuiyi Lyu, Tianyi Chen, Qi Liu, Ziyuan Huang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Dandan Zheng, Yue Lu
+      <span class="publication-author">Yangfu Li,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Hongjian Zhan<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Teng Li,</span> <span class="publication-author">Yuanhuiyi Lyu,</span> <span class="publication-author">Tianyi Chen,</span> <span class="publication-author">Qi Liu,</span> <span class="publication-author">Ziyuan Huang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Dandan Zheng,</span> <span class="publication-author">Yue Lu</span>
       <br>
       <em>ICML</em>, 2026 <br>
       <a href="https://arxiv.org/abs/2605.02730v1" target="_blank">arXiv</a>
@@ -261,7 +261,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports</b>
       <br>
-      Yuchen Yang, Yuqing Shao, Duxiu Huang, Linfeng Dong, Yifei Liu, Suixin Tang, Xiang Zhou, Yuanyuan Gao, Wei Wang, Yue Zhou, Xue Yang, Yanfeng Wang, Xiao Sun, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>
+      <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Yuqing Shao,</span> <span class="publication-author">Duxiu Huang,</span> <span class="publication-author">Linfeng Dong,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Suixin Tang,</span> <span class="publication-author">Xiang Zhou,</span> <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Yue Zhou,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Yanfeng Wang,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
       <em>arXiv</em>, 2026 <br>
       <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">project</a> /
@@ -274,7 +274,7 @@ redirect_from:
       <td class="publication-entry">
         <b>InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing</b>
       <br>
-      Changyao Tian, Danni Yang, Guanzhou Chen, Erfei Cui, Zhaokai Wang, Yuchen Duan, Penghao Yin, Sitao Chen, Ganlin Yang, Mingxin Liu, Zirun Zhu, Ziqian Fan, Leyao Gu, Haomin Wang, Qi Wei, Jinhui Yin, Xue Yang, <strong>Zhihang Zhong</strong>, Qi Qin, Yi Xin, Bin Fu, Yihao Liu, Jiaye Ge, Qipeng Guo, Gen Luo, Hongsheng Li, Yu Qiao, Kai Chen, Hongjie Zhang
+      <span class="publication-author">Changyao Tian,</span> <span class="publication-author">Danni Yang,</span> <span class="publication-author">Guanzhou Chen,</span> <span class="publication-author">Erfei Cui,</span> <span class="publication-author">Zhaokai Wang,</span> <span class="publication-author">Yuchen Duan,</span> <span class="publication-author">Penghao Yin,</span> <span class="publication-author">Sitao Chen,</span> <span class="publication-author">Ganlin Yang,</span> <span class="publication-author">Mingxin Liu,</span> <span class="publication-author">Zirun Zhu,</span> <span class="publication-author">Ziqian Fan,</span> <span class="publication-author">Leyao Gu,</span> <span class="publication-author">Haomin Wang,</span> <span class="publication-author">Qi Wei,</span> <span class="publication-author">Jinhui Yin,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Qi Qin,</span> <span class="publication-author">Yi Xin,</span> <span class="publication-author">Bin Fu,</span> <span class="publication-author">Yihao Liu,</span> <span class="publication-author">Jiaye Ge,</span> <span class="publication-author">Qipeng Guo,</span> <span class="publication-author">Gen Luo,</span> <span class="publication-author">Hongsheng Li,</span> <span class="publication-author">Yu Qiao,</span> <span class="publication-author">Kai Chen,</span> <span class="publication-author">Hongjie Zhang</span>
       <br>
       <em>Technical Report</em>, 2026 <br>
       <a href="https://arxiv.org/abs/2603.09877" target="_blank">arXiv</a> /
@@ -286,7 +286,7 @@ redirect_from:
       <td class="publication-entry">
         <b>GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing</b>
       <br>
-      Mingxin Liu, Ziqian Fan, Zhaokai Wang, Leyao Gu, Zirun Zhu, Yiguo He, Yuchen Yang, Changyao Tian, Xiangyu Zhao, Ning Liao, Shaofeng Zhang, Qibing Ren, <strong>Zhihang Zhong</strong>, Xuanhe Zhou, Junchi Yan, Xue Yang
+      <span class="publication-author">Mingxin Liu,</span> <span class="publication-author">Ziqian Fan,</span> <span class="publication-author">Zhaokai Wang,</span> <span class="publication-author">Leyao Gu,</span> <span class="publication-author">Zirun Zhu,</span> <span class="publication-author">Yiguo He,</span> <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Changyao Tian,</span> <span class="publication-author">Xiangyu Zhao,</span> <span class="publication-author">Ning Liao,</span> <span class="publication-author">Shaofeng Zhang,</span> <span class="publication-author">Qibing Ren,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xuanhe Zhou,</span> <span class="publication-author">Junchi Yan,</span> <span class="publication-author">Xue Yang</span>
       <br>
       <em>ECCV</em>, 2026, <em class="publication-award">Spotlight</em><br>
       <a href="https://grade-bench.github.io/" target="_blank">project</a> /
@@ -299,7 +299,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Aligning Anything: Hierarchical Motion Estimation for Video Frame Interpolation</b>
       <br>
-      Mengshun Hu, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Yansheng Qiu, Zheng Wang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Xiao Sun
+      <span class="publication-author">Mengshun Hu,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Yansheng Qiu,</span> <span class="publication-author">Zheng Wang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Xiao Sun</span>
       <br>
       <em>ECCV</em>, 2026 <br>
     </td>
@@ -310,7 +310,7 @@ redirect_from:
       <td class="publication-entry">
         <b>RISE-Video: Can Video Generators Decode Implicit World Rules?</b>
       <br>
-      Mingxin Liu, Shuran Ma, Shibei Meng, Xiangyu Zhao, Zicheng Zhang, Shaofeng Zhang, <strong>Zhihang Zhong</strong>, Peixian Chen, Haoyu Cao, Xing Sun, Haodong Duan, Xue Yang
+      <span class="publication-author">Mingxin Liu,</span> <span class="publication-author">Shuran Ma,</span> <span class="publication-author">Shibei Meng,</span> <span class="publication-author">Xiangyu Zhao,</span> <span class="publication-author">Zicheng Zhang,</span> <span class="publication-author">Shaofeng Zhang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Peixian Chen,</span> <span class="publication-author">Haoyu Cao,</span> <span class="publication-author">Xing Sun,</span> <span class="publication-author">Haodong Duan,</span> <span class="publication-author">Xue Yang</span>
       <br>
       <em>arXiv</em>, 2026 <br>
       <a href="https://arxiv.org/abs/2602.05986" target="_blank">arXiv</a> /
@@ -323,7 +323,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Proxy-GS: Unified Occlusion Priors for Training and Inference in Structured 3D Gaussian Splatting</b>
       <br>
-      Yuanyuan Gao, Yuning Gong, Yifei Liu, Jingfeng Li, Dan Xu, Yanchi Zhang, Dingwen Zhang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Xiao Sun, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>
+      <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Jingfeng Li,</span> <span class="publication-author">Dan Xu,</span> <span class="publication-author">Yanchi Zhang,</span> <span class="publication-author">Dingwen Zhang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
       <em>CVPR</em>, 2026, <em class="publication-award">Oral, Best Paper Candidate</em> 🎖️<br>
       <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">project</a> /
@@ -336,7 +336,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Motion-Aware Animatable Gaussian Avatars Deblurring</b>
       <br>
-      Muyao Niu, Yifan Zhan, Qingtian Zhu, Zhuoxiao Li, Wei Wang, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Xiao Sun, Yinqiang Zheng
+      <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author">Zhuoxiao Li,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>CVPR</em>, 2026 <br>
       <a href="https://www.arxiv.org/abs/2411.16758" target="_blank">arXiv</a> /
@@ -348,14 +348,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Velocity Disambiguation for Video Frame Interpolation</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Yiming Zhang,
-      Wei Wang,
-      Xiao Sun,
-      Yu Qiao,
-      Gurunandan Krishnan,
-      Sizhuo Ma,
-      Jian Wang
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yiming Zhang,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Yu Qiao,</span> <span class="publication-author">Gurunandan Krishnan,</span> <span class="publication-author">Sizhuo Ma,</span> <span class="publication-author">Jian Wang</span>
       <br>
       <em>TPAMI</em>, 2026
       <br>
@@ -368,7 +361,7 @@ redirect_from:
       <td class="publication-entry">
         <b>RacketVision: A Multiple Racket Sports Benchmark for Unified Ball and Racket Analysis</b>
       <br>
-      Linfeng Dong, Yuchen Yang, Hao Wu, Wei Wang, Yuenan Hou, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
+      <span class="publication-author">Linfeng Dong,</span> <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Hao Wu,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Yuenan Hou,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
       <em>AAAI</em>, 2026, <em class="publication-award">Oral</em><br>
       <a href="https://arxiv.org/abs/2511.17045" target="_blank">arXiv</a> /
@@ -380,7 +373,7 @@ redirect_from:
       <td class="publication-entry">
         <b>AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models</b>
       <br>
-      Muyao Niu, Mingdeng Cao, Yifan Zhan, Qingtian Zhu, Mingze Ma, Jiancheng Zhao, Yanhong Zeng, Xiao Sun, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Yinqiang Zheng
+      <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author">Mingze Ma,</span> <span class="publication-author">Jiancheng Zhao,</span> <span class="publication-author">Yanhong Zeng,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ACM MM</em>, 2026 <br>
       <a href="https://myniuuu.github.io/AniCrafter/" target="_blank">project</a> /
@@ -393,7 +386,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark</b>
       <br>
-      Muyao Niu, Mingze Ma, Yifan Zhan, Qingtian Zhu, <strong>Zhihang Zhong</strong>, Wei Guo, Chang Wen Chen, Yinqiang Zheng
+      <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Mingze Ma,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Wei Guo,</span> <span class="publication-author">Chang Wen Chen,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ACM MM</em>, 2026 <br>
     </td>
@@ -410,7 +403,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform</b>
       <br>
-      Yuning Gong, Yifei Liu, Yifan Zhan, Muyao Niu, Xueying Li, Yuanjun Liao, Jiaming Chen, Yuanyuan Gao, Jiaqi Chen, Minming Chen, Li Zhou, Yuning Zhang, Wei Wang, Xiaoqing Hou, Huaxi Huang, Shixiang Tang, Le Ma, Dingwen Zhang, Xue Yang, Junchi Yan, Yanchi Zhang, Yinqiang Zheng, Xiao Sun, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>
+      <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Xueying Li,</span> <span class="publication-author">Yuanjun Liao,</span> <span class="publication-author">Jiaming Chen,</span> <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Jiaqi Chen,</span> <span class="publication-author">Minming Chen,</span> <span class="publication-author">Li Zhou,</span> <span class="publication-author">Yuning Zhang,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Xiaoqing Hou,</span> <span class="publication-author">Huaxi Huang,</span> <span class="publication-author">Shixiang Tang,</span> <span class="publication-author">Le Ma,</span> <span class="publication-author">Dingwen Zhang,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Junchi Yan,</span> <span class="publication-author">Yanchi Zhang,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
       <em>Technical Report</em>, 2025<br>
       <a href="https://visionary-laboratory.github.io/visionary/" target="_blank">project</a> /
@@ -424,7 +417,7 @@ redirect_from:
       <td class="publication-entry">
         <b>CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction</b>
       <br>
-      Yuanyuan Gao, Hao Li, Jiaqi Chen, Zhengyu Zou, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Dingwen Zhang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Xiao Sun, Junwei Han
+      <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Hao Li,</span> <span class="publication-author">Jiaqi Chen,</span> <span class="publication-author">Zhengyu Zou,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Dingwen Zhang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Junwei Han</span>
       <br>
       <em>ICCV</em>, 2025 <br>
       <a href="https://lifuguan.github.io/CityGS-X/" target="_blank">project</a> /
@@ -437,7 +430,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Sequential Gaussian Avatars with Hierarchical Motion Context</b>
       <br>
-      Wangze Xu, Yifan Zhan, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
+      <span class="publication-author">Wangze Xu,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
       <em>ICCV</em>, 2025 <br>
       <a href="https://zezeaaa.github.io/projects/SeqAvatar/" target="_blank">project</a> /
@@ -450,7 +443,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Towards Explicit Exoskeleton for the Reconstruction of Complicated 3D Human Avatars</b>
       <br>
-      Yifan Zhan, Qingtian Zhu, Muyao Niu, Mingze Ma, Jiancheng Zhao, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Yu Qiao, Yinqiang Zheng
+      <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Mingze Ma,</span> <span class="publication-author">Jiancheng Zhao,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Yu Qiao,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ICCV</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2410.08082" target="_blank">arXiv</a> /
@@ -462,7 +455,7 @@ redirect_from:
       <td class="publication-entry">
         <b>MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks</b>
       <br>
-      Yifei Liu, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Yifan Zhan, Sheng Xu, Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
+      <span class="publication-author">Yifei Liu,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Sheng Xu,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
       <em>CVPR</em>, 2025 <br>
       <a href="https://maskgaussian.github.io/" target="_blank">project</a> /
@@ -475,7 +468,7 @@ redirect_from:
       <td class="publication-entry">
         <b>DiffBody: Human Body Image Restoration with Generative Diffusion Prior</b>
       <br>
-      Yiming Zhang, Zhe Wang, Sizhuo Ma, Xinjie Li, Jian Ren, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Jian Wang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
+      <span class="publication-author">Yiming Zhang,</span> <span class="publication-author">Zhe Wang,</span> <span class="publication-author">Sizhuo Ma,</span> <span class="publication-author">Xinjie Li,</span> <span class="publication-author">Jian Ren,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Jian Wang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
       <em>ICCP</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
@@ -487,7 +480,7 @@ redirect_from:
       <td class="publication-entry">
         <b>R<sup>3</sup>-Avatar: Record and Retrieve Temporal Codebook for Reconstructing Photorealistic Human Avatars</b>
       <br>
-      Yifan Zhan, Wangze Xu, Qingtian Zhu, Muyao Niu, Mingze Ma, Yifei Liu, Xiao Sun, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Yinqiang Zheng
+      <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Wangze Xu,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Mingze Ma,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>arxiv</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2503.12751" target="_blank">arXiv</a> /
@@ -501,7 +494,7 @@ redirect_from:
       <td class="publication-entry">
         <b>SGA-INTERACT: A 3D Skeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic</b>
       <br>
-      Yuchen Yang, Wei Wang, Yifei Liu, Linfeng Dong, Hao Wu, Mingxin Zhang, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
+      <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Linfeng Dong,</span> <span class="publication-author">Hao Wu,</span> <span class="publication-author">Mingxin Zhang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
       <em>arxiv</em>, 2025 <br>
       <a href="https://arxiv.org/abs/2503.06522" target="_blank">arXiv</a> /
@@ -521,7 +514,7 @@ redirect_from:
       <td class="publication-entry">
         <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation</b>
       <br>
-      Yuchen Yang, Xuanyi Liu, Xing Gao, <strong>Zhihang Zhong</strong>, Xiao Sun
+      <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Xuanyi Liu,</span> <span class="publication-author">Xing Gao,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xiao Sun</span>
       <br>
       <em>arXiv</em>, 2024 <br>
       <a href="https://arxiv.org/abs/2411.13026" target="_blank">arXiv</a> /
@@ -533,7 +526,7 @@ redirect_from:
       <td class="publication-entry">
         <b>DIR: Retrieval-Augmented Image Captioning with Comprehensive Understanding</b>
       <br>
-      Hao Wu, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>
+      <span class="publication-author">Hao Wu,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
       <em>arXiv</em>, 2024 <br>
       <a href="https://arxiv.org/abs/2412.01115" target="_blank">arXiv</a>
@@ -544,7 +537,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Within the Dynamic Context: Inertia-aware 3D Human Modeling with Pose Sequence</b>
       <br>
-      Yutong Chen, Yifan Zhan, <strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>, Wei Wang, Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>, Yu Qiao, Yinqiang Zheng
+      <span class="publication-author">Yutong Chen,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Yu Qiao,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ECCV</em>, 2024 <br>
       <a href="http://ai4sports.opengvlab.com/Dyco" target="_blank">project</a> / 
@@ -557,12 +550,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Gurunandan Krishnan,      
-      Xiao Sun,
-      Yu Qiao,
-      Sizhuo Ma,
-      Jian Wang
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Gurunandan Krishnan,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Yu Qiao,</span> <span class="publication-author">Sizhuo Ma,</span> <span class="publication-author">Jian Wang</span>
       <br>
       <em>ECCV</em>, 2024, <em class="publication-award">Oral</em>
       <br>
@@ -575,12 +563,7 @@ redirect_from:
       <td class="publication-entry">
         <b>KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter</b>
       <br>
-      Yifan Zhan,
-      Zhuoxiao Li,
-      Muyao Niu,
-      <strong>Zhihang Zhong</strong>,
-      Shohei Nobuhara,
-      Ko Nishino, Yinqiang Zheng
+      <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Zhuoxiao Li,</span> <span class="publication-author">Muyao Niu,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Shohei Nobuhara,</span> <span class="publication-author">Ko Nishino,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ECCV</em>, 2024
       <br>
@@ -593,11 +576,7 @@ redirect_from:
       <td class="publication-entry">
         <b>IQ-VFI: Implicit Quadratic Motion Estimation for Video Frame Interpolation</b>
       <br>
-      Mengshun Hu,
-      Kui Jiang,
-      <strong>Zhihang Zhong</strong>,
-      Zheng Wang,
-      Yinqiang Zheng
+      <span class="publication-author">Mengshun Hu,</span> <span class="publication-author">Kui Jiang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Zheng Wang,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>CVPR</em>, 2024
       <br>
@@ -609,11 +588,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Fooling Polarization-based Vision using Locally Controllable Polarizing Projection</b>
       <br>
-      Zhuoxiao Li,
-      <strong>Zhihang Zhong</strong>,
-      Shohei Nobuhara,
-      Ko Nishino,
-      Yinqiang Zheng
+      <span class="publication-author">Zhuoxiao Li,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Shohei Nobuhara,</span> <span class="publication-author">Ko Nishino,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>CVPR</em>, 2024
       <br>
@@ -633,9 +608,7 @@ redirect_from:
       <td class="publication-entry">
         <b>NIR-assisted Video Enhancement via Unpaired 24-hour Data </b>
       <br>
-      Muyao Niu,
-      <strong>Zhihang Zhong</strong>,
-      Yinqiang Zheng
+      <span class="publication-author">Muyao Niu,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ICCV</em>, 2023
       <br>
@@ -648,10 +621,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Rethinking Video Frame Interpolation from Shutter Mode Induced Degradation</b>
       <br>
-      Xiang Ji,
-      Zhixiang Wang,
-      <strong>Zhihang Zhong</strong>,
-      Yinqiang Zheng
+      <span class="publication-author">Xiang Ji,</span> <span class="publication-author">Zhixiang Wang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ICCV</em>, 2023
       <br>
@@ -664,15 +634,7 @@ redirect_from:
       <td class="publication-entry">
         <b>ClipCrop: Conditioned Cropping Driven by Vision-Language Model</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Mingxi Cheng,
-      Zhirong Wu,
-      Yuhui Yuan,
-      Yinqiang Zheng,
-      Ji Li, Han Hu,
-      Stephen Lin,
-      Yoichi Sato,
-      Imari Sato
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Mingxi Cheng,</span> <span class="publication-author">Zhirong Wu,</span> <span class="publication-author">Yuhui Yuan,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Ji Li,</span> <span class="publication-author">Han Hu,</span> <span class="publication-author">Stephen Lin,</span> <span class="publication-author">Yoichi Sato,</span> <span class="publication-author">Imari Sato</span>
       <br>
       <em>ICCV Workshops</em>, 2023
       <br>
@@ -685,11 +647,7 @@ redirect_from:
       <td class="publication-entry">
         <b>Event-guided Frame Interpolation and Dynamic Range Expansion of Single Rolling Shutter Image</b>
       <br>
-      Guixu Lin,
-      Jin Han,
-      Mingdeng Cao,
-      <strong>Zhihang Zhong</strong>,
-      Yinqiang Zheng
+      <span class="publication-author">Guixu Lin,</span> <span class="publication-author">Jin Han,</span> <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ACM MM</em>, 2023
       <br>
@@ -701,11 +659,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Blur Interpolation Transformer for Real-World Motion from Blur</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Mingdeng Cao,
-      Xiang Ji,
-      Yinqiang Zheng,
-      Imari Sato
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author">Xiang Ji,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Imari Sato</span>
       <br>
       <em>CVPR</em>, 2023
       <br>
@@ -721,10 +675,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark</b>
       <br>
-      Muyao Niu,
-      Zhuoxiao Li,
-      <strong>Zhihang Zhong</strong>,
-      Yinqiang Zheng
+      <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Zhuoxiao Li,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>CVPR</em>, 2023
       <br>
@@ -745,12 +696,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Xiao Sun, 
-      Zhirong Wu,
-      Yinqiang Zheng,
-      Stephen Lin,
-      Imari Sato
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Zhirong Wu,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Stephen Lin,</span> <span class="publication-author">Imari Sato</span>
       <br>
       <em>ECCV</em>, 2022
       <br>
@@ -766,13 +712,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Bringing Rolling Shutter Images Alive with Dual Reversed Distortion</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-       Mingdeng Cao,
-       Xiao Sun,
-       Zhirong Wu,
-       Zhongyi Zhou, Yinqiang Zheng,
-       Stephen Lin,
-       Imari Sato
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Zhirong Wu,</span> <span class="publication-author">Zhongyi Zhou,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Stephen Lin,</span> <span class="publication-author">Imari Sato</span>
       <br>
       <em>ECCV</em>, 2022, <em class="publication-award">Oral</em>
       <br>
@@ -787,12 +727,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Efficient Video Deblurring Guided by Motion Magnitude</b>
       <br>
-      Yusheng Wang, 
-      Yunfan Lu, 
-      Ye Gao, 
-      Lin Wang, 
-      <strong>Zhihang Zhong</strong>, Yinqiang Zheng,
-      Atsushi Yamashita
+      <span class="publication-author">Yusheng Wang,</span> <span class="publication-author">Yunfan Lu,</span> <span class="publication-author">Ye Gao,</span> <span class="publication-author">Lin Wang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Atsushi Yamashita</span>
       <br>
       <em>ECCV</em>, 2022
       <br>
@@ -806,13 +741,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Towards Real-world Video Deblurring by Exploring Blur Formation Process</b>
       <br>
-      Mingdeng Cao,
-      <strong>Zhihang Zhong</strong>,
-      Yanbo Fan,
-      Jiahao Wang,
-      Yong Zhang,
-      Jue Wang, Yujiu Yang,
-      Yinqiang Zheng
+      <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yanbo Fan,</span> <span class="publication-author">Jiahao Wang,</span> <span class="publication-author">Yong Zhang,</span> <span class="publication-author">Jue Wang,</span> <span class="publication-author">Yujiu Yang,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ECCV Workshops</em>, 2022
       <br>
@@ -826,11 +755,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Learning Adaptive Warping for Real-World Rolling Shutter Correction</b>
       <br>
-      Mingdeng Cao, 
-      <strong>Zhihang Zhong</strong>, 
-      Jiahao Wang, 
-      Yinqiang Zheng, 
-      Yujiu Yang
+      <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Jiahao Wang,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Yujiu Yang</span>
       <br>
       <em>CVPR</em>, 2022
       <br>
@@ -844,11 +769,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Real-world Video Deblurring: A Benchmark Dataset and An Eﬃcient Recurrent Neural Network</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Ye Gao,
-      Yinqiang Zheng,
-      Bo Zheng,
-      Imari Sato
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Ye Gao,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Bo Zheng,</span> <span class="publication-author">Imari Sato</span>
       <br>
       <em>International Journal of Computer Vision (IJCV)</em>, 2022  
       <br>
@@ -869,9 +790,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Yinqiang Zheng, 
-      Imari Sato
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Imari Sato</span>
       <br>
       <em>CVPR</em>, 2021
       <br>
@@ -885,14 +804,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Multistream Temporal Convolutional Network for Correct/Incorrect Patient Transfer Action Detection using Body Sensor Network</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Chingszu Lin,
-      Masako Kanai-Pak,
-      Jukai Maeda, Yasuko Kitajima,
-      Mitsuhiro Nakamura,
-      Noriaki Kuwahara,
-      Taiki Ogata,
-      Jun Ota
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Chingszu Lin,</span> <span class="publication-author">Masako Kanai-Pak,</span> <span class="publication-author">Jukai Maeda,</span> <span class="publication-author">Yasuko Kitajima,</span> <span class="publication-author">Mitsuhiro Nakamura,</span> <span class="publication-author">Noriaki Kuwahara,</span> <span class="publication-author">Taiki Ogata,</span> <span class="publication-author">Jun Ota</span>
       <br>
       <em>IEEE Internet of Things Journal (IoTJ)</em>, 2021  
       <br>
@@ -905,15 +817,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Development and Validation of Robot Patient Equipped with An Inertial Measurement Unit and Angular Position Sensors to Evaluate Transfer Skills of Nurses</b>
       <br>
-      Chingszu Lin,
-      Taiki Ogata,
-      <strong>Zhihang Zhong</strong>,
-      Masako Kanai-Pak,
-      Jukai Maeda,
-      Yasuko Kitajima,
-      Mitsuhiro Nakamura,
-      Noriaki Kuwahara,
-      Jun Ota
+      <span class="publication-author">Chingszu Lin,</span> <span class="publication-author">Taiki Ogata,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Masako Kanai-Pak,</span> <span class="publication-author">Jukai Maeda,</span> <span class="publication-author">Yasuko Kitajima,</span> <span class="publication-author">Mitsuhiro Nakamura,</span> <span class="publication-author">Noriaki Kuwahara,</span> <span class="publication-author">Jun Ota</span>
       <br>
       <em>International Journal of Social Robotics (IJSR)</em>, 2021  
       <br>
@@ -932,10 +836,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Efficient Spatio-Temporal Recurrent Neural Network for Video Deblurring</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Ye Gao,
-      Yinqiang Zheng,
-      Bo Zheng
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Ye Gao,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Bo Zheng</span>
       <br>
       <em>ECCV</em>, 2020, <em class="publication-award">Spotlight</em>
       <br>
@@ -949,10 +850,7 @@ redirect_from:
     <td class="publication-entry">
         <b>Multi-attention Deep Recurrent Neural Network for Nursing Action Evaluation using Wearable Sensor</b>
       <br>
-      <strong>Zhihang Zhong</strong>,
-      Chingszu Lin,
-      Taiki Ogata,
-      Jun Ota
+      <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Chingszu Lin,</span> <span class="publication-author">Taiki Ogata,</span> <span class="publication-author">Jun Ota</span>
       <br>
       <em>IUI</em>, 2020
       <br>
@@ -962,5 +860,13 @@ redirect_from:
 </tbody>
 </table>
 </details>
+
+## Teaching
+
+<p class="teaching-term">Fall 2026</p>
+<ul class="teaching-list">
+  <li><h3>Parallel Computing and Operator Programming <span lang="zh">(并行计算与算子编程)</span></h3><p>Shanghai Jiao Tong University</p></li>
+  <li><h3>AI Engineering <span lang="zh">(AI工程学)</span></h3><p>Shanghai Innovation Institute</p></li>
+</ul>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=tt&d=XXbPPAPR_Tykk65fLeKabiB6-HTFXjsQRAiCOlmsK7w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
