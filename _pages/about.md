@@ -866,7 +866,7 @@ redirect_from:
 <p class="teaching-term">Fall 2026</p>
 <ul class="teaching-list">
   <li><h3><a href="https://visionary-laboratory.github.io/parallel-computing-course/" target="_blank" rel="noopener noreferrer">Parallel Computing and Operator Programming <span lang="zh">(并行计算与算子编程)</span></a></h3><p>Shanghai Jiao Tong University</p></li>
-  <li><h3>AI Engineering <span lang="zh">(AI工程学)</span></h3><p>Shanghai Innovation Institute</p></li>
+  <li><h3><a href="https://visionary-laboratory.github.io/ai-engineering-course/" target="_blank" rel="noopener noreferrer">AI Engineering <span lang="zh">(AI工程学)</span></a></h3><p>Shanghai Innovation Institute</p></li>
 </ul>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=500&t=tt&d=XXbPPAPR_Tykk65fLeKabiB6-HTFXjsQRAiCOlmsK7w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
