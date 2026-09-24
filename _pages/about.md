@@ -302,6 +302,7 @@ redirect_from:
       <span class="publication-author">Mengshun Hu,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Yansheng Qiu,</span> <span class="publication-author">Zheng Wang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Xiao Sun</span>
       <br>
       <em>ECCV</em>, 2026 <br>
+      <a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9736.pdf" target="_blank" rel="noopener noreferrer">paper</a>
     </td>
   </tr>
 
@@ -353,7 +354,8 @@ redirect_from:
       <em>TPAMI</em>, 2026
       <br>
       <a href="https://ieeexplore.ieee.org/abstract/document/11408249/" target="_blank">paper</a> /
-      <a href="https://arxiv.org/abs/2311.08007v3" target="_blank">arXiv</a>
+      <a href="https://arxiv.org/abs/2311.08007v3" target="_blank">arXiv</a> /
+      <a href="https://github.com/zzh-tech/InterpAny-Clearer" target="_blank" rel="noopener noreferrer">code</a>
     </td>
   </tr>
 
@@ -389,6 +391,20 @@ redirect_from:
       <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Mingze Ma,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Wei Guo,</span> <span class="publication-author">Chang Wen Chen,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
       <em>ACM MM</em>, 2026 <br>
+      <a href="https://arxiv.org/abs/2607.29684" target="_blank" rel="noopener noreferrer">arXiv</a> /
+      <a href="https://github.com/MyNiuuu/3DarkFusion" target="_blank" rel="noopener noreferrer">code</a>
+    </td>
+  </tr>
+
+<tr>
+      <td class="publication-entry">
+        <b>Contending with Depth Ambiguity in Monocular 3D Pose Estimation via Multi-Hypothesis Modeling and SMPL Priors</b>
+      <br>
+      <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Xuanyi Liu,</span> <span class="publication-author">Xing Gao,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Weiyao Lin,</span> <span class="publication-author">Xiao Sun</span>
+      <br>
+      <em>TCSVT</em>, 2026
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/11703673" target="_blank" rel="noopener noreferrer">paper</a>
     </td>
   </tr>
 </tbody>
@@ -510,17 +526,7 @@ redirect_from:
 <summary><span class="publication-year-label">2024</span></summary>
 <table class="publications-table">
 <tbody>
-<!-- <tr>
-      <td class="publication-entry">
-        <b>X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation</b>
-      <br>
-      <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Xuanyi Liu,</span> <span class="publication-author">Xing Gao,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xiao Sun</span>
-      <br>
-      <em>arXiv</em>, 2024 <br>
-      <a href="https://arxiv.org/abs/2411.13026" target="_blank">arXiv</a> /
-      <a href="https://github.com/Charrrrrlie/X-as-Supervision" target="_blank">code</a>
-    </td>
-  </tr> -->
+
 
 <!-- <tr>
       <td class="publication-entry">
