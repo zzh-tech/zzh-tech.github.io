@@ -23,8 +23,8 @@ redirect_from:
 
 <aside class="opportunities" aria-label="Research opportunities">
   <p><strong>Join our research.</strong> We are looking for Master’s students, PhD students, interns and RAs.</p>
+  <details><summary>申请说明</summary><p lang="zh">硕博申请须提前至少半年联系并参加考核。27级常规招生名额已基本确定，已获创智等国智院名额的同学可另行联系；欢迎28级同学提前联系进组。邮件请注明申请类别及研究兴趣。</p></details>
   <p>Send your résumé to <a href="mailto:zhongzhihang@sjtu.edu.cn">zhongzhihang@sjtu.edu.cn</a>.</p>
-  <details><summary>申请说明</summary><p lang="zh">硕士博士申请请提前至少半年联系，需要考核；27级正常名额已满，有创智等额外名额可联系。邮件请标明申请类别和感兴趣的研究方向。</p></details>
 </aside>
 
 ## News
