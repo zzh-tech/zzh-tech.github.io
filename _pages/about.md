@@ -30,16 +30,17 @@ redirect_from:
 ## News
 
 <ul class="news-list">
+  <li><time datetime="2026-09">2026.09</time><div>Four papers (one <strong class="news-award">Spotlight</strong>) are accepted to NeurIPS 2026!</div></li>
   <li><time datetime="2026-09">2026.09</time><div>I am appointed as an Area Chair for ICLR.</div></li>
   <li><time datetime="2026-07">2026.07</time><div>I am appointed as a Senior Program Committee member for AAAI.</div></li>
   <li><time datetime="2026-07">2026.07</time><div>Two papers are accepted to ACM MM 2026.</div></li>
   <li><time datetime="2026-06">2026.06</time><div>Two papers (one <strong class="news-award">Spotlight</strong>) are accepted to ECCV 2026!</div></li>
-  <li><time datetime="2026-05">2026.05</time><div>We release <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">SpaceDG</a>, the first benchmark for Spatial Intelligence under visual degradations!</div></li>
-  <li><time datetime="2026-05">2026.05</time><div>Two papers (one <strong class="news-award">Oral</strong>: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026!</div></li>
 </ul>
 <details class="news-archive">
 <summary><span class="news-expand-label">More news</span><span class="news-collapse-label">Less news</span></summary>
 <ul class="news-list">
+  <li><time datetime="2026-05">2026.05</time><div>We release <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">SpaceDG</a>, the first benchmark for Spatial Intelligence under visual degradations!</div></li>
+  <li><time datetime="2026-05">2026.05</time><div>Two papers (one <strong class="news-award">Oral</strong>: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026!</div></li>
   <li><time datetime="2026-03">2026.03</time><div>We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence!</div></li>
   <li><time datetime="2026-03">2026.03</time><div>We release <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>, a data creation engine that transforms video into spatial intelligence!</div></li>
   <li><time datetime="2026-02">2026.02</time><div>Two papers are accepted to CVPR 2026 (one <strong class="news-award">Best Paper Candidate</strong> : <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">Proxy-GS</a>)</div></li>
@@ -128,6 +129,52 @@ redirect_from:
 <tbody>
 <tr>
       <td class="publication-entry">
+        <b>PhotoFlow: Agentic 3D Virtual Photography Missions</b>
+      <br>
+      <span class="publication-author">Jiarui Guo,</span> <span class="publication-author">Haojia Wei,</span> <span class="publication-author">Yiming Zhang,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Hongjie Zhang,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
+      <br>
+      <em>NeurIPS</em>, 2026<br>
+      <a href="https://visionary-laboratory.github.io/PhotoFlow/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2605.23771" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/PhotoFlow" target="_blank">code</a>
+    </td>
+  </tr>
+
+<tr>
+      <td class="publication-entry">
+        <b>Segment and Select: Vision-Language Segmentation in 3D Scenarios</b>
+      <br>
+      <span class="publication-author">Yulin Chen,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yuenan Hou</span>
+      <br>
+      <em>NeurIPS</em>, 2026<br>
+      <a href="https://arxiv.org/abs/2606.10594" target="_blank">arXiv</a>
+    </td>
+  </tr>
+
+<tr>
+      <td class="publication-entry">
+        <b>BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories</b>
+      <br>
+      <span class="publication-author">Fei Lin,</span> <span class="publication-author">Tengchao Zhang,</span> <span class="publication-author">Ziyang Gong,</span> <span class="publication-author">Xiaotong Yu,</span> <span class="publication-author">Bohan Zhang,</span> <span class="publication-author">Yifan Zhou,</span> <span class="publication-author">Qihao Yang,</span> <span class="publication-author">Ji Dai,</span> <span class="publication-author">Dong Li,</span> <span class="publication-author">Yining Jiang,</span> <span class="publication-author">Qinghua Ni,</span> <span class="publication-author">Jun Huang,</span> <span class="publication-author">Qiang Zhang,</span> <span class="publication-author">Yue Zhou,</span> <span class="publication-author">Yonglin Tian,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Fei-Yue Wang</span>
+      <br>
+      <em>NeurIPS</em>, 2026, <em class="publication-award">Spotlight</em>
+    </td>
+  </tr>
+
+<tr>
+      <td class="publication-entry">
+        <b>RISE-Video: Can Video Generators Decode Implicit World Rules?</b>
+      <br>
+      <span class="publication-author">Mingxin Liu,</span> <span class="publication-author">Shuran Ma,</span> <span class="publication-author">Shibei Meng,</span> <span class="publication-author">Xiangyu Zhao,</span> <span class="publication-author">Zicheng Zhang,</span> <span class="publication-author">Shaofeng Zhang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Peixian Chen,</span> <span class="publication-author">Haoyu Cao,</span> <span class="publication-author">Xing Sun,</span> <span class="publication-author">Haodong Duan,</span> <span class="publication-author">Xue Yang</span>
+      <br>
+      <em>NeurIPS</em>, 2026 <br>
+      <a href="https://arxiv.org/abs/2602.05986" target="_blank">arXiv</a> /
+      <a href="https://github.com/VisionXLab/Rise-Video" target="_blank">code</a>
+    </td>
+  </tr>
+
+<tr>
+      <td class="publication-entry">
         <b>Intern-S2-Preview: Scientific Agentic Foundation Model</b>
       <br>
       <span class="publication-author">Intern-S2-Preview Team</span>
@@ -135,32 +182,6 @@ redirect_from:
       <em>arXiv</em>, 2026<br>
       <a href="https://arxiv.org/abs/2608.13505" target="_blank">arXiv</a> /
       <a href="https://github.com/InternLM/Intern-S1" target="_blank">code</a>
-    </td>
-  </tr>
-
-<tr>
-      <td class="publication-entry">
-        <b>SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation</b>
-      <br>
-      <span class="publication-author">Xiaolong Zhou,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Ziyang Gong,</span> <span class="publication-author">Jiarui Li,</span> <span class="publication-author">Qiyue Zhao,</span> <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Le Ma,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Hongjie Zhang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
-      <br>
-      <em>arXiv</em>, 2026<br>
-      <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">project</a> /
-      <a href="https://arxiv.org/abs/2605.22536" target="_blank">arXiv</a> /
-      <a href="https://github.com/Visionary-Laboratory/SpaceDG" target="_blank">code</a>
-    </td>
-  </tr>
-
-<tr>
-      <td class="publication-entry">
-        <b>PhotoFlow: Agentic 3D Virtual Photography Missions</b>
-      <br>
-      <span class="publication-author">Jiarui Guo,</span> <span class="publication-author">Haojia Wei,</span> <span class="publication-author">Yiming Zhang,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Hongjie Zhang,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
-      <br>
-      <em>arXiv</em>, 2026<br>
-      <a href="https://visionary-laboratory.github.io/PhotoFlow/" target="_blank">project</a> /
-      <a href="https://arxiv.org/abs/2605.23771" target="_blank">arXiv</a> /
-      <a href="https://github.com/Visionary-Laboratory/PhotoFlow" target="_blank">code</a>
     </td>
   </tr>
 
@@ -176,17 +197,6 @@ redirect_from:
     </td>
   </tr>
   -->
-
-<tr>
-      <td class="publication-entry">
-        <b>Segment and Select: Vision-Language Segmentation in 3D Scenarios</b>
-      <br>
-      <span class="publication-author">Yulin Chen,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yuenan Hou</span>
-      <br>
-      <em>arXiv</em>, 2026<br>
-      <a href="https://arxiv.org/abs/2606.10594" target="_blank">arXiv</a>
-    </td>
-  </tr>
 
 <!--
   <tr>
@@ -259,6 +269,19 @@ redirect_from:
 
 <tr>
       <td class="publication-entry">
+        <b>SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation</b>
+      <br>
+      <span class="publication-author">Xiaolong Zhou,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Ziyang Gong,</span> <span class="publication-author">Jiarui Li,</span> <span class="publication-author">Qiyue Zhao,</span> <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Le Ma,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Hongjie Zhang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
+      <br>
+      <em>arXiv</em>, 2026<br>
+      <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">project</a> /
+      <a href="https://arxiv.org/abs/2605.22536" target="_blank">arXiv</a> /
+      <a href="https://github.com/Visionary-Laboratory/SpaceDG" target="_blank">code</a>
+    </td>
+  </tr>
+
+<tr>
+      <td class="publication-entry">
         <b>Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports</b>
       <br>
       <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Yuqing Shao,</span> <span class="publication-author">Duxiu Huang,</span> <span class="publication-author">Linfeng Dong,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Suixin Tang,</span> <span class="publication-author">Xiang Zhou,</span> <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Yue Zhou,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Yanfeng Wang,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
@@ -306,19 +329,7 @@ redirect_from:
     </td>
   </tr>
 
-<!--
-  <tr>
-      <td class="publication-entry">
-        <b>RISE-Video: Can Video Generators Decode Implicit World Rules?</b>
-      <br>
-      <span class="publication-author">Mingxin Liu,</span> <span class="publication-author">Shuran Ma,</span> <span class="publication-author">Shibei Meng,</span> <span class="publication-author">Xiangyu Zhao,</span> <span class="publication-author">Zicheng Zhang,</span> <span class="publication-author">Shaofeng Zhang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Peixian Chen,</span> <span class="publication-author">Haoyu Cao,</span> <span class="publication-author">Xing Sun,</span> <span class="publication-author">Haodong Duan,</span> <span class="publication-author">Xue Yang</span>
-      <br>
-      <em>arXiv</em>, 2026 <br>
-      <a href="https://arxiv.org/abs/2602.05986" target="_blank">arXiv</a> /
-      <a href="https://github.com/VisionXLab/Rise-Video" target="_blank">code</a>
-    </td>
-  </tr>
-  -->
+
 
 <tr>
       <td class="publication-entry">
