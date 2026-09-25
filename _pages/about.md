@@ -133,7 +133,7 @@ redirect_from:
       <br>
       <span class="publication-author">Jiarui Guo,</span> <span class="publication-author">Haojia Wei,</span> <span class="publication-author">Yiming Zhang,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Hongjie Zhang,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
-      <em>NeurIPS</em>, 2026<br>
+      <em><a class="publication-venue" href="https://neurips.cc/Conferences/2026" target="_blank" rel="noopener noreferrer">NeurIPS</a></em>, 2026<br>
       <a href="https://visionary-laboratory.github.io/PhotoFlow/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2605.23771" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/PhotoFlow" target="_blank">code</a>
@@ -146,7 +146,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yulin Chen,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yuenan Hou</span>
       <br>
-      <em>NeurIPS</em>, 2026<br>
+      <em><a class="publication-venue" href="https://neurips.cc/Conferences/2026" target="_blank" rel="noopener noreferrer">NeurIPS</a></em>, 2026<br>
       <a href="https://arxiv.org/abs/2606.10594" target="_blank">arXiv</a>
     </td>
   </tr>
@@ -157,7 +157,7 @@ redirect_from:
       <br>
       <span class="publication-author">Fei Lin,</span> <span class="publication-author">Tengchao Zhang,</span> <span class="publication-author">Ziyang Gong,</span> <span class="publication-author">Xiaotong Yu,</span> <span class="publication-author">Bohan Zhang,</span> <span class="publication-author">Yifan Zhou,</span> <span class="publication-author">Qihao Yang,</span> <span class="publication-author">Ji Dai,</span> <span class="publication-author">Dong Li,</span> <span class="publication-author">Yining Jiang,</span> <span class="publication-author">Qinghua Ni,</span> <span class="publication-author">Jun Huang,</span> <span class="publication-author">Qiang Zhang,</span> <span class="publication-author">Yue Zhou,</span> <span class="publication-author">Yonglin Tian,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Fei-Yue Wang</span>
       <br>
-      <em>NeurIPS</em>, 2026, <em class="publication-award">Spotlight</em>
+      <em><a class="publication-venue" href="https://neurips.cc/Conferences/2026" target="_blank" rel="noopener noreferrer">NeurIPS</a></em>, 2026, <em class="publication-award">Spotlight</em>
     </td>
   </tr>
 
@@ -167,7 +167,7 @@ redirect_from:
       <br>
       <span class="publication-author">Mingxin Liu,</span> <span class="publication-author">Shuran Ma,</span> <span class="publication-author">Shibei Meng,</span> <span class="publication-author">Xiangyu Zhao,</span> <span class="publication-author">Zicheng Zhang,</span> <span class="publication-author">Shaofeng Zhang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Peixian Chen,</span> <span class="publication-author">Haoyu Cao,</span> <span class="publication-author">Xing Sun,</span> <span class="publication-author">Haodong Duan,</span> <span class="publication-author">Xue Yang</span>
       <br>
-      <em>NeurIPS</em>, 2026 <br>
+      <em><a class="publication-venue" href="https://neurips.cc/Conferences/2026" target="_blank" rel="noopener noreferrer">NeurIPS</a></em>, 2026 <br>
       <a href="https://arxiv.org/abs/2602.05986" target="_blank">arXiv</a> /
       <a href="https://github.com/VisionXLab/Rise-Video" target="_blank">code</a>
     </td>
@@ -249,7 +249,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Hao Li,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Xinhao Ji,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Yuanjun Liao,</span> <span class="publication-author">Fangfu Liu,</span> <span class="publication-author">Manyuan Zhang,</span> <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Dan Xu,</span> <span class="publication-author">Xue Yang,</span> <span class="publication-author">Huaxi Huang,</span> <span class="publication-author">Hongjie Zhang,</span> <span class="publication-author">Ziwei Liu,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Dingwen Zhang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
-      <em>ICML</em>, 2026, <em class="publication-award">Oral</em><br>
+      <em><a class="publication-venue" href="https://icml.cc/Conferences/2026" target="_blank" rel="noopener noreferrer">ICML</a></em>, 2026, <em class="publication-award">Oral</em><br>
       <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2603.07660" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/holi-spatial" target="_blank">code</a>
@@ -262,7 +262,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yangfu Li,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Hongjian Zhan<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Teng Li,</span> <span class="publication-author">Yuanhuiyi Lyu,</span> <span class="publication-author">Tianyi Chen,</span> <span class="publication-author">Qi Liu,</span> <span class="publication-author">Ziyuan Huang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Dandan Zheng,</span> <span class="publication-author">Yue Lu</span>
       <br>
-      <em>ICML</em>, 2026 <br>
+      <em><a class="publication-venue" href="https://icml.cc/Conferences/2026" target="_blank" rel="noopener noreferrer">ICML</a></em>, 2026 <br>
       <a href="https://arxiv.org/abs/2605.02730v1" target="_blank">arXiv</a>
     </td>
   </tr>
@@ -311,7 +311,7 @@ redirect_from:
       <br>
       <span class="publication-author">Mingxin Liu,</span> <span class="publication-author">Ziqian Fan,</span> <span class="publication-author">Zhaokai Wang,</span> <span class="publication-author">Leyao Gu,</span> <span class="publication-author">Zirun Zhu,</span> <span class="publication-author">Yiguo He,</span> <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Changyao Tian,</span> <span class="publication-author">Xiangyu Zhao,</span> <span class="publication-author">Ning Liao,</span> <span class="publication-author">Shaofeng Zhang,</span> <span class="publication-author">Qibing Ren,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xuanhe Zhou,</span> <span class="publication-author">Junchi Yan,</span> <span class="publication-author">Xue Yang</span>
       <br>
-      <em>ECCV</em>, 2026, <em class="publication-award">Spotlight</em><br>
+      <em><a class="publication-venue" href="https://eccv.ecva.net/Conferences/2026" target="_blank" rel="noopener noreferrer">ECCV</a></em>, 2026, <em class="publication-award">Spotlight</em><br>
       <a href="https://grade-bench.github.io/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2603.12264" target="_blank">arXiv</a> /
       <a href="https://github.com/VisionXLab/GRADE" target="_blank">code</a>
@@ -324,7 +324,7 @@ redirect_from:
       <br>
       <span class="publication-author">Mengshun Hu,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Yansheng Qiu,</span> <span class="publication-author">Zheng Wang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Xiao Sun</span>
       <br>
-      <em>ECCV</em>, 2026 <br>
+      <em><a class="publication-venue" href="https://eccv.ecva.net/Conferences/2026" target="_blank" rel="noopener noreferrer">ECCV</a></em>, 2026 <br>
       <a href="https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/9736.pdf" target="_blank" rel="noopener noreferrer">paper</a>
     </td>
   </tr>
@@ -337,7 +337,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Jingfeng Li,</span> <span class="publication-author">Dan Xu,</span> <span class="publication-author">Yanchi Zhang,</span> <span class="publication-author">Dingwen Zhang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
       <br>
-      <em>CVPR</em>, 2026, <em class="publication-award">Oral, Best Paper Candidate</em> 🎖️<br>
+      <em><a class="publication-venue" href="https://cvpr.thecvf.com/Conferences/2026" target="_blank" rel="noopener noreferrer">CVPR</a></em>, 2026, <em class="publication-award">Oral, Best Paper Candidate</em> 🎖️<br>
       <a href="https://visionary-laboratory.github.io/Proxy-GS/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2509.24421" target="_blank">arXiv</a> /
       <a href="https://github.com/Visionary-Laboratory/Proxy-GS" target="_blank">code</a>
@@ -350,7 +350,7 @@ redirect_from:
       <br>
       <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author">Zhuoxiao Li,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>CVPR</em>, 2026 <br>
+      <em><a class="publication-venue" href="https://cvpr.thecvf.com/Conferences/2026" target="_blank" rel="noopener noreferrer">CVPR</a></em>, 2026 <br>
       <a href="https://www.arxiv.org/abs/2411.16758" target="_blank">arXiv</a> /
       <a href="https://github.com/MyNiuuu/BAGA" target="_blank">code</a>
     </td>
@@ -362,7 +362,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yiming Zhang,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Yu Qiao,</span> <span class="publication-author">Gurunandan Krishnan,</span> <span class="publication-author">Sizhuo Ma,</span> <span class="publication-author">Jian Wang</span>
       <br>
-      <em>TPAMI</em>, 2026
+      <em><a class="publication-venue" href="https://www.computer.org/csdl/journal/tp" target="_blank" rel="noopener noreferrer">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</a></em>, 2026
       <br>
       <a href="https://ieeexplore.ieee.org/abstract/document/11408249/" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2311.08007v3" target="_blank">arXiv</a> /
@@ -376,7 +376,7 @@ redirect_from:
       <br>
       <span class="publication-author">Linfeng Dong,</span> <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Hao Wu,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Yuenan Hou,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
-      <em>AAAI</em>, 2026, <em class="publication-award">Oral</em><br>
+      <em><a class="publication-venue" href="https://aaai.org/conference/aaai/aaai-26/" target="_blank" rel="noopener noreferrer">AAAI</a></em>, 2026, <em class="publication-award">Oral</em><br>
       <a href="https://arxiv.org/abs/2511.17045" target="_blank">arXiv</a> /
       <a href="https://github.com/OrcustD/RacketVision" target="_blank">code</a>
     </td>
@@ -388,7 +388,7 @@ redirect_from:
       <br>
       <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author">Mingze Ma,</span> <span class="publication-author">Jiancheng Zhao,</span> <span class="publication-author">Yanhong Zeng,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>ACM MM</em>, 2026 <br>
+      <em><a class="publication-venue" href="https://www.acmmm.org/2026/" target="_blank" rel="noopener noreferrer">ACM MM</a></em>, 2026 <br>
       <a href="https://myniuuu.github.io/AniCrafter/" target="_blank">project</a> /
       <a href="https://www.arxiv.org/abs/2505.20255" target="_blank">arXiv</a> /
       <a href="https://github.com/MyNiuuu/AniCrafter" target="_blank">code</a>
@@ -401,7 +401,7 @@ redirect_from:
       <br>
       <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Mingze Ma,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Wei Guo,</span> <span class="publication-author">Chang Wen Chen,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>ACM MM</em>, 2026 <br>
+      <em><a class="publication-venue" href="https://www.acmmm.org/2026/" target="_blank" rel="noopener noreferrer">ACM MM</a></em>, 2026 <br>
       <a href="https://arxiv.org/abs/2607.29684" target="_blank" rel="noopener noreferrer">arXiv</a> /
       <a href="https://github.com/MyNiuuu/3DarkFusion" target="_blank" rel="noopener noreferrer">code</a>
     </td>
@@ -413,7 +413,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Xuanyi Liu,</span> <span class="publication-author">Xing Gao,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Weiyao Lin,</span> <span class="publication-author">Xiao Sun</span>
       <br>
-      <em>TCSVT</em>, 2026
+      <em><a class="publication-venue" href="https://ieee-cas.org/publication/tcsvt" target="_blank" rel="noopener noreferrer">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</a></em>, 2026
       <br>
       <a href="https://ieeexplore.ieee.org/document/11703673" target="_blank" rel="noopener noreferrer">paper</a>
     </td>
@@ -446,7 +446,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Hao Li,</span> <span class="publication-author">Jiaqi Chen,</span> <span class="publication-author">Zhengyu Zou,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Dingwen Zhang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Junwei Han</span>
       <br>
-      <em>ICCV</em>, 2025 <br>
+      <em><a class="publication-venue" href="https://iccv.thecvf.com/Conferences/2025" target="_blank" rel="noopener noreferrer">ICCV</a></em>, 2025 <br>
       <a href="https://lifuguan.github.io/CityGS-X/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2503.23044" target="_blank">arXiv</a> /
       <a href="https://github.com/gyy456/CityGS-X" target="_blank">code</a>
@@ -459,7 +459,7 @@ redirect_from:
       <br>
       <span class="publication-author">Wangze Xu,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
-      <em>ICCV</em>, 2025 <br>
+      <em><a class="publication-venue" href="https://iccv.thecvf.com/Conferences/2025" target="_blank" rel="noopener noreferrer">ICCV</a></em>, 2025 <br>
       <a href="https://zezeaaa.github.io/projects/SeqAvatar/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2411.16768" target="_blank">arXiv</a> /
       <a href="https://github.com/zezeaaa/SeqAvatar" target="_blank">code</a>
@@ -472,7 +472,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Qingtian Zhu,</span> <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Mingze Ma,</span> <span class="publication-author">Jiancheng Zhao,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Yu Qiao,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>ICCV</em>, 2025 <br>
+      <em><a class="publication-venue" href="https://iccv.thecvf.com/Conferences/2025" target="_blank" rel="noopener noreferrer">ICCV</a></em>, 2025 <br>
       <a href="https://arxiv.org/abs/2410.08082" target="_blank">arXiv</a> /
       <a href="https://github.com/Yifever20002/ToMiE" target="_blank">code</a>
     </td>
@@ -484,7 +484,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yifei Liu,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Sheng Xu,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
-      <em>CVPR</em>, 2025 <br>
+      <em><a class="publication-venue" href="https://cvpr.thecvf.com/Conferences/2025" target="_blank" rel="noopener noreferrer">CVPR</a></em>, 2025 <br>
       <a href="https://maskgaussian.github.io/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2412.20522" target="_blank">arXiv</a> /
       <a href="https://github.com/kaikai23/maskgaussian" target="_blank">code</a>
@@ -497,7 +497,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yiming Zhang,</span> <span class="publication-author">Zhe Wang,</span> <span class="publication-author">Sizhuo Ma,</span> <span class="publication-author">Xinjie Li,</span> <span class="publication-author">Jian Ren,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Jian Wang<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></span>
       <br>
-      <em>ICCP</em>, 2025 <br>
+      <em><a class="publication-venue" href="https://iccp2025.iccp-conference.org/" target="_blank" rel="noopener noreferrer">ICCP</a></em>, 2025 <br>
       <a href="https://arxiv.org/abs/2404.03642" target="_blank">arXiv</a>
     </td>
   </tr>
@@ -556,7 +556,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yutong Chen,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong>,</span> <span class="publication-author">Wei Wang,</span> <span class="publication-author">Xiao Sun<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup>,</span> <span class="publication-author">Yu Qiao,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>ECCV</em>, 2024 <br>
+      <em><a class="publication-venue" href="https://eccv.ecva.net/Conferences/2024" target="_blank" rel="noopener noreferrer">ECCV</a></em>, 2024 <br>
       <a href="http://ai4sports.opengvlab.com/Dyco" target="_blank">project</a> / 
       <a href="https://arxiv.org/abs/2403.19160" target="_blank">arXiv</a> /
       <a href="https://github.com/Yifever20002/Dyco" target="_blank">code</a>
@@ -569,7 +569,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Gurunandan Krishnan,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Yu Qiao,</span> <span class="publication-author">Sizhuo Ma,</span> <span class="publication-author">Jian Wang</span>
       <br>
-      <em>ECCV</em>, 2024, <em class="publication-award">Oral</em>
+      <em><a class="publication-venue" href="https://eccv.ecva.net/Conferences/2024" target="_blank" rel="noopener noreferrer">ECCV</a></em>, 2024, <em class="publication-award">Oral</em>
       <br>
       <a href="https://zzh-tech.github.io/InterpAny-Clearer/" target="_blank">project</a> /
       <a href="https://arxiv.org/abs/2311.08007v2" target="_blank">arXiv</a> /
@@ -582,7 +582,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Zhuoxiao Li,</span> <span class="publication-author">Muyao Niu,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Shohei Nobuhara,</span> <span class="publication-author">Ko Nishino,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>ECCV</em>, 2024
+      <em><a class="publication-venue" href="https://eccv.ecva.net/Conferences/2024" target="_blank" rel="noopener noreferrer">ECCV</a></em>, 2024
       <br>
       <a href="https://arxiv.org/abs/2407.13185" target="_blank">arXiv</a> /
       <a href="https://github.com/Yifever20002/KFD-NeRF" target="_blank">code</a>
@@ -595,7 +595,7 @@ redirect_from:
       <br>
       <span class="publication-author">Mengshun Hu,</span> <span class="publication-author">Kui Jiang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Zheng Wang,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>CVPR</em>, 2024
+      <em><a class="publication-venue" href="https://cvpr.thecvf.com/Conferences/2024" target="_blank" rel="noopener noreferrer">CVPR</a></em>, 2024
       <br>
       <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Hu_IQ-VFI_Implicit_Quadratic_Motion_Estimation_for_Video_Frame_Interpolation_CVPR_2024_paper.html" target="_blank">paper</a>
     </td>
@@ -607,7 +607,7 @@ redirect_from:
       <br>
       <span class="publication-author">Zhuoxiao Li,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Shohei Nobuhara,</span> <span class="publication-author">Ko Nishino,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>CVPR</em>, 2024
+      <em><a class="publication-venue" href="https://cvpr.thecvf.com/Conferences/2024" target="_blank" rel="noopener noreferrer">CVPR</a></em>, 2024
       <br>
       <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Li_Fooling_Polarization-Based_Vision_using_Locally_Controllable_Polarizing_Projection_CVPR_2024_paper.html" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2303.17890" target="_blank">arXiv</a>
@@ -627,7 +627,7 @@ redirect_from:
       <br>
       <span class="publication-author">Muyao Niu,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>ICCV</em>, 2023
+      <em><a class="publication-venue" href="https://iccv2023.thecvf.com/" target="_blank" rel="noopener noreferrer">ICCV</a></em>, 2023
       <br>
       <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Niu_NIR-assisted_Video_Enhancement_via_Unpaired_24-hour_Data_ICCV_2023_paper.html" target="_blank">paper</a> /
       <a href="https://github.com/MyNiuuu/NVEU" target="_blank">code</a>
@@ -640,7 +640,7 @@ redirect_from:
       <br>
       <span class="publication-author">Xiang Ji,</span> <span class="publication-author">Zhixiang Wang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>ICCV</em>, 2023
+      <em><a class="publication-venue" href="https://iccv2023.thecvf.com/" target="_blank" rel="noopener noreferrer">ICCV</a></em>, 2023
       <br>
       <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Rethinking_Video_Frame_Interpolation_from_Shutter_Mode_Induced_Degradation_ICCV_2023_paper.html" target="_blank">paper</a> /
       <a href="https://github.com/jixiang2016/PMBNet" target="_blank">code</a>
@@ -666,7 +666,7 @@ redirect_from:
       <br>
       <span class="publication-author">Guixu Lin,</span> <span class="publication-author">Jin Han,</span> <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>ACM MM</em>, 2023
+      <em><a class="publication-venue" href="https://www.acmmm2023.org/" target="_blank" rel="noopener noreferrer">ACM MM</a></em>, 2023
       <br>
       <a href="https://dl.acm.org/doi/10.1145/3581783.3612093" target="_blank">paper</a>
     </td>
@@ -678,7 +678,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author">Xiang Ji,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Imari Sato</span>
       <br>
-      <em>CVPR</em>, 2023
+      <em><a class="publication-venue" href="https://cvpr.thecvf.com/Conferences/2023" target="_blank" rel="noopener noreferrer">CVPR</a></em>, 2023
       <br>
       <a href="https://zzh-tech.github.io/BiT/" target="_blank">project</a> /
       <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Zhong_Blur_Interpolation_Transformer_for_Real-World_Motion_From_Blur_CVPR_2023_paper.html" target="_blank">paper</a> /
@@ -694,7 +694,7 @@ redirect_from:
       <br>
       <span class="publication-author">Muyao Niu,</span> <span class="publication-author">Zhuoxiao Li,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng</span>
       <br>
-      <em>CVPR</em>, 2023
+      <em><a class="publication-venue" href="https://cvpr.thecvf.com/Conferences/2023" target="_blank" rel="noopener noreferrer">CVPR</a></em>, 2023
       <br>
       <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Niu_Visibility_Constrained_Wide-Band_Illumination_Spectrum_Design_for_Seeing-in-the-Dark_CVPR_2023_paper.html" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2303.11642" target="_blank">arXiv</a> /
@@ -715,7 +715,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Zhirong Wu,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Stephen Lin,</span> <span class="publication-author">Imari Sato</span>
       <br>
-      <em>ECCV</em>, 2022
+      <em><a class="publication-venue" href="https://eccv2022.ecva.net/" target="_blank" rel="noopener noreferrer">ECCV</a></em>, 2022
       <br>
       <a href="https://zzh-tech.github.io/Animation-from-Blur/" target="_blank">project</a> /
       <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7210_ECCV_2022_paper.php" target="_blank">paper</a> /
@@ -731,7 +731,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author">Zhirong Wu,</span> <span class="publication-author">Zhongyi Zhou,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Stephen Lin,</span> <span class="publication-author">Imari Sato</span>
       <br>
-      <em>ECCV</em>, 2022, <em class="publication-award">Oral</em>
+      <em><a class="publication-venue" href="https://eccv2022.ecva.net/" target="_blank" rel="noopener noreferrer">ECCV</a></em>, 2022, <em class="publication-award">Oral</em>
       <br>
       <a href="https://zzh-tech.github.io/Dual-Reversed-RS/" target="_blank">project</a> /
       <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4547_ECCV_2022_paper.php" target="_blank">paper</a> /
@@ -746,7 +746,7 @@ redirect_from:
       <br>
       <span class="publication-author">Yusheng Wang,</span> <span class="publication-author">Yunfan Lu,</span> <span class="publication-author">Ye Gao,</span> <span class="publication-author">Lin Wang,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Atsushi Yamashita</span>
       <br>
-      <em>ECCV</em>, 2022
+      <em><a class="publication-venue" href="https://eccv2022.ecva.net/" target="_blank" rel="noopener noreferrer">ECCV</a></em>, 2022
       <br>
       <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5697_ECCV_2022_paper.php" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2207.13374" target="_blank">arXiv</a> / 
@@ -774,7 +774,7 @@ redirect_from:
       <br>
       <span class="publication-author">Mingdeng Cao,</span> <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Jiahao Wang,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Yujiu Yang</span>
       <br>
-      <em>CVPR</em>, 2022
+      <em><a class="publication-venue" href="https://cvpr2022.thecvf.com/" target="_blank" rel="noopener noreferrer">CVPR</a></em>, 2022
       <br>
       <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Cao_Learning_Adaptive_Warping_for_Real-World_Rolling_Shutter_Correction_CVPR_2022_paper.html" target="_blank">paper</a> / 
       <a href="https://arxiv.org/abs/2204.13886" target="_blank">arXiv</a> / 
@@ -788,7 +788,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Ye Gao,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Bo Zheng,</span> <span class="publication-author">Imari Sato</span>
       <br>
-      <em>International Journal of Computer Vision (IJCV)</em>, 2022  
+      <em><a class="publication-venue" href="https://link.springer.com/journal/11263" target="_blank" rel="noopener noreferrer">International Journal of Computer Vision (IJCV)</a></em>, 2022
       <br>
       <a href="https://link.springer.com/article/10.1007/s11263-022-01705-6" target="_blank">paper</a> / 
       <a href="https://arxiv.org/abs/2106.16028" target="_blank">arXiv</a> /
@@ -809,7 +809,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Imari Sato</span>
       <br>
-      <em>CVPR</em>, 2021
+      <em><a class="publication-venue" href="https://cvpr2021.thecvf.com/" target="_blank" rel="noopener noreferrer">CVPR</a></em>, 2021
       <br>
       <a href="https://openaccess.thecvf.com/content/CVPR2021/html/Zhong_Towards_Rolling_Shutter_Correction_and_Deblurring_in_Dynamic_Scenes_CVPR_2021_paper.html" target="_blank">paper</a> / 
       <a href="https://arxiv.org/abs/2104.01601" target="_blank">arXiv</a> / 
@@ -823,7 +823,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Chingszu Lin,</span> <span class="publication-author">Masako Kanai-Pak,</span> <span class="publication-author">Jukai Maeda,</span> <span class="publication-author">Yasuko Kitajima,</span> <span class="publication-author">Mitsuhiro Nakamura,</span> <span class="publication-author">Noriaki Kuwahara,</span> <span class="publication-author">Taiki Ogata,</span> <span class="publication-author">Jun Ota</span>
       <br>
-      <em>IEEE Internet of Things Journal (IoTJ)</em>, 2021  
+      <em><a class="publication-venue" href="https://ieee-iotj.org/" target="_blank" rel="noopener noreferrer">IEEE Internet of Things Journal (IoTJ)</a></em>, 2021
       <br>
       <a href="https://ieeexplore.ieee.org/document/9415629" target="_blank">paper</a> / 
       <a href="https://github.com/zzh-tech/Continuous-Action-Detection" target="_blank">code</a>  
@@ -855,7 +855,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Ye Gao,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Bo Zheng</span>
       <br>
-      <em>ECCV</em>, 2020, <em class="publication-award">Spotlight</em>
+      <em><a class="publication-venue" href="https://eccv2020.eu/" target="_blank" rel="noopener noreferrer">ECCV</a></em>, 2020, <em class="publication-award">Spotlight</em>
       <br>
       <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5116_ECCV_2020_paper.php" target="_blank">paper</a> /
       <a href="https://arxiv.org/abs/2106.16028" target="_blank">arXiv</a> /
@@ -869,7 +869,7 @@ redirect_from:
       <br>
       <span class="publication-author"><strong>Zhihang Zhong</strong>,</span> <span class="publication-author">Chingszu Lin,</span> <span class="publication-author">Taiki Ogata,</span> <span class="publication-author">Jun Ota</span>
       <br>
-      <em>IUI</em>, 2020
+      <em><a class="publication-venue" href="https://iui.acm.org/2020/" target="_blank" rel="noopener noreferrer">IUI</a></em>, 2020
       <br>
       <a href="https://dl.acm.org/doi/abs/10.1145/3377325.3377530" target="_blank">paper</a>
     </td>
