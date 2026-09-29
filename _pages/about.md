@@ -30,15 +30,16 @@ redirect_from:
 ## News
 
 <ul class="news-list">
+  <li><time datetime="2026-09">2026.09</time><div>MaskGaussian++ is accepted to TPAMI!</div></li>
   <li><time datetime="2026-09">2026.09</time><div>Four papers (one <strong class="news-award">Spotlight</strong>) are accepted to NeurIPS 2026!</div></li>
   <li><time datetime="2026-09">2026.09</time><div>I am appointed as an Area Chair for ICLR.</div></li>
   <li><time datetime="2026-07">2026.07</time><div>I am appointed as a Senior Program Committee member for AAAI.</div></li>
   <li><time datetime="2026-07">2026.07</time><div>Two papers are accepted to ACM MM 2026.</div></li>
-  <li><time datetime="2026-06">2026.06</time><div>Two papers (one <strong class="news-award">Spotlight</strong>) are accepted to ECCV 2026!</div></li>
 </ul>
 <details class="news-archive">
 <summary><span class="news-expand-label">More news</span><span class="news-collapse-label">Less news</span></summary>
 <ul class="news-list">
+  <li><time datetime="2026-06">2026.06</time><div>Two papers (one <strong class="news-award">Spotlight</strong>) are accepted to ECCV 2026!</div></li>
   <li><time datetime="2026-05">2026.05</time><div>We release <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">SpaceDG</a>, the first benchmark for Spatial Intelligence under visual degradations!</div></li>
   <li><time datetime="2026-05">2026.05</time><div>Two papers (one <strong class="news-award">Oral</strong>: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026!</div></li>
   <li><time datetime="2026-03">2026.03</time><div>We release <a href="https://visionary-laboratory.github.io/CourtSI/" target="_blank">CourtSI</a>, the first benchmark for Sports Spatial Intelligence!</div></li>
@@ -127,6 +128,16 @@ redirect_from:
 <summary><span class="publication-year-label">2026</span></summary>
 <table class="publications-table">
 <tbody>
+<tr>
+      <td class="publication-entry">
+        <b>MaskGaussian++: Probabilistic Masks for General 3D Gaussian Representation</b>
+      <br>
+      <span class="publication-author">Yifei Liu,</span> <span class="publication-author">Yuanyuan Gao,</span> <span class="publication-author">Yifan Zhan,</span> <span class="publication-author">Sheng Xu,</span> <span class="publication-author">Yuning Gong,</span> <span class="publication-author">Jiaqi Chen,</span> <span class="publication-author">Yuchen Yang,</span> <span class="publication-author">Dingwen Zhang,</span> <span class="publication-author">Yinqiang Zheng,</span> <span class="publication-author">Xiao Sun,</span> <span class="publication-author"><strong>Zhihang Zhong<sup class="corresponding-author" role="img" aria-label="Corresponding author" title="Corresponding author"><i class="fas fa-envelope" aria-hidden="true"></i></sup></strong></span>
+      <br>
+      <em><a class="publication-venue" href="https://www.computer.org/csdl/journal/tp" target="_blank" rel="noopener noreferrer">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</a></em>, 2026
+    </td>
+  </tr>
+
 <tr>
       <td class="publication-entry">
         <b>PhotoFlow: Agentic 3D Virtual Photography Missions</b>
