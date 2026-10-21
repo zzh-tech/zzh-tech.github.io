@@ -30,15 +30,16 @@ redirect_from:
 ## News
 
 <ul class="news-list">
+  <li><time datetime="2026-10">2026.10</time><div>I will serve as an Area Chair for ICML.</div></li>
   <li><time datetime="2026-09">2026.09</time><div>MaskGaussian++ is accepted to TPAMI!</div></li>
   <li><time datetime="2026-09">2026.09</time><div>Four papers (one <strong class="news-award">Spotlight</strong>) are accepted to NeurIPS 2026!</div></li>
-  <li><time datetime="2026-09">2026.09</time><div>I am appointed as an Area Chair for ICLR.</div></li>
-  <li><time datetime="2026-07">2026.07</time><div>I am appointed as a Senior Program Committee member for AAAI.</div></li>
-  <li><time datetime="2026-07">2026.07</time><div>Two papers are accepted to ACM MM 2026.</div></li>
+  <li><time datetime="2026-09">2026.09</time><div>I will serve as an Area Chair for ICLR.</div></li>
+  <li><time datetime="2026-07">2026.07</time><div>I will serve as a Senior Program Committee member for AAAI.</div></li>
 </ul>
 <details class="news-archive">
 <summary><span class="news-expand-label">More news</span><span class="news-collapse-label">Less news</span></summary>
 <ul class="news-list">
+  <li><time datetime="2026-07">2026.07</time><div>Two papers are accepted to ACM MM 2026.</div></li>
   <li><time datetime="2026-06">2026.06</time><div>Two papers (one <strong class="news-award">Spotlight</strong>) are accepted to ECCV 2026!</div></li>
   <li><time datetime="2026-05">2026.05</time><div>We release <a href="https://visionary-laboratory.github.io/SpaceDG/" target="_blank">SpaceDG</a>, the first benchmark for Spatial Intelligence under visual degradations!</div></li>
   <li><time datetime="2026-05">2026.05</time><div>Two papers (one <strong class="news-award">Oral</strong>: <a href="https://visionary-laboratory.github.io/holi-spatial/" target="_blank">Holi-Spatial</a>) are accepted to ICML 2026!</div></li>
